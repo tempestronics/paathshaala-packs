@@ -1,0 +1,36 @@
+{
+  "format": "paath/1",
+  "id": "ktbs.class9.science.ch2",
+  "version": "1.0.0",
+  "title": "ch2.title",
+  "blurb": "ch2.drivingQuestion",
+  "subject": "Science",
+  "level": "Class 9",
+  "source": "Karnataka Textbook Society, 2026-27, Part 1",
+  "author": {
+    "name": "Paathshaala",
+    "url": "https://paathshaala.org"
+  },
+  "licence": "CC-BY-4.0",
+  "languages": [
+    "en",
+    "kn"
+  ],
+  "defaultLanguage": "en",
+  "estimatedMinutes": 195,
+  "requires": {
+    "minPlayer": 1,
+    "artifactTypes": [
+      "calculate",
+      "challenge",
+      "classifyTree",
+      "experiment",
+      "explainer",
+      "lab",
+      "quiz",
+      "solubilityLab",
+      "sortBins",
+      "zoomScale"
+    ]
+  }
+}
