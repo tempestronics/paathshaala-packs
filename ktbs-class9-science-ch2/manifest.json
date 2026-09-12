@@ -2,8 +2,8 @@
   "format": "paath/1",
   "id": "ktbs.class9.science.ch2",
   "version": "1.0.0",
-  "title": "ch2.title",
-  "blurb": "ch2.drivingQuestion",
+  "title": "Is Matter Around Us Pure?",
+  "blurb": "Is anything around you actually just one thing?",
   "subject": "Science",
   "level": "Class 9",
   "source": "Karnataka Textbook Society, 2026-27, Part 1",
@@ -17,7 +17,7 @@
     "kn"
   ],
   "defaultLanguage": "en",
-  "estimatedMinutes": 195,
+  "estimatedMinutes": 265,
   "requires": {
     "minPlayer": 1,
     "artifactTypes": [

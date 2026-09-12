@@ -85,7 +85,7 @@
       "section": "s.u1",
       "title": "a.ch2-u1-pureornot-1.title",
       "blurb": "ch2.u1.labels.caption",
-      "minutes": 8,
+      "minutes": 7,
       "wrap": {
         "predict": {
           "prompt": "ch2.u1.predict.prompt",
@@ -118,7 +118,7 @@
       "type": "explainer",
       "section": "s.u1",
       "title": "a.ch2-u1-read-2.title",
-      "minutes": 4,
+      "minutes": 3,
       "sourceRef": "2.0",
       "config": {
         "text": "ch2.u1.definition",
@@ -168,7 +168,7 @@
       "type": "experiment",
       "section": "s.u2",
       "title": "ch2.a1",
-      "minutes": 6,
+      "minutes": 9,
       "sourceRef": "Activity 2.1",
       "config": {
         "equipment": [
@@ -192,7 +192,7 @@
       "section": "s.u2",
       "title": "a.ch2-u2-mixturemaker-2.title",
       "blurb": "ch2.u2.mixturemaker.caption",
-      "minutes": 5,
+      "minutes": 12,
       "wrap": {
         "predict": {
           "prompt": "ch2.u2.predict0.prompt",
@@ -219,7 +219,7 @@
       "type": "experiment",
       "section": "s.u2",
       "title": "ch2.a2",
-      "minutes": 6,
+      "minutes": 9,
       "sourceRef": "Activity 2.2",
       "config": {
         "equipment": [
@@ -244,7 +244,7 @@
       "section": "s.u2",
       "title": "a.ch2-u2-threebeakers-4.title",
       "blurb": "ch2.u2.threeBeakers.caption",
-      "minutes": 5,
+      "minutes": 12,
       "wrap": {
         "predict": {
           "prompt": "ch2.u2.predict.prompt",
@@ -280,7 +280,7 @@
       "type": "explainer",
       "section": "s.u2",
       "title": "a.ch2-u2-read-5.title",
-      "minutes": 2,
+      "minutes": 3,
       "sourceRef": "2.2.3",
       "config": {
         "text": "ch2.u2.tyndall",
@@ -293,7 +293,7 @@
       "section": "s.u2",
       "title": "a.ch2-u2-zoomscale-6.title",
       "blurb": "ch2.u2.zoom.caption",
-      "minutes": 5,
+      "minutes": 10,
       "config": {
         "unlockStops": [
           "suspensionParticle",
@@ -309,7 +309,7 @@
       "section": "s.u2",
       "title": "a.ch2-u2-sort-7.title",
       "blurb": "ch2.u2.sort.prompt",
-      "minutes": 4,
+      "minutes": 11,
       "sourceRef": "Exercise 4 and 7",
       "config": {
         "bins": [
@@ -379,7 +379,7 @@
       "type": "quiz",
       "section": "s.u2",
       "title": "a.ch2-u2-quiz-8.title",
-      "minutes": 2,
+      "minutes": 3,
       "sourceRef": "In-text Q2 (page 28), Exercise 7",
       "breaks": [
         "colloids-settle",
@@ -418,7 +418,7 @@
       "type": "experiment",
       "section": "s.u3",
       "title": "ch2.a3",
-      "minutes": 9,
+      "minutes": 12,
       "sourceRef": "Activity 2.3",
       "config": {
         "equipment": [
@@ -442,7 +442,7 @@
       "section": "s.u3",
       "title": "a.ch2-u3-solubilitylab-2.title",
       "blurb": "ch2.u3.solubility.caption",
-      "minutes": 8,
+      "minutes": 12,
       "wrap": {
         "predict": {
           "prompt": "ch2.u3.predict.prompt",
@@ -475,7 +475,7 @@
       "type": "calculate",
       "section": "s.u3",
       "title": "a.ch2-u3-calc-3.title",
-      "minutes": 11,
+      "minutes": 12,
       "sourceRef": "Example 2.1",
       "config": {
         "items": [
@@ -533,7 +533,7 @@
       "type": "quiz",
       "section": "s.u3",
       "title": "a.ch2-u3-quiz-4.title",
-      "minutes": 2,
+      "minutes": 3,
       "sourceRef": "Exercise 2(b)",
       "breaks": [
         "dissolving-destroys",
@@ -572,7 +572,7 @@
       "type": "explainer",
       "section": "s.u4",
       "title": "a.ch2-u4-read-1.title",
-      "minutes": 4,
+      "minutes": 3,
       "sourceRef": "2.3",
       "config": {
         "text": "ch2.u4.intro",
@@ -585,7 +585,7 @@
       "section": "s.u4",
       "title": "a.ch2-u4-sort-2.title",
       "blurb": "ch2.u4.sort.prompt",
-      "minutes": 8,
+      "minutes": 12,
       "sourceRef": "In-text Q1 (page 29), Exercise 9",
       "config": {
         "bins": [
@@ -663,7 +663,7 @@
       "section": "s.u4",
       "title": "a.ch2-u4-candledual-3.title",
       "blurb": "ch2.u4.candle.caption",
-      "minutes": 10,
+      "minutes": 12,
       "wrap": {
         "predict": {
           "prompt": "ch2.u4.predict.prompt",
@@ -725,7 +725,7 @@
       "section": "s.u5",
       "title": "a.ch2-u5-propertytester-1.title",
       "blurb": "ch2.u5.propertyTester.caption",
-      "minutes": 6,
+      "minutes": 12,
       "wrap": {
         "predict": {
           "prompt": "ch2.u5.predict0.prompt",
@@ -769,7 +769,7 @@
       "type": "experiment",
       "section": "s.u5",
       "title": "ch2.a4",
-      "minutes": 7,
+      "minutes": 12,
       "sourceRef": "Activity 2.4",
       "config": {
         "equipment": [
@@ -793,7 +793,7 @@
       "section": "s.u5",
       "title": "a.ch2-u5-ironsulphurlab-3.title",
       "blurb": "ch2.u5.ironSulphur.caption",
-      "minutes": 6,
+      "minutes": 12,
       "wrap": {
         "predict": {
           "prompt": "ch2.u5.predict.prompt",
@@ -828,7 +828,7 @@
       "type": "explainer",
       "section": "s.u5",
       "title": "a.ch2-u5-read-4.title",
-      "minutes": 2,
+      "minutes": 3,
       "sourceRef": "Table 2.2",
       "config": {
         "text": "ch2.u5.mixtureVsCompound",
@@ -841,7 +841,7 @@
       "section": "s.u5",
       "title": "a.ch2-u5-classifytree-5.title",
       "blurb": "ch2.u5.classifyForward.caption",
-      "minutes": 6,
+      "minutes": 10,
       "config": {
         "tree": "matter",
         "mode": "forward",
@@ -869,7 +869,7 @@
       "section": "s.u5",
       "title": "a.ch2-u5-classifytree-6.title",
       "blurb": "ch2.u5.classifyReverse.caption",
-      "minutes": 6,
+      "minutes": 10,
       "config": {
         "tree": "matter",
         "mode": "reverse",
@@ -882,7 +882,7 @@
       "type": "quiz",
       "section": "s.u5",
       "title": "a.ch2-u5-quiz-7.title",
-      "minutes": 2,
+      "minutes": 3,
       "sourceRef": "Exercise 6 and 8",
       "breaks": [
         "compound-is-well-mixed-mixture",
@@ -922,7 +922,7 @@
       "section": "s.u6",
       "title": "a.ch2-u6-challenge-1.title",
       "blurb": "ch2.u6.challenge.brief",
-      "minutes": 10,
+      "minutes": 20,
       "config": {
         "kind": "build",
         "materials": [
@@ -943,7 +943,7 @@
       "type": "experiment",
       "section": "s.u6",
       "title": "ch2.groupActivity",
-      "minutes": 7,
+      "minutes": 9,
       "sourceRef": "Group Activity (page 35)",
       "config": {
         "equipment": [
@@ -965,7 +965,7 @@
       "section": "s.u6",
       "title": "a.ch2-u6-threebeakers-3.title",
       "blurb": "ch2.u6.clearCheck.caption",
-      "minutes": 6,
+      "minutes": 12,
       "wrap": {
         "predict": {
           "prompt": "ch2.u6.predict.prompt",
@@ -993,7 +993,7 @@
       "type": "quiz",
       "section": "s.u6",
       "title": "a.ch2-u6-quiz-4.title",
-      "minutes": 2,
+      "minutes": 3,
       "sourceRef": "Exercise 5",
       "breaks": [
         "filtering-separates-anything",
@@ -1032,7 +1032,7 @@
       "type": "explainer",
       "section": "s.u7",
       "title": "a.ch2-u7-read-1.title",
-      "minutes": 10,
+      "minutes": 3,
       "optional": true,
       "config": {
         "text": "ch2.u7.notice",
@@ -1045,7 +1045,7 @@
       "section": "s.u7",
       "title": "a.ch2-u7-sort-2.title",
       "blurb": "ch2.u7.sort.prompt",
-      "minutes": 20,
+      "minutes": 5,
       "optional": true,
       "config": {
         "bins": [

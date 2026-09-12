@@ -2,8 +2,8 @@
   "format": "paath/1",
   "id": "ktbs.class9.science.ch1",
   "version": "1.0.0",
-  "title": "ch1.title",
-  "blurb": "ch1.drivingQuestion",
+  "title": "Matter in Our Surroundings",
+  "blurb": "If you keep cutting something in half, what do you end up with?",
   "subject": "Science",
   "level": "Class 9",
   "source": "Karnataka Textbook Society, 2026-27, Part 1",
@@ -17,7 +17,7 @@
     "kn"
   ],
   "defaultLanguage": "en",
-  "estimatedMinutes": 210,
+  "estimatedMinutes": 377,
   "requires": {
     "minPlayer": 1,
     "artifactTypes": [

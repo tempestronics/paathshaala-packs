@@ -261,6 +261,8 @@
   "mis.solidParticlesStatic.statement": "Particles in a solid do not move at all.",
   "mis.temperatureRisesWhileMelting.correction": "It holds flat until the last of the solid is gone, because the energy is breaking particles apart rather than speeding them up.",
   "mis.temperatureRisesWhileMelting.statement": "Temperature keeps climbing while a solid melts.",
+  "pack.blurb": "If you keep cutting something in half, what do you end up with?",
+  "pack.title": "Matter in Our Surroundings",
   "path.guided.blurb": "Every artifact in the order it was designed to be met. Follow it start to finish, or ignore it and pick whatever looks interesting.",
   "path.guided.title": "The full route"
 }
