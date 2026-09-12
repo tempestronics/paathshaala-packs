@@ -148,7 +148,18 @@
         "zoomEnabled": true,
         "showWaterLevel": true,
         "successWhen": "zoomUsed && dissolveComplete"
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch1-u1-dissolvebox-3.saltlimit.q",
+          "answer": "ask.ch1-u1-dissolvebox-3.saltlimit.a",
+          "leadsTo": "ktbs.class9.science.ch2"
+        },
+        {
+          "question": "ask.ch1-u1-dissolvebox-3.levelrise.q",
+          "answer": "ask.ch1-u1-dissolvebox-3.levelrise.a"
+        }
+      ]
     },
     {
       "id": "ch1-u1-do-4",
@@ -182,7 +193,13 @@
         "transferMl": 10,
         "intoMl": 90,
         "showParticleCount": true
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch1-u1-dilutionchain-5.foreverdilute.q",
+          "answer": "ask.ch1-u1-dilutionchain-5.foreverdilute.a"
+        }
+      ]
     },
     {
       "id": "ch1-u1-zoomscale-6",
@@ -303,7 +320,13 @@
         "stirring": false,
         "showGraph": true,
         "successWhen": "bothComplete"
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch1-u2-diffusionrace-3.whyslow.q",
+          "answer": "ask.ch1-u2-diffusionrace-3.whyslow.a"
+        }
+      ]
     },
     {
       "id": "ch1-u2-do-4",
@@ -444,7 +467,13 @@
           "rubber"
         ],
         "showHumanChainAnalogy": true
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch1-u3-bondbreaker-4.whynotclump.q",
+          "answer": "ask.ch1-u3-bondbreaker-4.whynotclump.a"
+        }
+      ]
     },
     {
       "id": "ch1-u3-quiz-5",
@@ -536,7 +565,13 @@
         ],
         "haptics": true,
         "particleView": true
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch1-u4-syringetest-2.squashtonothing.q",
+          "answer": "ask.ch1-u4-syringetest-2.squashtonothing.a"
+        }
+      ]
     },
     {
       "id": "ch1-u4-particlebox-3",
@@ -739,7 +774,17 @@
         "flameControl": true,
         "tappablePlateaus": true,
         "successWhen": "bothPlateausReached && bothPlateausTapped"
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch1-u5-heatingcurve-2.hotterflame.q",
+          "answer": "ask.ch1-u5-heatingcurve-2.hotterflame.a"
+        },
+        {
+          "question": "ask.ch1-u5-heatingcurve-2.getitback.q",
+          "answer": "ask.ch1-u5-heatingcurve-2.getitback.a"
+        }
+      ]
     },
     {
       "id": "ch1-u5-read-3",
@@ -909,7 +954,13 @@
         },
         "revealMapAsExplored": true,
         "successWhen": "allThreeRegionsFound"
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch1-u6-phaseexplorer-1.airnotliquid.q",
+          "answer": "ask.ch1-u6-phaseexplorer-1.airnotliquid.a"
+        }
+      ]
     },
     {
       "id": "ch1-u6-read-2",
@@ -1027,7 +1078,13 @@
         "showTimeToDry": true,
         "boilingPointVisible": false,
         "successWhen": "allFourControlsVaried"
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch1-u7-evaporationlab-2.whynotallgone.q",
+          "answer": "ask.ch1-u7-evaporationlab-2.whynotallgone.a"
+        }
+      ]
     },
     {
       "id": "ch1-u7-challenge-3",
@@ -1067,7 +1124,13 @@
         "mode": "cooling",
         "highlightEscapingParticles": true,
         "showAverageEnergy": true
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch1-u7-coolingexplain-4.coldforever.q",
+          "answer": "ask.ch1-u7-coolingexplain-4.coldforever.a"
+        }
+      ]
     },
     {
       "id": "ch1-u7-quiz-5",
@@ -1128,7 +1191,13 @@
         "requiresJustification": true,
         "successWhen": "waterBelowTarget && roomBelowTarget && allJustified",
         "debrief": "ch1.u8.challenge.debrief"
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch1-u8-challenge-1.humidsweat.q",
+          "answer": "ask.ch1-u8-challenge-1.humidsweat.a"
+        }
+      ]
     },
     {
       "id": "ch1-u8-do-2",

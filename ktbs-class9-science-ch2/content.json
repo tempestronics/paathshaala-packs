@@ -112,7 +112,13 @@
           "copperWire"
         ],
         "successWhen": "bothPassesComplete"
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch2-u1-pureornot-1.distilledwater.q",
+          "answer": "ask.ch2-u1-pureornot-1.distilledwater.a"
+        }
+      ]
     },
     {
       "id": "ch2-u1-read-2",
@@ -276,7 +282,13 @@
         "resultsTable": true,
         "revealParticleSizeAfterTable": true,
         "successWhen": "allNineTestsRun && tableNamed"
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch2-u2-threebeakers-4.milkyear.q",
+          "answer": "ask.ch2-u2-threebeakers-4.milkyear.a"
+        }
+      ]
     },
     {
       "id": "ch2-u2-read-5",
@@ -472,7 +484,13 @@
         ],
         "plotsCurve": true,
         "successWhen": "saturationReached && temperatureVaried"
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch2-u3-solubilitylab-2.infinitesalt.q",
+          "answer": "ask.ch2-u3-solubilitylab-2.infinitesalt.a"
+        }
+      ]
     },
     {
       "id": "ch2-u3-calc-3",
@@ -685,7 +703,14 @@
         "bench": "observation",
         "highlightPhysical": true,
         "highlightChemical": true
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch2-u4-candledual-3.wheredoeswaxgo.q",
+          "answer": "ask.ch2-u4-candledual-3.wheredoeswaxgo.a",
+          "leadsTo": "ktbs.class9.science.ch1"
+        }
+      ]
     },
     {
       "id": "ch2-u4-quiz-4",
@@ -828,7 +853,13 @@
         ],
         "comparisonTable": true,
         "successWhen": "bothPathsAllTests"
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch2-u5-ironsulphurlab-3.unmixit.q",
+          "answer": "ask.ch2-u5-ironsulphurlab-3.unmixit.a"
+        }
+      ]
     },
     {
       "id": "ch2-u5-read-4",
@@ -994,7 +1025,13 @@
           "torch"
         ],
         "resultsTable": false
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch2-u6-threebeakers-3.boilinstead.q",
+          "answer": "ask.ch2-u6-threebeakers-3.boilinstead.a"
+        }
+      ]
     },
     {
       "id": "ch2-u6-quiz-4",
@@ -1084,7 +1121,13 @@
             "why": "ch2.item.waterFromInk.why"
           }
         ]
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch2-u7-sort-2.onemethod.q",
+          "answer": "ask.ch2-u7-sort-2.onemethod.a"
+        }
+      ]
     }
   ],
   "paths": [
