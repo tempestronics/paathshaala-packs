@@ -136,7 +136,8 @@
             "ch1.u1.predict.rise",
             "ch1.u1.predict.fall",
             "ch1.u1.predict.same"
-          ]
+          ],
+          "correct": 2
         },
         "observe": "ch1.u1.observe.prompt",
         "explain": "ch1.u1.observe.explanation"
@@ -288,7 +289,8 @@
             "ch1.u2.predict.cold",
             "ch1.u2.predict.same",
             "ch1.u2.predict.neither"
-          ]
+          ],
+          "correct": 0
         },
         "observe": "ch1.u2.observe.prompt",
         "explain": "ch1.u2.observe.explanation"
@@ -428,7 +430,8 @@
             "ch1.u3.predict.nail",
             "ch1.u3.predict.chalk",
             "ch1.u3.predict.band"
-          ]
+          ],
+          "correct": 0
         },
         "observe": "ch1.u3.observe.prompt",
         "explain": "ch1.u3.observe.explanation"
@@ -518,7 +521,8 @@
             "ch1.u4.predict.water",
             "ch1.u4.predict.chalk",
             "ch1.u4.predict.equal"
-          ]
+          ],
+          "correct": 0
         },
         "observe": "ch1.u4.observe.prompt",
         "explain": "ch1.u4.observe.explanation"
@@ -717,7 +721,8 @@
             "ch1.u5.predict.rises",
             "ch1.u5.predict.flat",
             "ch1.u5.predict.falls"
-          ]
+          ],
+          "correct": 1
         },
         "observe": "ch1.u5.observe.prompt",
         "explain": "ch1.u5.observe.explanation"
@@ -890,7 +895,8 @@
             "ch1.u6.predict.yes",
             "ch1.u6.predict.no",
             "ch1.u6.predict.onlyCooling"
-          ]
+          ],
+          "correct": 0
         },
         "observe": "ch1.u6.observe.prompt",
         "explain": "ch1.u6.observe.explanation"
@@ -1005,7 +1011,8 @@
             "ch1.u7.predict.surfaceArea",
             "ch1.u7.predict.wind",
             "ch1.u7.predict.all"
-          ]
+          ],
+          "correct": 3
         },
         "observe": "ch1.u7.observe.prompt",
         "explain": "ch1.u7.observe.explanation"
@@ -1050,7 +1057,8 @@
             "ch1.u7.predict2.coldAir",
             "ch1.u7.predict2.fastLeave",
             "ch1.u7.predict2.waterCold"
-          ]
+          ],
+          "correct": 1
         },
         "observe": "ch1.u7.observe2.prompt",
         "explain": "ch1.u7.observe2.explanation"

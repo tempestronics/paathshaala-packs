@@ -94,7 +94,8 @@
             "ch2.u1.predict.salt",
             "ch2.u1.predict.mineralWater",
             "ch2.u1.predict.none"
-          ]
+          ],
+          "correct": 3
         },
         "observe": "ch2.u1.observe.prompt",
         "explain": "ch2.u1.observe.explanation"
@@ -200,7 +201,8 @@
             "ch2.u2.predict0.uniform",
             "ch2.u2.predict0.patchy",
             "ch2.u2.predict0.depends"
-          ]
+          ],
+          "correct": 0
         }
       },
       "config": {
@@ -253,7 +255,8 @@
             "ch2.u2.predict.chalkOnly",
             "ch2.u2.predict.chalkAndMilk",
             "ch2.u2.predict.none"
-          ]
+          ],
+          "correct": 1
         },
         "observe": "ch2.u2.observe.prompt",
         "explain": "ch2.u2.observe.explanation"
@@ -450,7 +453,8 @@
             "ch2.u3.predict.moreDissolves",
             "ch2.u3.predict.noChange",
             "ch2.u3.predict.lessDissolves"
-          ]
+          ],
+          "correct": 0
         },
         "observe": "ch2.u3.observe.prompt",
         "explain": "ch2.u3.observe.explanation"
@@ -671,7 +675,8 @@
             "ch2.u4.predict.physical",
             "ch2.u4.predict.chemical",
             "ch2.u4.predict.both"
-          ]
+          ],
+          "correct": 2
         },
         "observe": "ch2.u4.observe.prompt",
         "explain": "ch2.u4.observe.explanation"
@@ -734,7 +739,8 @@
             "ch2.u5.predict0.conductivity",
             "ch2.u5.predict0.hardness",
             "ch2.u5.predict0.colour"
-          ]
+          ],
+          "correct": 1
         }
       },
       "config": {
@@ -802,7 +808,8 @@
             "ch2.u5.predict.neitherMagnetic",
             "ch2.u5.predict.mixedOnly",
             "ch2.u5.predict.heatedOnly"
-          ]
+          ],
+          "correct": 2
         },
         "observe": "ch2.u5.observe.prompt",
         "explain": "ch2.u5.observe.explanation"
@@ -972,7 +979,8 @@
           "options": [
             "ch2.u6.predict.yesPure",
             "ch2.u6.predict.stillMixture"
-          ]
+          ],
+          "correct": 1
         },
         "observe": "ch2.u6.observe.prompt",
         "explain": "ch2.u6.observe.explanation"
