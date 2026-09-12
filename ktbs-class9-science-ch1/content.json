@@ -1208,5 +1208,211 @@
         "ch1-u8-zoomscale-3"
       ]
     }
+  ],
+  "glossary": [
+    {
+      "id": "matter",
+      "definition": "gloss.matter",
+      "seeAlso": [
+        "particle"
+      ]
+    },
+    {
+      "id": "particle",
+      "definition": "gloss.particle",
+      "seeAlso": [
+        "matter"
+      ]
+    },
+    {
+      "id": "diffusion",
+      "definition": "gloss.diffusion",
+      "seeAlso": [
+        "particle"
+      ]
+    },
+    {
+      "id": "kinetic-energy",
+      "definition": "gloss.kinetic-energy"
+    },
+    {
+      "id": "compressible",
+      "definition": "gloss.compressible"
+    },
+    {
+      "id": "rigid",
+      "definition": "gloss.rigid"
+    },
+    {
+      "id": "fluid",
+      "definition": "gloss.fluid"
+    },
+    {
+      "id": "melting-point",
+      "definition": "gloss.melting-point",
+      "seeAlso": [
+        "fusion",
+        "latent-heat"
+      ]
+    },
+    {
+      "id": "boiling-point",
+      "definition": "gloss.boiling-point",
+      "seeAlso": [
+        "evaporation"
+      ]
+    },
+    {
+      "id": "fusion",
+      "definition": "gloss.fusion",
+      "seeAlso": [
+        "melting-point"
+      ]
+    },
+    {
+      "id": "latent-heat",
+      "definition": "gloss.latent-heat",
+      "seeAlso": [
+        "melting-point",
+        "fusion"
+      ]
+    },
+    {
+      "id": "sublimation",
+      "definition": "gloss.sublimation",
+      "seeAlso": [
+        "deposition"
+      ]
+    },
+    {
+      "id": "deposition",
+      "definition": "gloss.deposition",
+      "seeAlso": [
+        "sublimation"
+      ]
+    },
+    {
+      "id": "evaporation",
+      "definition": "gloss.evaporation",
+      "seeAlso": [
+        "boiling-point",
+        "humidity"
+      ]
+    },
+    {
+      "id": "humidity",
+      "definition": "gloss.humidity",
+      "seeAlso": [
+        "evaporation"
+      ]
+    },
+    {
+      "id": "vapour",
+      "definition": "gloss.vapour"
+    },
+    {
+      "id": "condense",
+      "definition": "gloss.condense",
+      "seeAlso": [
+        "vapour"
+      ]
+    },
+    {
+      "id": "atmospheric-pressure",
+      "definition": "gloss.atmospheric-pressure",
+      "seeAlso": [
+        "pressure"
+      ]
+    },
+    {
+      "id": "pressure",
+      "definition": "gloss.pressure"
+    },
+    {
+      "id": "density",
+      "definition": "gloss.density",
+      "seeAlso": [
+        "mass"
+      ]
+    },
+    {
+      "id": "mass",
+      "definition": "gloss.mass",
+      "seeAlso": [
+        "matter"
+      ]
+    },
+    {
+      "id": "volume",
+      "definition": "gloss.volume"
+    },
+    {
+      "id": "kelvin",
+      "definition": "gloss.kelvin"
+    },
+    {
+      "id": "solute",
+      "definition": "gloss.solute",
+      "seeAlso": [
+        "solvent",
+        "dissolve"
+      ]
+    },
+    {
+      "id": "solvent",
+      "definition": "gloss.solvent",
+      "seeAlso": [
+        "solute"
+      ]
+    },
+    {
+      "id": "dissolve",
+      "definition": "gloss.dissolve",
+      "seeAlso": [
+        "solute",
+        "solvent"
+      ]
+    },
+    {
+      "id": "beaker",
+      "definition": "gloss.beaker",
+      "hard": false
+    },
+    {
+      "id": "thermometer",
+      "definition": "gloss.thermometer",
+      "hard": false
+    },
+    {
+      "id": "syringe",
+      "definition": "gloss.syringe",
+      "hard": false
+    },
+    {
+      "id": "camphor",
+      "definition": "gloss.camphor",
+      "seeAlso": [
+        "sublimation"
+      ],
+      "hard": false
+    },
+    {
+      "id": "funnel",
+      "definition": "gloss.funnel",
+      "hard": false
+    },
+    {
+      "id": "crystal",
+      "definition": "gloss.crystal",
+      "hard": false
+    },
+    {
+      "id": "matka",
+      "definition": "gloss.matka",
+      "seeAlso": [
+        "evaporation"
+      ],
+      "hard": false
+    }
   ]
 }

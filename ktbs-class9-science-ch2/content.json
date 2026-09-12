@@ -1119,5 +1119,267 @@
         "ch2-u7-sort-2"
       ]
     }
+  ],
+  "glossary": [
+    {
+      "id": "pure-substance",
+      "definition": "gloss.pure-substance",
+      "seeAlso": [
+        "mixture",
+        "element",
+        "compound"
+      ]
+    },
+    {
+      "id": "mixture",
+      "definition": "gloss.mixture",
+      "seeAlso": [
+        "pure-substance",
+        "solution"
+      ]
+    },
+    {
+      "id": "solution",
+      "definition": "gloss.solution",
+      "seeAlso": [
+        "solute",
+        "solvent",
+        "colloid"
+      ]
+    },
+    {
+      "id": "solute",
+      "definition": "gloss.solute",
+      "seeAlso": [
+        "solvent",
+        "solution"
+      ]
+    },
+    {
+      "id": "solvent",
+      "definition": "gloss.solvent",
+      "seeAlso": [
+        "solute",
+        "solution"
+      ]
+    },
+    {
+      "id": "dissolve",
+      "definition": "gloss.dissolve",
+      "seeAlso": [
+        "solute",
+        "solvent"
+      ]
+    },
+    {
+      "id": "homogeneous",
+      "definition": "gloss.homogeneous",
+      "seeAlso": [
+        "heterogeneous"
+      ]
+    },
+    {
+      "id": "heterogeneous",
+      "definition": "gloss.heterogeneous",
+      "seeAlso": [
+        "homogeneous"
+      ]
+    },
+    {
+      "id": "suspension",
+      "definition": "gloss.suspension",
+      "seeAlso": [
+        "colloid",
+        "solution"
+      ]
+    },
+    {
+      "id": "colloid",
+      "definition": "gloss.colloid",
+      "seeAlso": [
+        "tyndall-effect",
+        "suspension"
+      ]
+    },
+    {
+      "id": "tyndall-effect",
+      "definition": "gloss.tyndall-effect",
+      "seeAlso": [
+        "colloid"
+      ]
+    },
+    {
+      "id": "concentration",
+      "definition": "gloss.concentration",
+      "seeAlso": [
+        "saturated",
+        "solute"
+      ]
+    },
+    {
+      "id": "saturated",
+      "definition": "gloss.saturated",
+      "seeAlso": [
+        "solubility",
+        "concentration"
+      ]
+    },
+    {
+      "id": "solubility",
+      "definition": "gloss.solubility",
+      "seeAlso": [
+        "saturated",
+        "dissolve"
+      ]
+    },
+    {
+      "id": "filtration",
+      "definition": "gloss.filtration",
+      "seeAlso": [
+        "residue",
+        "suspension"
+      ]
+    },
+    {
+      "id": "residue",
+      "definition": "gloss.residue",
+      "seeAlso": [
+        "filtrate",
+        "filtration"
+      ]
+    },
+    {
+      "id": "filtrate",
+      "definition": "gloss.filtrate",
+      "seeAlso": [
+        "residue",
+        "filtration"
+      ]
+    },
+    {
+      "id": "element",
+      "definition": "gloss.element",
+      "seeAlso": [
+        "compound",
+        "pure-substance"
+      ]
+    },
+    {
+      "id": "compound",
+      "definition": "gloss.compound",
+      "seeAlso": [
+        "element",
+        "mixture"
+      ]
+    },
+    {
+      "id": "metal",
+      "definition": "gloss.metal",
+      "seeAlso": [
+        "non-metal",
+        "metalloid"
+      ]
+    },
+    {
+      "id": "non-metal",
+      "definition": "gloss.non-metal",
+      "seeAlso": [
+        "metal",
+        "metalloid"
+      ]
+    },
+    {
+      "id": "metalloid",
+      "definition": "gloss.metalloid",
+      "seeAlso": [
+        "metal",
+        "non-metal"
+      ]
+    },
+    {
+      "id": "lustre",
+      "definition": "gloss.lustre",
+      "seeAlso": [
+        "metal"
+      ]
+    },
+    {
+      "id": "ductile",
+      "definition": "gloss.ductile",
+      "seeAlso": [
+        "metal",
+        "malleable"
+      ]
+    },
+    {
+      "id": "malleable",
+      "definition": "gloss.malleable",
+      "seeAlso": [
+        "metal",
+        "ductile"
+      ]
+    },
+    {
+      "id": "sonorous",
+      "definition": "gloss.sonorous",
+      "seeAlso": [
+        "metal"
+      ]
+    },
+    {
+      "id": "physical-change",
+      "definition": "gloss.physical-change",
+      "seeAlso": [
+        "chemical-change"
+      ]
+    },
+    {
+      "id": "chemical-change",
+      "definition": "gloss.chemical-change",
+      "seeAlso": [
+        "physical-change"
+      ]
+    },
+    {
+      "id": "alloy",
+      "definition": "gloss.alloy",
+      "seeAlso": [
+        "metal",
+        "mixture"
+      ],
+      "hard": false
+    },
+    {
+      "id": "aerosol",
+      "definition": "gloss.aerosol",
+      "seeAlso": [
+        "colloid"
+      ],
+      "hard": false
+    },
+    {
+      "id": "emulsion",
+      "definition": "gloss.emulsion",
+      "seeAlso": [
+        "colloid"
+      ],
+      "hard": false
+    },
+    {
+      "id": "centrifugation",
+      "definition": "gloss.centrifugation",
+      "seeAlso": [
+        "colloid"
+      ],
+      "hard": false
+    },
+    {
+      "id": "adulteration",
+      "definition": "gloss.adulteration",
+      "seeAlso": [
+        "pure-substance"
+      ],
+      "hard": false
+    }
   ]
 }
