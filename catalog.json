@@ -35,7 +35,9 @@
           "zoomScale"
         ]
       },
-      "sizeBytes": 74077
+      "audio": null,
+      "sizeBytes": 74061,
+      "textSizeBytes": 74061
     },
     {
       "id": "ktbs.class9.science.ch2",
@@ -66,7 +68,9 @@
           "zoomScale"
         ]
       },
-      "sizeBytes": 59727
+      "audio": null,
+      "sizeBytes": 72487,
+      "textSizeBytes": 72487
     }
   ]
 }
