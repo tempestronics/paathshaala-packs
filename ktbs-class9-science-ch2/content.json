@@ -236,6 +236,7 @@
           "chalk powder or wheat flour",
           "milk or ink",
           "torch",
+          "a shoebox and black paper, if the room is bright",
           "filter paper",
           "funnel",
           "glass rod"
@@ -793,7 +794,13 @@
           "metalloid"
         ],
         "successWhen": "allSamplesClassified"
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch2-u5-propertytester-1.carbonconducts.q",
+          "answer": "ask.ch2-u5-propertytester-1.carbonconducts.a"
+        }
+      ]
     },
     {
       "id": "ch2-u5-do-2",
@@ -858,6 +865,10 @@
         {
           "question": "ask.ch2-u5-ironsulphurlab-3.unmixit.q",
           "answer": "ask.ch2-u5-ironsulphurlab-3.unmixit.a"
+        },
+        {
+          "question": "ask.ch2-u5-ironsulphurlab-3.ironinfood.q",
+          "answer": "ask.ch2-u5-ironsulphurlab-3.ironinfood.a"
         }
       ]
     },

@@ -345,7 +345,13 @@
         "steps": "ch1.a5.steps",
         "supervision": false,
         "printable": true
-      }
+      },
+      "followUps": [
+        {
+          "question": "ask.ch1-u2-do-4.streaks.q",
+          "answer": "ask.ch1-u2-do-4.streaks.a"
+        }
+      ]
     },
     {
       "id": "ch1-u2-quiz-5",

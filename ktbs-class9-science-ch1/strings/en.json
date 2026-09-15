@@ -87,7 +87,6 @@
   "ch1.bin.gas": "Gas",
   "ch1.bin.liquid": "Liquid",
   "ch1.bin.solid": "Solid",
-  "ch1.drivingQuestion": "If you keep cutting something in half, what do you end up with?",
   "ch1.groupActivity": "Build a particle model",
   "ch1.groupActivity.steps": "1. Put some chickpeas or dry peas in a transparent jar.\n2. Sew a string to the centre of a large rubber sheet or cut-open balloon and tape it so it holds.\n3. Stretch the rubber sheet over the mouth of the jar and tie it on.\n4. Run your fingers up and down the string, first slowly, then hard.",
   "ch1.groupActivity.watchFor": "Slow tugging gives you a solid, a little more gives you a liquid, and vigorous shaking gives you a gas. You are supplying the energy that heat normally supplies.",
@@ -115,7 +114,6 @@
   "ch1.item.steam.why": "Water in the gaseous state. It spreads to fill whatever room it is in.",
   "ch1.item.sugar": "Sugar in a jar",
   "ch1.item.sugar.why": "Solid. The heap takes the shape of the jar, but look at one crystal: its own shape never changes.",
-  "ch1.title": "Matter in Our Surroundings",
   "ch1.u1.check.a": "One crystal contains an enormous number of extremely small particles",
   "ch1.u1.check.a.fb": "Right. To spread through a thousand litres and still be visible, one crystal must hold a colossal number of particles, each far too small to see.",
   "ch1.u1.check.b": "The colour spreads into the air gaps inside the water",
@@ -417,8 +415,8 @@
   "mis.solidParticlesStatic.statement": "Particles in a solid do not move at all.",
   "mis.temperatureRisesWhileMelting.correction": "It holds flat until the last of the solid is gone, because the energy is breaking particles apart rather than speeding them up.",
   "mis.temperatureRisesWhileMelting.statement": "Temperature keeps climbing while a solid melts.",
-  "pack.blurb": "If you keep cutting something in half, what do you end up with?",
-  "pack.title": "Matter in Our Surroundings",
   "path.guided.blurb": "Every artifact in the order it was designed to be met. Follow it start to finish, or ignore it and pick whatever looks interesting.",
-  "path.guided.title": "The full route"
+  "path.guided.title": "The full route",
+  "ask.ch1-u2-do-4.streaks.q": "In the hot glass the colour shot upwards in streaks instead of spreading evenly. Is that still diffusion?",
+  "ask.ch1-u2-do-4.streaks.a": "Mostly, no, and noticing the streaks is the sharpest thing you can do in this activity.\n\nWater that has been warmed at the bottom of the glass is slightly lighter than the water above it, so it rises, and it carries the colour up with it in exactly those plumes and swirls you saw. That is the water itself moving, carrying the colour as a passenger. It has its own name, convection, and it is not the same thing as diffusion.\n\nDiffusion is the slow part. It is what you saw in the ink and honey beaker, which needed an hour before anything was obvious and a day before the colour reached everywhere. Heating really does make diffusion faster, because every particle moves quicker, but only a few times faster, nowhere near fast enough to cross a glass in a minute. The swirls simply got there first.\n\nThis is worth more than the activity it came from. When you measure something, something else can quietly be doing the work, and your result looks like an answer when it is really a different question. That is why the ink beaker has to sit somewhere nobody will knock it: stopping the water from moving is the only way to watch the particles move on their own."
 }
