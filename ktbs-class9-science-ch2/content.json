@@ -118,7 +118,12 @@
           "question": "ask.ch2-u1-pureornot-1.distilledwater.q",
           "answer": "ask.ch2-u1-pureornot-1.distilledwater.a"
         }
-      ]
+      ],
+      "sourceRef": {
+        "page": 14,
+        "section": "2.1",
+        "label": "Activity 2.1"
+      }
     },
     {
       "id": "ch2-u1-read-2",
@@ -126,7 +131,10 @@
       "section": "s.u1",
       "title": "a.ch2-u1-read-2.title",
       "minutes": 3,
-      "sourceRef": "2.0",
+      "sourceRef": {
+        "page": 14,
+        "section": "2.1"
+      },
       "config": {
         "text": "ch2.u1.definition",
         "visual": "one-kind-of-particle"
@@ -138,7 +146,11 @@
       "section": "s.u1",
       "title": "a.ch2-u1-quiz-3.title",
       "minutes": 3,
-      "sourceRef": "In-text Q1 (page 25)",
+      "sourceRef": {
+        "page": 15,
+        "section": "2.1",
+        "label": "In-text Q1"
+      },
       "breaks": [
         "pure-means-clean"
       ],
@@ -176,7 +188,11 @@
       "section": "s.u2",
       "title": "ch2.a1",
       "minutes": 9,
-      "sourceRef": "Activity 2.1",
+      "sourceRef": {
+        "page": 14,
+        "section": "2.1.1",
+        "label": "Activity 2.1"
+      },
       "config": {
         "equipment": [
           "four beakers",
@@ -220,6 +236,11 @@
           "oil"
         ],
         "showUniformity": true
+      },
+      "sourceRef": {
+        "page": 14,
+        "section": "2.1.1",
+        "label": "Activity 2.1"
       }
     },
     {
@@ -228,7 +249,11 @@
       "section": "s.u2",
       "title": "ch2.a2",
       "minutes": 9,
-      "sourceRef": "Activity 2.2",
+      "sourceRef": {
+        "page": 15,
+        "section": "2.2",
+        "label": "Activity 2.2"
+      },
       "config": {
         "equipment": [
           "four beakers",
@@ -289,7 +314,12 @@
           "question": "ask.ch2-u2-threebeakers-4.milkyear.q",
           "answer": "ask.ch2-u2-threebeakers-4.milkyear.a"
         }
-      ]
+      ],
+      "sourceRef": {
+        "page": 15,
+        "section": "2.2",
+        "label": "Activity 2.2"
+      }
     },
     {
       "id": "ch2-u2-read-5",
@@ -297,7 +327,10 @@
       "section": "s.u2",
       "title": "a.ch2-u2-read-5.title",
       "minutes": 3,
-      "sourceRef": "2.2.3",
+      "sourceRef": {
+        "page": 17,
+        "section": "2.2.3"
+      },
       "config": {
         "text": "ch2.u2.tyndall",
         "visual": "tyndall-forest"
@@ -317,6 +350,10 @@
           "solutionBoundary"
         ],
         "highlight": "solutionBoundary"
+      },
+      "sourceRef": {
+        "page": 17,
+        "section": "2.2.3"
       }
     },
     {
@@ -326,7 +363,10 @@
       "title": "a.ch2-u2-sort-7.title",
       "blurb": "ch2.u2.sort.prompt",
       "minutes": 11,
-      "sourceRef": "Exercise 4 and 7",
+      "sourceRef": {
+        "page": 23,
+        "label": "Exercise 4 and 7"
+      },
       "config": {
         "bins": [
           "ch2.bin.solution",
@@ -396,7 +436,11 @@
       "section": "s.u2",
       "title": "a.ch2-u2-quiz-8.title",
       "minutes": 3,
-      "sourceRef": "In-text Q2 (page 28), Exercise 7",
+      "sourceRef": {
+        "page": 18,
+        "section": "2.2.3",
+        "label": "In-text Q2"
+      },
       "breaks": [
         "colloids-settle",
         "filtering-separates-anything"
@@ -435,7 +479,11 @@
       "section": "s.u3",
       "title": "ch2.a3",
       "minutes": 12,
-      "sourceRef": "Activity 2.3",
+      "sourceRef": {
+        "page": 16,
+        "section": "2.2.1",
+        "label": "Activity 2.3"
+      },
       "config": {
         "equipment": [
           "two beakers",
@@ -491,7 +539,12 @@
           "question": "ask.ch2-u3-solubilitylab-2.infinitesalt.q",
           "answer": "ask.ch2-u3-solubilitylab-2.infinitesalt.a"
         }
-      ]
+      ],
+      "sourceRef": {
+        "page": 16,
+        "section": "2.2.1",
+        "label": "Activity 2.3"
+      }
     },
     {
       "id": "ch2-u3-calc-3",
@@ -499,7 +552,11 @@
       "section": "s.u3",
       "title": "a.ch2-u3-calc-3.title",
       "minutes": 12,
-      "sourceRef": "Example 2.1",
+      "sourceRef": {
+        "page": 16,
+        "section": "2.2.1",
+        "label": "Example 2.1"
+      },
       "config": {
         "items": [
           {
@@ -557,7 +614,10 @@
       "section": "s.u3",
       "title": "a.ch2-u3-quiz-4.title",
       "minutes": 3,
-      "sourceRef": "Exercise 2(b)",
+      "sourceRef": {
+        "page": 23,
+        "label": "Exercise 2(b)"
+      },
       "breaks": [
         "dissolving-destroys",
         "dissolving-is-melting"
@@ -596,7 +656,10 @@
       "section": "s.u4",
       "title": "a.ch2-u4-read-1.title",
       "minutes": 3,
-      "sourceRef": "2.3",
+      "sourceRef": {
+        "page": 19,
+        "section": "2.3"
+      },
       "config": {
         "text": "ch2.u4.intro",
         "visual": "new-substance-test"
@@ -609,7 +672,11 @@
       "title": "a.ch2-u4-sort-2.title",
       "blurb": "ch2.u4.sort.prompt",
       "minutes": 12,
-      "sourceRef": "In-text Q1 (page 29), Exercise 9",
+      "sourceRef": {
+        "page": 19,
+        "section": "2.3",
+        "label": "In-text Q1"
+      },
       "config": {
         "bins": [
           "ch2.bin.physical",
@@ -711,7 +778,11 @@
           "answer": "ask.ch2-u4-candledual-3.wheredoeswaxgo.a",
           "leadsTo": "ktbs.class9.science.ch1"
         }
-      ]
+      ],
+      "sourceRef": {
+        "page": 19,
+        "section": "2.3"
+      }
     },
     {
       "id": "ch2-u4-quiz-4",
@@ -748,6 +819,10 @@
             ]
           }
         ]
+      },
+      "sourceRef": {
+        "page": 19,
+        "section": "2.3"
       }
     },
     {
@@ -800,7 +875,11 @@
           "question": "ask.ch2-u5-propertytester-1.carbonconducts.q",
           "answer": "ask.ch2-u5-propertytester-1.carbonconducts.a"
         }
-      ]
+      ],
+      "sourceRef": {
+        "page": 19,
+        "section": "2.4.1"
+      }
     },
     {
       "id": "ch2-u5-do-2",
@@ -808,7 +887,11 @@
       "section": "s.u5",
       "title": "ch2.a4",
       "minutes": 12,
-      "sourceRef": "Activity 2.4",
+      "sourceRef": {
+        "page": 20,
+        "section": "2.4.2",
+        "label": "Activity 2.4"
+      },
       "config": {
         "equipment": [
           "5 g iron filings",
@@ -870,7 +953,12 @@
           "question": "ask.ch2-u5-ironsulphurlab-3.ironinfood.q",
           "answer": "ask.ch2-u5-ironsulphurlab-3.ironinfood.a"
         }
-      ]
+      ],
+      "sourceRef": {
+        "page": 20,
+        "section": "2.4.2",
+        "label": "Activity 2.4"
+      }
     },
     {
       "id": "ch2-u5-read-4",
@@ -878,7 +966,11 @@
       "section": "s.u5",
       "title": "a.ch2-u5-read-4.title",
       "minutes": 3,
-      "sourceRef": "Table 2.2",
+      "sourceRef": {
+        "page": 20,
+        "section": "2.4.2",
+        "label": "Table 2.2"
+      },
       "config": {
         "text": "ch2.u5.mixtureVsCompound",
         "visual": "mixture-compound-table"
@@ -910,6 +1002,10 @@
           "blood"
         ],
         "successWhen": "allPlaced"
+      },
+      "sourceRef": {
+        "page": 19,
+        "section": "2.4"
       }
     },
     {
@@ -924,6 +1020,10 @@
         "mode": "reverse",
         "rounds": 5,
         "successWhen": "allRoundsCorrect"
+      },
+      "sourceRef": {
+        "page": 19,
+        "section": "2.4"
       }
     },
     {
@@ -932,7 +1032,10 @@
       "section": "s.u5",
       "title": "a.ch2-u5-quiz-7.title",
       "minutes": 3,
-      "sourceRef": "Exercise 6 and 8",
+      "sourceRef": {
+        "page": 23,
+        "label": "Exercise 6 and 8"
+      },
       "breaks": [
         "compound-is-well-mixed-mixture",
         "solution-must-be-liquid"
@@ -985,6 +1088,10 @@
         "clarityScore": true,
         "successWhen": "clarityAbove90",
         "debrief": "ch2.u6.challenge.debrief"
+      },
+      "sourceRef": {
+        "page": 25,
+        "label": "Group Activity"
       }
     },
     {
@@ -993,7 +1100,10 @@
       "section": "s.u6",
       "title": "ch2.groupActivity",
       "minutes": 9,
-      "sourceRef": "Group Activity (page 35)",
+      "sourceRef": {
+        "page": 25,
+        "label": "Group Activity"
+      },
       "config": {
         "equipment": [
           "earthen pot (matka)",
@@ -1042,7 +1152,11 @@
           "question": "ask.ch2-u6-threebeakers-3.boilinstead.q",
           "answer": "ask.ch2-u6-threebeakers-3.boilinstead.a"
         }
-      ]
+      ],
+      "sourceRef": {
+        "page": 25,
+        "label": "Group Activity"
+      }
     },
     {
       "id": "ch2-u6-quiz-4",
@@ -1050,7 +1164,10 @@
       "section": "s.u6",
       "title": "a.ch2-u6-quiz-4.title",
       "minutes": 3,
-      "sourceRef": "Exercise 5",
+      "sourceRef": {
+        "page": 23,
+        "label": "Exercise 5"
+      },
       "breaks": [
         "filtering-separates-anything",
         "pure-means-clean"
@@ -1093,6 +1210,9 @@
       "config": {
         "text": "ch2.u7.notice",
         "visual": "bonus-badge"
+      },
+      "sourceRef": {
+        "outsideTextbook": true
       }
     },
     {
@@ -1138,7 +1258,10 @@
           "question": "ask.ch2-u7-sort-2.onemethod.q",
           "answer": "ask.ch2-u7-sort-2.onemethod.a"
         }
-      ]
+      ],
+      "sourceRef": {
+        "outsideTextbook": true
+      }
     }
   ],
   "paths": [

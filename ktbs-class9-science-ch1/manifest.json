@@ -7,6 +7,14 @@
   "subject": "Science",
   "level": "Class 9",
   "source": "Karnataka Textbook Society, 2026-27, Part 1",
+  "textbook": {
+    "title": "Class 9 Science Part 1",
+    "chapter": 1,
+    "firstPage": 1,
+    "lastPage": 13,
+    "publisher": "Karnataka Textbook Society",
+    "edition": "2026-27"
+  },
   "author": {
     "name": "Paathshaala",
     "url": "https://paathshaala.org"
