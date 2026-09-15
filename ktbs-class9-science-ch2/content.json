@@ -3,37 +3,189 @@
     {
       "id": "s.u1",
       "title": "ch2.u1.title",
-      "blurb": "ch2.u1.goal"
+      "blurb": "ch2.u1.goal",
+      "recap": [
+        {
+          "ask": "recap.s.u1.q1.ask",
+          "answer": "recap.s.u1.q1.answer",
+          "listenFor": "recap.s.u1.q1.listenFor",
+          "sourceRef": {
+            "page": 23,
+            "label": "Exercise 3(b)"
+          }
+        },
+        {
+          "ask": "recap.s.u1.q2.ask",
+          "answer": "recap.s.u1.q2.answer",
+          "listenFor": "recap.s.u1.q2.listenFor"
+        },
+        {
+          "ask": "recap.s.u1.q3.ask",
+          "answer": "recap.s.u1.q3.answer",
+          "listenFor": "recap.s.u1.q3.listenFor"
+        }
+      ]
     },
     {
       "id": "s.u2",
       "title": "ch2.u2.title",
-      "blurb": "ch2.u2.goal"
+      "blurb": "ch2.u2.goal",
+      "recap": [
+        {
+          "ask": "recap.s.u2.q1.ask",
+          "answer": "recap.s.u2.q1.answer",
+          "listenFor": "recap.s.u2.q1.listenFor",
+          "sourceRef": {
+            "page": 23,
+            "label": "Exercise 4"
+          }
+        },
+        {
+          "ask": "recap.s.u2.q2.ask",
+          "answer": "recap.s.u2.q2.answer",
+          "listenFor": "recap.s.u2.q2.listenFor"
+        },
+        {
+          "ask": "recap.s.u2.q3.ask",
+          "answer": "recap.s.u2.q3.answer",
+          "listenFor": "recap.s.u2.q3.listenFor",
+          "sourceRef": {
+            "page": 23,
+            "label": "Exercise 1"
+          }
+        }
+      ]
     },
     {
       "id": "s.u3",
       "title": "ch2.u3.title",
-      "blurb": "ch2.u3.goal"
+      "blurb": "ch2.u3.goal",
+      "recap": [
+        {
+          "ask": "recap.s.u3.q1.ask",
+          "answer": "recap.s.u3.q1.answer",
+          "listenFor": "recap.s.u3.q1.listenFor"
+        },
+        {
+          "ask": "recap.s.u3.q2.ask",
+          "answer": "recap.s.u3.q2.answer",
+          "listenFor": "recap.s.u3.q2.listenFor",
+          "sourceRef": {
+            "page": 23,
+            "label": "Exercise 2(b)"
+          }
+        },
+        {
+          "ask": "recap.s.u3.q3.ask",
+          "answer": "recap.s.u3.q3.answer",
+          "listenFor": "recap.s.u3.q3.listenFor",
+          "sourceRef": {
+            "page": 23,
+            "label": "Exercise 2(d)"
+          }
+        }
+      ]
     },
     {
       "id": "s.u4",
       "title": "ch2.u4.title",
-      "blurb": "ch2.u4.goal"
+      "blurb": "ch2.u4.goal",
+      "recap": [
+        {
+          "ask": "recap.s.u4.q1.ask",
+          "answer": "recap.s.u4.q1.answer",
+          "listenFor": "recap.s.u4.q1.listenFor"
+        },
+        {
+          "ask": "recap.s.u4.q2.ask",
+          "answer": "recap.s.u4.q2.answer",
+          "listenFor": "recap.s.u4.q2.listenFor"
+        },
+        {
+          "ask": "recap.s.u4.q3.ask",
+          "answer": "recap.s.u4.q3.answer",
+          "listenFor": "recap.s.u4.q3.listenFor"
+        }
+      ]
     },
     {
       "id": "s.u5",
       "title": "ch2.u5.title",
-      "blurb": "ch2.u5.goal"
+      "blurb": "ch2.u5.goal",
+      "recap": [
+        {
+          "ask": "recap.s.u5.q1.ask",
+          "answer": "recap.s.u5.q1.answer",
+          "listenFor": "recap.s.u5.q1.listenFor",
+          "sourceRef": {
+            "page": 20,
+            "section": "2.4.2",
+            "label": "Activity 2.4"
+          }
+        },
+        {
+          "ask": "recap.s.u5.q2.ask",
+          "answer": "recap.s.u5.q2.answer",
+          "listenFor": "recap.s.u5.q2.listenFor",
+          "sourceRef": {
+            "page": 23,
+            "label": "Exercise 3"
+          }
+        },
+        {
+          "ask": "recap.s.u5.q3.ask",
+          "answer": "recap.s.u5.q3.answer",
+          "listenFor": "recap.s.u5.q3.listenFor"
+        }
+      ]
     },
     {
       "id": "s.u6",
       "title": "ch2.u6.title",
-      "blurb": "ch2.u6.goal"
+      "blurb": "ch2.u6.goal",
+      "recap": [
+        {
+          "ask": "recap.s.u6.q1.ask",
+          "answer": "recap.s.u6.q1.answer",
+          "listenFor": "recap.s.u6.q1.listenFor",
+          "sourceRef": {
+            "page": 23,
+            "label": "Exercise 5"
+          }
+        },
+        {
+          "ask": "recap.s.u6.q2.ask",
+          "answer": "recap.s.u6.q2.answer",
+          "listenFor": "recap.s.u6.q2.listenFor"
+        },
+        {
+          "ask": "recap.s.u6.q3.ask",
+          "answer": "recap.s.u6.q3.answer",
+          "listenFor": "recap.s.u6.q3.listenFor"
+        }
+      ]
     },
     {
       "id": "s.u7",
       "title": "ch2.u7.title",
-      "blurb": "ch2.u7.goal"
+      "blurb": "ch2.u7.goal",
+      "recap": [
+        {
+          "ask": "recap.s.u7.q1.ask",
+          "answer": "recap.s.u7.q1.answer",
+          "listenFor": "recap.s.u7.q1.listenFor"
+        },
+        {
+          "ask": "recap.s.u7.q2.ask",
+          "answer": "recap.s.u7.q2.answer",
+          "listenFor": "recap.s.u7.q2.listenFor"
+        },
+        {
+          "ask": "recap.s.u7.q3.ask",
+          "answer": "recap.s.u7.q3.answer",
+          "listenFor": "recap.s.u7.q3.listenFor"
+        }
+      ]
     }
   ],
   "misconceptions": [
