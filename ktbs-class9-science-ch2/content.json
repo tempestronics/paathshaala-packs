@@ -595,13 +595,85 @@
       },
       "config": {
         "bench": "beakers",
-        "solutes": [
-          "copperSulphate",
-          "ironFilings",
-          "sulphur",
-          "oil"
+        "subjects": [
+          {
+            "id": "copperSulphate",
+            "label": "lab.ch2-u2-mixturemaker-2.s.copperSulphate"
+          },
+          {
+            "id": "ironFilings",
+            "label": "lab.ch2-u2-mixturemaker-2.s.ironFilings"
+          },
+          {
+            "id": "sulphur",
+            "label": "lab.ch2-u2-mixturemaker-2.s.sulphur"
+          },
+          {
+            "id": "oil",
+            "label": "lab.ch2-u2-mixturemaker-2.s.oil"
+          }
         ],
-        "showUniformity": true
+        "tests": [
+          {
+            "id": "stir",
+            "label": "lab.ch2-u2-mixturemaker-2.t.stir"
+          }
+        ],
+        "results": [
+          {
+            "subject": "copperSulphate",
+            "test": "stir",
+            "outcome": "lab.ch2-u2-mixturemaker-2.r.copperSulphate.stir",
+            "tells": "lab.ch2-u2-mixturemaker-2.tells.copperSulphate"
+          },
+          {
+            "subject": "ironFilings",
+            "test": "stir",
+            "outcome": "lab.ch2-u2-mixturemaker-2.r.ironFilings.stir",
+            "tells": "lab.ch2-u2-mixturemaker-2.tells.ironFilings"
+          },
+          {
+            "subject": "sulphur",
+            "test": "stir",
+            "outcome": "lab.ch2-u2-mixturemaker-2.r.sulphur.stir",
+            "tells": "lab.ch2-u2-mixturemaker-2.tells.sulphur"
+          },
+          {
+            "subject": "oil",
+            "test": "stir",
+            "outcome": "lab.ch2-u2-mixturemaker-2.r.oil.stir",
+            "tells": "lab.ch2-u2-mixturemaker-2.tells.oil"
+          }
+        ],
+        "bins": [
+          {
+            "id": "homogeneous",
+            "label": "lab.ch2-u2-mixturemaker-2.b.homogeneous"
+          },
+          {
+            "id": "heterogeneous",
+            "label": "lab.ch2-u2-mixturemaker-2.b.heterogeneous"
+          }
+        ],
+        "answers": [
+          {
+            "subject": "copperSulphate",
+            "bin": "homogeneous"
+          },
+          {
+            "subject": "ironFilings",
+            "bin": "heterogeneous"
+          },
+          {
+            "subject": "sulphur",
+            "bin": "heterogeneous"
+          },
+          {
+            "subject": "oil",
+            "bin": "heterogeneous"
+          }
+        ],
+        "closing": "lab.ch2-u2-mixturemaker-2.closing"
       },
       "sourceRef": {
         "page": 14,
@@ -661,19 +733,86 @@
       },
       "config": {
         "bench": "beakers",
-        "samples": [
-          "copperSulphate",
-          "chalkPowder",
-          "milk"
-        ],
         "tests": [
-          "torch",
-          "standStill",
-          "filter"
+          {
+            "id": "torch",
+            "label": "lab.ch2-u2-threebeakers-4.t.torch"
+          },
+          {
+            "id": "standStill",
+            "label": "lab.ch2-u2-threebeakers-4.t.standStill"
+          },
+          {
+            "id": "filter",
+            "label": "lab.ch2-u2-threebeakers-4.t.filter"
+          }
         ],
-        "resultsTable": true,
-        "revealParticleSizeAfterTable": true,
-        "successWhen": "allNineTestsRun && tableNamed"
+        "successWhen": "allNineTestsRun && tableNamed",
+        "subjects": [
+          {
+            "id": "copperSulphate",
+            "label": "lab.ch2-u2-threebeakers-4.s.copperSulphate"
+          },
+          {
+            "id": "chalkPowder",
+            "label": "lab.ch2-u2-threebeakers-4.s.chalkPowder"
+          },
+          {
+            "id": "milk",
+            "label": "lab.ch2-u2-threebeakers-4.s.milk"
+          }
+        ],
+        "results": [
+          {
+            "subject": "copperSulphate",
+            "test": "torch",
+            "outcome": "lab.ch2-u2-threebeakers-4.r.copperSulphate.torch"
+          },
+          {
+            "subject": "copperSulphate",
+            "test": "standStill",
+            "outcome": "lab.ch2-u2-threebeakers-4.r.copperSulphate.standStill"
+          },
+          {
+            "subject": "copperSulphate",
+            "test": "filter",
+            "outcome": "lab.ch2-u2-threebeakers-4.r.copperSulphate.filter",
+            "tells": "lab.ch2-u2-threebeakers-4.tells.copperSulphate"
+          },
+          {
+            "subject": "chalkPowder",
+            "test": "torch",
+            "outcome": "lab.ch2-u2-threebeakers-4.r.chalkPowder.torch"
+          },
+          {
+            "subject": "chalkPowder",
+            "test": "standStill",
+            "outcome": "lab.ch2-u2-threebeakers-4.r.chalkPowder.standStill"
+          },
+          {
+            "subject": "chalkPowder",
+            "test": "filter",
+            "outcome": "lab.ch2-u2-threebeakers-4.r.chalkPowder.filter",
+            "tells": "lab.ch2-u2-threebeakers-4.tells.chalkPowder"
+          },
+          {
+            "subject": "milk",
+            "test": "torch",
+            "outcome": "lab.ch2-u2-threebeakers-4.r.milk.torch"
+          },
+          {
+            "subject": "milk",
+            "test": "standStill",
+            "outcome": "lab.ch2-u2-threebeakers-4.r.milk.standStill"
+          },
+          {
+            "subject": "milk",
+            "test": "filter",
+            "outcome": "lab.ch2-u2-threebeakers-4.r.milk.filter",
+            "tells": "lab.ch2-u2-threebeakers-4.tells.milk"
+          }
+        ],
+        "closing": "lab.ch2-u2-threebeakers-4.closing"
       },
       "followUps": [
         {
@@ -898,7 +1037,25 @@
           353
         ],
         "plotsCurve": true,
-        "successWhen": "saturationReached && temperatureVaried"
+        "successWhen": "saturationReached && temperatureVaried",
+        "soluteLabels": [
+          {
+            "id": "potassiumNitrate",
+            "label": "solute.potassiumNitrate"
+          },
+          {
+            "id": "sodiumChloride",
+            "label": "solute.sodiumChloride"
+          },
+          {
+            "id": "potassiumChloride",
+            "label": "solute.potassiumChloride"
+          },
+          {
+            "id": "ammoniumChloride",
+            "label": "solute.ammoniumChloride"
+          }
+        ]
       },
       "followUps": [
         {
@@ -1135,8 +1292,107 @@
       },
       "config": {
         "bench": "observation",
-        "highlightPhysical": true,
-        "highlightChemical": true
+        "subjects": [
+          {
+            "id": "melts",
+            "label": "lab.ch2-u4-candledual-3.s.melts"
+          },
+          {
+            "id": "runs",
+            "label": "lab.ch2-u4-candledual-3.s.runs"
+          },
+          {
+            "id": "vapour",
+            "label": "lab.ch2-u4-candledual-3.s.vapour"
+          },
+          {
+            "id": "flame",
+            "label": "lab.ch2-u4-candledual-3.s.flame"
+          },
+          {
+            "id": "soot",
+            "label": "lab.ch2-u4-candledual-3.s.soot"
+          },
+          {
+            "id": "mist",
+            "label": "lab.ch2-u4-candledual-3.s.mist"
+          }
+        ],
+        "results": [
+          {
+            "subject": "melts",
+            "test": "after",
+            "outcome": "lab.ch2-u4-candledual-3.r.melts"
+          },
+          {
+            "subject": "runs",
+            "test": "after",
+            "outcome": "lab.ch2-u4-candledual-3.r.runs"
+          },
+          {
+            "subject": "vapour",
+            "test": "after",
+            "outcome": "lab.ch2-u4-candledual-3.r.vapour"
+          },
+          {
+            "subject": "flame",
+            "test": "after",
+            "outcome": "lab.ch2-u4-candledual-3.r.flame"
+          },
+          {
+            "subject": "soot",
+            "test": "after",
+            "outcome": "lab.ch2-u4-candledual-3.r.soot"
+          },
+          {
+            "subject": "mist",
+            "test": "after",
+            "outcome": "lab.ch2-u4-candledual-3.r.mist"
+          }
+        ],
+        "tests": [
+          {
+            "id": "after",
+            "label": "lab.ch2-u4-candledual-3.t.after"
+          }
+        ],
+        "bins": [
+          {
+            "id": "physical",
+            "label": "lab.ch2-u4-candledual-3.b.physical"
+          },
+          {
+            "id": "chemical",
+            "label": "lab.ch2-u4-candledual-3.b.chemical"
+          }
+        ],
+        "answers": [
+          {
+            "subject": "melts",
+            "bin": "physical"
+          },
+          {
+            "subject": "runs",
+            "bin": "physical"
+          },
+          {
+            "subject": "vapour",
+            "bin": "physical"
+          },
+          {
+            "subject": "flame",
+            "bin": "chemical"
+          },
+          {
+            "subject": "soot",
+            "bin": "chemical"
+          },
+          {
+            "subject": "mist",
+            "bin": "chemical"
+          }
+        ],
+        "closing": "lab.ch2-u4-candledual-3.closing"
       },
       "followUps": [
         {
@@ -1212,29 +1468,316 @@
       },
       "config": {
         "bench": "properties",
-        "samples": [
-          "gold",
-          "sulphur",
-          "copper",
-          "iodine",
-          "silicon",
-          "mercury",
-          "bromine",
-          "carbon"
-        ],
         "tests": [
-          "lustre",
-          "conductivity",
-          "ductility",
-          "malleability",
-          "sonority"
+          {
+            "id": "lustre",
+            "label": "lab.ch2-u5-propertytester-1.t.lustre"
+          },
+          {
+            "id": "conductivity",
+            "label": "lab.ch2-u5-propertytester-1.t.conductivity"
+          },
+          {
+            "id": "ductility",
+            "label": "lab.ch2-u5-propertytester-1.t.ductility"
+          },
+          {
+            "id": "malleability",
+            "label": "lab.ch2-u5-propertytester-1.t.malleability"
+          },
+          {
+            "id": "sonority",
+            "label": "lab.ch2-u5-propertytester-1.t.sonority"
+          }
         ],
         "bins": [
-          "metal",
-          "nonMetal",
-          "metalloid"
+          {
+            "id": "metal",
+            "label": "lab.ch2-u5-propertytester-1.b.metal"
+          },
+          {
+            "id": "nonMetal",
+            "label": "lab.ch2-u5-propertytester-1.b.nonMetal"
+          },
+          {
+            "id": "metalloid",
+            "label": "lab.ch2-u5-propertytester-1.b.metalloid"
+          }
         ],
-        "successWhen": "allSamplesClassified"
+        "successWhen": "allSamplesClassified",
+        "subjects": [
+          {
+            "id": "gold",
+            "label": "lab.ch2-u5-propertytester-1.s.gold"
+          },
+          {
+            "id": "sulphur",
+            "label": "lab.ch2-u5-propertytester-1.s.sulphur"
+          },
+          {
+            "id": "copper",
+            "label": "lab.ch2-u5-propertytester-1.s.copper"
+          },
+          {
+            "id": "iodine",
+            "label": "lab.ch2-u5-propertytester-1.s.iodine"
+          },
+          {
+            "id": "silicon",
+            "label": "lab.ch2-u5-propertytester-1.s.silicon"
+          },
+          {
+            "id": "mercury",
+            "label": "lab.ch2-u5-propertytester-1.s.mercury"
+          },
+          {
+            "id": "bromine",
+            "label": "lab.ch2-u5-propertytester-1.s.bromine"
+          },
+          {
+            "id": "carbon",
+            "label": "lab.ch2-u5-propertytester-1.s.carbon"
+          }
+        ],
+        "results": [
+          {
+            "subject": "gold",
+            "test": "lustre",
+            "outcome": "lab.ch2-u5-propertytester-1.r.gold.lustre"
+          },
+          {
+            "subject": "gold",
+            "test": "conductivity",
+            "outcome": "lab.ch2-u5-propertytester-1.r.gold.conductivity"
+          },
+          {
+            "subject": "gold",
+            "test": "ductility",
+            "outcome": "lab.ch2-u5-propertytester-1.r.gold.ductility"
+          },
+          {
+            "subject": "gold",
+            "test": "malleability",
+            "outcome": "lab.ch2-u5-propertytester-1.r.gold.malleability"
+          },
+          {
+            "subject": "gold",
+            "test": "sonority",
+            "outcome": "lab.ch2-u5-propertytester-1.r.gold.sonority"
+          },
+          {
+            "subject": "sulphur",
+            "test": "lustre",
+            "outcome": "lab.ch2-u5-propertytester-1.r.sulphur.lustre"
+          },
+          {
+            "subject": "sulphur",
+            "test": "conductivity",
+            "outcome": "lab.ch2-u5-propertytester-1.r.sulphur.conductivity"
+          },
+          {
+            "subject": "sulphur",
+            "test": "ductility",
+            "outcome": "lab.ch2-u5-propertytester-1.r.sulphur.ductility"
+          },
+          {
+            "subject": "sulphur",
+            "test": "malleability",
+            "outcome": "lab.ch2-u5-propertytester-1.r.sulphur.malleability"
+          },
+          {
+            "subject": "sulphur",
+            "test": "sonority",
+            "outcome": "lab.ch2-u5-propertytester-1.r.sulphur.sonority"
+          },
+          {
+            "subject": "copper",
+            "test": "lustre",
+            "outcome": "lab.ch2-u5-propertytester-1.r.copper.lustre"
+          },
+          {
+            "subject": "copper",
+            "test": "conductivity",
+            "outcome": "lab.ch2-u5-propertytester-1.r.copper.conductivity"
+          },
+          {
+            "subject": "copper",
+            "test": "ductility",
+            "outcome": "lab.ch2-u5-propertytester-1.r.copper.ductility"
+          },
+          {
+            "subject": "copper",
+            "test": "malleability",
+            "outcome": "lab.ch2-u5-propertytester-1.r.copper.malleability"
+          },
+          {
+            "subject": "copper",
+            "test": "sonority",
+            "outcome": "lab.ch2-u5-propertytester-1.r.copper.sonority"
+          },
+          {
+            "subject": "iodine",
+            "test": "lustre",
+            "outcome": "lab.ch2-u5-propertytester-1.r.iodine.lustre"
+          },
+          {
+            "subject": "iodine",
+            "test": "conductivity",
+            "outcome": "lab.ch2-u5-propertytester-1.r.iodine.conductivity"
+          },
+          {
+            "subject": "iodine",
+            "test": "ductility",
+            "outcome": "lab.ch2-u5-propertytester-1.r.iodine.ductility"
+          },
+          {
+            "subject": "iodine",
+            "test": "malleability",
+            "outcome": "lab.ch2-u5-propertytester-1.r.iodine.malleability"
+          },
+          {
+            "subject": "iodine",
+            "test": "sonority",
+            "outcome": "lab.ch2-u5-propertytester-1.r.iodine.sonority"
+          },
+          {
+            "subject": "silicon",
+            "test": "lustre",
+            "outcome": "lab.ch2-u5-propertytester-1.r.silicon.lustre"
+          },
+          {
+            "subject": "silicon",
+            "test": "conductivity",
+            "outcome": "lab.ch2-u5-propertytester-1.r.silicon.conductivity"
+          },
+          {
+            "subject": "silicon",
+            "test": "ductility",
+            "outcome": "lab.ch2-u5-propertytester-1.r.silicon.ductility"
+          },
+          {
+            "subject": "silicon",
+            "test": "malleability",
+            "outcome": "lab.ch2-u5-propertytester-1.r.silicon.malleability"
+          },
+          {
+            "subject": "silicon",
+            "test": "sonority",
+            "outcome": "lab.ch2-u5-propertytester-1.r.silicon.sonority",
+            "tells": "lab.ch2-u5-propertytester-1.tells.silicon"
+          },
+          {
+            "subject": "mercury",
+            "test": "lustre",
+            "outcome": "lab.ch2-u5-propertytester-1.r.mercury.lustre"
+          },
+          {
+            "subject": "mercury",
+            "test": "conductivity",
+            "outcome": "lab.ch2-u5-propertytester-1.r.mercury.conductivity"
+          },
+          {
+            "subject": "mercury",
+            "test": "ductility",
+            "outcome": "lab.ch2-u5-propertytester-1.r.mercury.ductility"
+          },
+          {
+            "subject": "mercury",
+            "test": "malleability",
+            "outcome": "lab.ch2-u5-propertytester-1.r.mercury.malleability"
+          },
+          {
+            "subject": "mercury",
+            "test": "sonority",
+            "outcome": "lab.ch2-u5-propertytester-1.r.mercury.sonority"
+          },
+          {
+            "subject": "bromine",
+            "test": "lustre",
+            "outcome": "lab.ch2-u5-propertytester-1.r.bromine.lustre"
+          },
+          {
+            "subject": "bromine",
+            "test": "conductivity",
+            "outcome": "lab.ch2-u5-propertytester-1.r.bromine.conductivity"
+          },
+          {
+            "subject": "bromine",
+            "test": "ductility",
+            "outcome": "lab.ch2-u5-propertytester-1.r.bromine.ductility"
+          },
+          {
+            "subject": "bromine",
+            "test": "malleability",
+            "outcome": "lab.ch2-u5-propertytester-1.r.bromine.malleability"
+          },
+          {
+            "subject": "bromine",
+            "test": "sonority",
+            "outcome": "lab.ch2-u5-propertytester-1.r.bromine.sonority"
+          },
+          {
+            "subject": "carbon",
+            "test": "lustre",
+            "outcome": "lab.ch2-u5-propertytester-1.r.carbon.lustre"
+          },
+          {
+            "subject": "carbon",
+            "test": "conductivity",
+            "outcome": "lab.ch2-u5-propertytester-1.r.carbon.conductivity"
+          },
+          {
+            "subject": "carbon",
+            "test": "ductility",
+            "outcome": "lab.ch2-u5-propertytester-1.r.carbon.ductility"
+          },
+          {
+            "subject": "carbon",
+            "test": "malleability",
+            "outcome": "lab.ch2-u5-propertytester-1.r.carbon.malleability"
+          },
+          {
+            "subject": "carbon",
+            "test": "sonority",
+            "outcome": "lab.ch2-u5-propertytester-1.r.carbon.sonority",
+            "tells": "lab.ch2-u5-propertytester-1.tells.carbon"
+          }
+        ],
+        "answers": [
+          {
+            "subject": "gold",
+            "bin": "metal"
+          },
+          {
+            "subject": "sulphur",
+            "bin": "nonMetal"
+          },
+          {
+            "subject": "copper",
+            "bin": "metal"
+          },
+          {
+            "subject": "iodine",
+            "bin": "nonMetal"
+          },
+          {
+            "subject": "silicon",
+            "bin": "metalloid"
+          },
+          {
+            "subject": "mercury",
+            "bin": "metal"
+          },
+          {
+            "subject": "bromine",
+            "bin": "nonMetal"
+          },
+          {
+            "subject": "carbon",
+            "bin": "nonMetal"
+          }
+        ],
+        "closing": "lab.ch2-u5-propertytester-1.closing"
       },
       "followUps": [
         {
@@ -1297,18 +1840,80 @@
       },
       "config": {
         "bench": "heating",
-        "paths": [
-          "mixOnly",
-          "heatToRedHot"
-        ],
         "tests": [
-          "magnet",
-          "carbonDisulphide",
-          "diluteAcid",
-          "appearance"
+          {
+            "id": "magnet",
+            "label": "lab.ch2-u5-ironsulphurlab-3.t.magnet"
+          },
+          {
+            "id": "appearance",
+            "label": "lab.ch2-u5-ironsulphurlab-3.t.appearance"
+          },
+          {
+            "id": "diluteAcid",
+            "label": "lab.ch2-u5-ironsulphurlab-3.t.diluteAcid"
+          },
+          {
+            "id": "carbonDisulphide",
+            "label": "lab.ch2-u5-ironsulphurlab-3.t.carbonDisulphide"
+          }
         ],
-        "comparisonTable": true,
-        "successWhen": "bothPathsAllTests"
+        "successWhen": "bothPathsAllTests",
+        "subjects": [
+          {
+            "id": "mixOnly",
+            "label": "lab.ch2-u5-ironsulphurlab-3.s.mixOnly"
+          },
+          {
+            "id": "heatToRedHot",
+            "label": "lab.ch2-u5-ironsulphurlab-3.s.heatToRedHot"
+          }
+        ],
+        "results": [
+          {
+            "subject": "mixOnly",
+            "test": "magnet",
+            "outcome": "lab.ch2-u5-ironsulphurlab-3.r.mixOnly.magnet"
+          },
+          {
+            "subject": "mixOnly",
+            "test": "appearance",
+            "outcome": "lab.ch2-u5-ironsulphurlab-3.r.mixOnly.appearance"
+          },
+          {
+            "subject": "mixOnly",
+            "test": "diluteAcid",
+            "outcome": "lab.ch2-u5-ironsulphurlab-3.r.mixOnly.diluteAcid"
+          },
+          {
+            "subject": "mixOnly",
+            "test": "carbonDisulphide",
+            "outcome": "lab.ch2-u5-ironsulphurlab-3.r.mixOnly.carbonDisulphide",
+            "tells": "lab.ch2-u5-ironsulphurlab-3.tells.mixOnly"
+          },
+          {
+            "subject": "heatToRedHot",
+            "test": "magnet",
+            "outcome": "lab.ch2-u5-ironsulphurlab-3.r.heatToRedHot.magnet"
+          },
+          {
+            "subject": "heatToRedHot",
+            "test": "appearance",
+            "outcome": "lab.ch2-u5-ironsulphurlab-3.r.heatToRedHot.appearance"
+          },
+          {
+            "subject": "heatToRedHot",
+            "test": "diluteAcid",
+            "outcome": "lab.ch2-u5-ironsulphurlab-3.r.heatToRedHot.diluteAcid"
+          },
+          {
+            "subject": "heatToRedHot",
+            "test": "carbonDisulphide",
+            "outcome": "lab.ch2-u5-ironsulphurlab-3.r.heatToRedHot.carbonDisulphide",
+            "tells": "lab.ch2-u5-ironsulphurlab-3.tells.heatToRedHot"
+          }
+        ],
+        "closing": "lab.ch2-u5-ironsulphurlab-3.closing"
       },
       "followUps": [
         {
@@ -1576,17 +2181,45 @@
       "blurb": "ch2.u6.challenge.brief",
       "minutes": 20,
       "config": {
-        "kind": "build",
-        "materials": [
-          "pebbles",
-          "coarseSand",
-          "fineSand",
-          "charcoal",
-          "cloth"
+        "mode": "build",
+        "goal": "chal.ch2-u6-challenge-1.goal",
+        "target": 90,
+        "unitLabel": "chal.ch2-u6-challenge-1.unit",
+        "lowerIsBetter": false,
+        "start": 10,
+        "justify": false,
+        "options": [
+          {
+            "id": "cloth",
+            "label": "chal.ch2-u6-challenge-1.cloth.label",
+            "effect": 15
+          },
+          {
+            "id": "pebbles",
+            "label": "chal.ch2-u6-challenge-1.pebbles.label",
+            "effect": 12
+          },
+          {
+            "id": "coarseSand",
+            "label": "chal.ch2-u6-challenge-1.coarseSand.label",
+            "effect": 20
+          },
+          {
+            "id": "fineSand",
+            "label": "chal.ch2-u6-challenge-1.fineSand.label",
+            "effect": 28
+          },
+          {
+            "id": "charcoal",
+            "label": "chal.ch2-u6-challenge-1.charcoal.label",
+            "effect": 22
+          },
+          {
+            "id": "nothing",
+            "label": "chal.ch2-u6-challenge-1.nothing.label",
+            "effect": -5
+          }
         ],
-        "layerable": true,
-        "clarityScore": true,
-        "successWhen": "clarityAbove90",
         "debrief": "ch2.u6.challenge.debrief"
       },
       "sourceRef": {
@@ -1639,13 +2272,36 @@
       },
       "config": {
         "bench": "beakers",
-        "samples": [
-          "filteredMuddyWater"
-        ],
         "tests": [
-          "torch"
+          {
+            "id": "torch",
+            "label": "lab.ch2-u6-threebeakers-3.t.torch"
+          },
+          {
+            "id": "evaporate",
+            "label": "lab.ch2-u6-threebeakers-3.t.evaporate"
+          }
         ],
-        "resultsTable": false
+        "subjects": [
+          {
+            "id": "filteredMuddyWater",
+            "label": "lab.ch2-u6-threebeakers-3.s.filteredMuddyWater"
+          }
+        ],
+        "results": [
+          {
+            "subject": "filteredMuddyWater",
+            "test": "torch",
+            "outcome": "lab.ch2-u6-threebeakers-3.r.filteredMuddyWater.torch"
+          },
+          {
+            "subject": "filteredMuddyWater",
+            "test": "evaporate",
+            "outcome": "lab.ch2-u6-threebeakers-3.r.filteredMuddyWater.evaporate",
+            "tells": "lab.ch2-u6-threebeakers-3.tells.filteredMuddyWater"
+          }
+        ],
+        "closing": "lab.ch2-u6-threebeakers-3.closing"
       },
       "followUps": [
         {

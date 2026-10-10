@@ -773,12 +773,30 @@
       },
       "config": {
         "mode": "chain",
-        "materials": [
-          "iron",
-          "chalk",
-          "rubber"
+        "items": [
+          {
+            "id": "rubber",
+            "label": "force.ch1-u3-bondbreaker-4.rubber.label",
+            "give": 85,
+            "result": "force.ch1-u3-bondbreaker-4.rubber.result",
+            "because": "force.ch1-u3-bondbreaker-4.rubber.because"
+          },
+          {
+            "id": "chalk",
+            "label": "force.ch1-u3-bondbreaker-4.chalk.label",
+            "give": 8,
+            "result": "force.ch1-u3-bondbreaker-4.chalk.result",
+            "because": "force.ch1-u3-bondbreaker-4.chalk.because"
+          },
+          {
+            "id": "iron",
+            "label": "force.ch1-u3-bondbreaker-4.iron.label",
+            "give": 2,
+            "result": "force.ch1-u3-bondbreaker-4.iron.result",
+            "because": "force.ch1-u3-bondbreaker-4.iron.because"
+          }
         ],
-        "showHumanChainAnalogy": true
+        "closing": "force.ch1-u3-bondbreaker-4.closing"
       },
       "followUps": [
         {
@@ -882,13 +900,30 @@
       },
       "config": {
         "mode": "piston",
-        "contents": [
-          "air",
-          "water",
-          "chalk"
+        "items": [
+          {
+            "id": "air",
+            "label": "force.ch1-u4-syringetest-2.air.label",
+            "give": 75,
+            "result": "force.ch1-u4-syringetest-2.air.result",
+            "because": "force.ch1-u4-syringetest-2.air.because"
+          },
+          {
+            "id": "water",
+            "label": "force.ch1-u4-syringetest-2.water.label",
+            "give": 3,
+            "result": "force.ch1-u4-syringetest-2.water.result",
+            "because": "force.ch1-u4-syringetest-2.water.because"
+          },
+          {
+            "id": "chalk",
+            "label": "force.ch1-u4-syringetest-2.chalk.label",
+            "give": 1,
+            "result": "force.ch1-u4-syringetest-2.chalk.result",
+            "because": "force.ch1-u4-syringetest-2.chalk.because"
+          }
         ],
-        "haptics": true,
-        "particleView": true
+        "closing": "force.ch1-u4-syringetest-2.closing"
       },
       "followUps": [
         {
@@ -1534,8 +1569,44 @@
       "minutes": 20,
       "config": {
         "mode": "race",
-        "targetMinutes": 45,
-        "successWhen": "underTarget",
+        "goal": "chal.ch1-u7-challenge-3.goal",
+        "target": 45,
+        "unitLabel": "chal.ch1-u7-challenge-3.unit",
+        "lowerIsBetter": true,
+        "start": 180,
+        "justify": false,
+        "options": [
+          {
+            "id": "spread",
+            "label": "chal.ch1-u7-challenge-3.spread.label",
+            "effect": -55
+          },
+          {
+            "id": "sun",
+            "label": "chal.ch1-u7-challenge-3.sun.label",
+            "effect": -40
+          },
+          {
+            "id": "fan",
+            "label": "chal.ch1-u7-challenge-3.fan.label",
+            "effect": -45
+          },
+          {
+            "id": "wring",
+            "label": "chal.ch1-u7-challenge-3.wring.label",
+            "effect": -30
+          },
+          {
+            "id": "indoors",
+            "label": "chal.ch1-u7-challenge-3.indoors.label",
+            "effect": 25
+          },
+          {
+            "id": "fold",
+            "label": "chal.ch1-u7-challenge-3.fold.label",
+            "effect": 35
+          }
+        ],
         "debrief": "ch1.u7.challenge.debrief"
       },
       "sourceRef": {
@@ -1631,16 +1702,56 @@
       "minutes": 20,
       "config": {
         "mode": "summerProblem",
-        "interventions": [
-          "matka",
-          "wetCurtain",
-          "roofWater",
-          "cottonClothes",
-          "shadedPot",
-          "openWindow"
+        "goal": "chal.ch1-u8-challenge-1.goal",
+        "target": -14,
+        "unitLabel": "chal.ch1-u8-challenge-1.unit",
+        "lowerIsBetter": true,
+        "start": 0,
+        "justify": true,
+        "options": [
+          {
+            "id": "matka",
+            "label": "chal.ch1-u8-challenge-1.matka.label",
+            "effect": -4,
+            "because": "chal.ch1-u8-challenge-1.matka.because",
+            "wrongBecause": "chal.ch1-u8-challenge-1.matka.wrong"
+          },
+          {
+            "id": "wetCurtain",
+            "label": "chal.ch1-u8-challenge-1.wetCurtain.label",
+            "effect": -4,
+            "because": "chal.ch1-u8-challenge-1.wetCurtain.because",
+            "wrongBecause": "chal.ch1-u8-challenge-1.wetCurtain.wrong"
+          },
+          {
+            "id": "roofWater",
+            "label": "chal.ch1-u8-challenge-1.roofWater.label",
+            "effect": -3,
+            "because": "chal.ch1-u8-challenge-1.roofWater.because",
+            "wrongBecause": "chal.ch1-u8-challenge-1.roofWater.wrong"
+          },
+          {
+            "id": "cottonClothes",
+            "label": "chal.ch1-u8-challenge-1.cottonClothes.label",
+            "effect": -2,
+            "because": "chal.ch1-u8-challenge-1.cottonClothes.because",
+            "wrongBecause": "chal.ch1-u8-challenge-1.cottonClothes.wrong"
+          },
+          {
+            "id": "shadedPot",
+            "label": "chal.ch1-u8-challenge-1.shadedPot.label",
+            "effect": -3,
+            "because": "chal.ch1-u8-challenge-1.shadedPot.because",
+            "wrongBecause": "chal.ch1-u8-challenge-1.shadedPot.wrong"
+          },
+          {
+            "id": "openWindow",
+            "label": "chal.ch1-u8-challenge-1.openWindow.label",
+            "effect": -2,
+            "because": "chal.ch1-u8-challenge-1.openWindow.because",
+            "wrongBecause": "chal.ch1-u8-challenge-1.openWindow.wrong"
+          }
         ],
-        "requiresJustification": true,
-        "successWhen": "waterBelowTarget && roomBelowTarget && allJustified",
         "debrief": "ch1.u8.challenge.debrief"
       },
       "followUps": [
