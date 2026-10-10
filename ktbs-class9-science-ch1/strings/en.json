@@ -493,5 +493,14 @@
   "recap.s.u8.q2.listenFor": "\"Yes, because it is still mud.\" A good test of whether the mechanism landed or just the example.",
   "recap.s.u8.q3.ask": "On a humid coastal day, which cools you better: a desert cooler or a plain fan?",
   "recap.s.u8.q3.answer": "The fan. A desert cooler works by evaporation, and humid air will not accept much more water.",
-  "recap.s.u8.q3.listenFor": "\"The cooler, it is bigger.\" Ask what the cooler is actually doing to the air."
+  "recap.s.u8.q3.listenFor": "\"The cooler, it is bigger.\" Ask what the cooler is actually doing to the air.",
+  "aid.s.u7.meaning": "To move away fast, which is what the water is doing.",
+  "aid.s.u7.D.property": "Dryness of the air",
+  "aid.s.u7.A.property": "Air moving over it",
+  "aid.s.u7.S.property": "Surface area",
+  "aid.s.u7.H.property": "Heat",
+  "aid.s.u7.D.note": "The drier the air, the faster it takes more water. On a humid day the washing stays wet.",
+  "aid.s.u7.A.note": "Wind carries away the escaped particles, so the air just above stays hungry for more.",
+  "aid.s.u7.S.note": "Spread it out and more particles sit at the surface, where escaping happens.",
+  "aid.s.u7.H.note": "Warmer particles move faster, so more of them have enough energy to break free."
 }

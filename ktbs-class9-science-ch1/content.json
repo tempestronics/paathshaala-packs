@@ -198,7 +198,34 @@
           "answer": "recap.s.u7.q3.answer",
           "listenFor": "recap.s.u7.q3.listenFor"
         }
-      ]
+      ],
+      "memoryAid": {
+        "technique": "acronym",
+        "word": "DASH",
+        "meaning": "aid.s.u7.meaning",
+        "letters": [
+          {
+            "letter": "D",
+            "property": "aid.s.u7.D.property",
+            "note": "aid.s.u7.D.note"
+          },
+          {
+            "letter": "A",
+            "property": "aid.s.u7.A.property",
+            "note": "aid.s.u7.A.note"
+          },
+          {
+            "letter": "S",
+            "property": "aid.s.u7.S.property",
+            "note": "aid.s.u7.S.note"
+          },
+          {
+            "letter": "H",
+            "property": "aid.s.u7.H.property",
+            "note": "aid.s.u7.H.note"
+          }
+        ]
+      }
     },
     {
       "id": "s.u8",

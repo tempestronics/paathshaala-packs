@@ -54,7 +54,34 @@
             "label": "Exercise 1"
           }
         }
-      ]
+      ],
+      "memoryAid": {
+        "technique": "acronym",
+        "word": "STEP",
+        "meaning": "aid.s.u2.meaning",
+        "letters": [
+          {
+            "letter": "S",
+            "property": "aid.s.u2.S.property",
+            "note": "aid.s.u2.S.note"
+          },
+          {
+            "letter": "T",
+            "property": "aid.s.u2.T.property",
+            "note": "aid.s.u2.T.note"
+          },
+          {
+            "letter": "E",
+            "property": "aid.s.u2.E.property",
+            "note": "aid.s.u2.E.note"
+          },
+          {
+            "letter": "P",
+            "property": "aid.s.u2.P.property",
+            "note": "aid.s.u2.P.note"
+          }
+        ]
+      }
     },
     {
       "id": "s.u3",
@@ -137,7 +164,54 @@
           "answer": "recap.s.u5.q3.answer",
           "listenFor": "recap.s.u5.q3.listenFor"
         }
-      ]
+      ],
+      "memoryAid": {
+        "technique": "acronym",
+        "word": "SELDOM",
+        "meaning": "aid.s.u5.meaning",
+        "contrast": {
+          "a": "aid.s.u5.a",
+          "b": "aid.s.u5.b"
+        },
+        "letters": [
+          {
+            "letter": "S",
+            "property": "aid.s.u5.S.property",
+            "a": "aid.s.u5.S.a",
+            "b": "aid.s.u5.S.b"
+          },
+          {
+            "letter": "E",
+            "property": "aid.s.u5.E.property",
+            "a": "aid.s.u5.E.a",
+            "b": "aid.s.u5.E.b"
+          },
+          {
+            "letter": "L",
+            "property": "aid.s.u5.L.property",
+            "a": "aid.s.u5.L.a",
+            "b": "aid.s.u5.L.b"
+          },
+          {
+            "letter": "D",
+            "property": "aid.s.u5.D.property",
+            "a": "aid.s.u5.D.a",
+            "b": "aid.s.u5.D.b"
+          },
+          {
+            "letter": "O",
+            "property": "aid.s.u5.O.property",
+            "a": "aid.s.u5.O.a",
+            "b": "aid.s.u5.O.b"
+          },
+          {
+            "letter": "M",
+            "property": "aid.s.u5.M.property",
+            "a": "aid.s.u5.M.a",
+            "b": "aid.s.u5.M.b"
+          }
+        ]
+      }
     },
     {
       "id": "s.u6",
