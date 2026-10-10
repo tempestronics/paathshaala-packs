@@ -262,6 +262,146 @@
       ]
     }
   ],
+  "zoomStops": [
+    {
+      "id": "grain",
+      "label": "zoom.grain.label",
+      "size": "1 mm",
+      "blurb": "zoom.grain.blurb"
+    },
+    {
+      "id": "glass",
+      "label": "zoom.glass.label",
+      "size": "0.1 mm",
+      "blurb": "zoom.glass.blurb"
+    },
+    {
+      "id": "drop",
+      "label": "zoom.drop.label",
+      "size": "10 µm",
+      "blurb": "zoom.drop.blurb"
+    },
+    {
+      "id": "suspensionParticle",
+      "label": "zoom.suspensionParticle.label",
+      "size": "1 µm",
+      "blurb": "zoom.suspensionParticle.blurb"
+    },
+    {
+      "id": "colloidParticle",
+      "label": "zoom.colloidParticle.label",
+      "size": "100 nm",
+      "blurb": "zoom.colloidParticle.blurb"
+    },
+    {
+      "id": "solutionBoundary",
+      "label": "zoom.solutionBoundary.label",
+      "size": "1 nm",
+      "blurb": "zoom.solutionBoundary.blurb"
+    },
+    {
+      "id": "particle",
+      "label": "zoom.particle.label",
+      "size": "0.1 nm",
+      "blurb": "zoom.particle.blurb"
+    }
+  ],
+  "trees": [
+    {
+      "id": "matter",
+      "root": "matter",
+      "nodes": [
+        {
+          "id": "matter",
+          "label": "tree.matter.matter.label",
+          "question": "tree.matter.matter.q",
+          "options": [
+            {
+              "label": "tree.matter.matter.o0",
+              "goes": "pure"
+            },
+            {
+              "label": "tree.matter.matter.o1",
+              "goes": "mixture"
+            }
+          ]
+        },
+        {
+          "id": "pure",
+          "label": "tree.matter.pure.label",
+          "question": "tree.matter.pure.q",
+          "options": [
+            {
+              "label": "tree.matter.pure.o0",
+              "goes": "element"
+            },
+            {
+              "label": "tree.matter.pure.o1",
+              "goes": "compound"
+            }
+          ]
+        },
+        {
+          "id": "element",
+          "label": "tree.matter.element.label",
+          "question": "tree.matter.element.q",
+          "options": [
+            {
+              "label": "tree.matter.element.o0",
+              "goes": "metal"
+            },
+            {
+              "label": "tree.matter.element.o1",
+              "goes": "nonmetal"
+            },
+            {
+              "label": "tree.matter.element.o2",
+              "goes": "metalloid"
+            }
+          ]
+        },
+        {
+          "id": "metal",
+          "label": "tree.matter.metal.label"
+        },
+        {
+          "id": "nonmetal",
+          "label": "tree.matter.nonmetal.label"
+        },
+        {
+          "id": "metalloid",
+          "label": "tree.matter.metalloid.label"
+        },
+        {
+          "id": "compound",
+          "label": "tree.matter.compound.label"
+        },
+        {
+          "id": "mixture",
+          "label": "tree.matter.mixture.label",
+          "question": "tree.matter.mixture.q",
+          "options": [
+            {
+              "label": "tree.matter.mixture.o0",
+              "goes": "homogeneous"
+            },
+            {
+              "label": "tree.matter.mixture.o1",
+              "goes": "heterogeneous"
+            }
+          ]
+        },
+        {
+          "id": "homogeneous",
+          "label": "tree.matter.homogeneous.label"
+        },
+        {
+          "id": "heterogeneous",
+          "label": "tree.matter.heterogeneous.label"
+        }
+      ]
+    }
+  ],
   "misconceptions": [
     {
       "id": "pure-means-clean",
@@ -1227,7 +1367,74 @@
           "carbonDioxide",
           "blood"
         ],
-        "successWhen": "allPlaced"
+        "successWhen": "allPlaced",
+        "items": [
+          {
+            "id": "sodium",
+            "label": "tree.item.sodium",
+            "leaf": "metal"
+          },
+          {
+            "id": "soil",
+            "label": "tree.item.soil",
+            "leaf": "heterogeneous"
+          },
+          {
+            "id": "sugarSolution",
+            "label": "tree.item.sugarSolution",
+            "leaf": "homogeneous"
+          },
+          {
+            "id": "silver",
+            "label": "tree.item.silver",
+            "leaf": "metal"
+          },
+          {
+            "id": "calciumCarbonate",
+            "label": "tree.item.calciumCarbonate",
+            "leaf": "compound"
+          },
+          {
+            "id": "tin",
+            "label": "tree.item.tin",
+            "leaf": "metal"
+          },
+          {
+            "id": "silicon",
+            "label": "tree.item.silicon",
+            "leaf": "metalloid"
+          },
+          {
+            "id": "coal",
+            "label": "tree.item.coal",
+            "leaf": "heterogeneous"
+          },
+          {
+            "id": "air",
+            "label": "tree.item.air",
+            "leaf": "homogeneous"
+          },
+          {
+            "id": "soap",
+            "label": "tree.item.soap",
+            "leaf": "compound"
+          },
+          {
+            "id": "methane",
+            "label": "tree.item.methane",
+            "leaf": "compound"
+          },
+          {
+            "id": "carbonDioxide",
+            "label": "tree.item.carbonDioxide",
+            "leaf": "compound"
+          },
+          {
+            "id": "blood",
+            "label": "tree.item.blood",
+            "leaf": "heterogeneous"
+          }
+        ]
       },
       "sourceRef": {
         "page": 19,
@@ -1245,7 +1452,74 @@
         "tree": "matter",
         "mode": "reverse",
         "rounds": 5,
-        "successWhen": "allRoundsCorrect"
+        "successWhen": "allRoundsCorrect",
+        "items": [
+          {
+            "id": "sodium",
+            "label": "tree.item.sodium",
+            "leaf": "metal"
+          },
+          {
+            "id": "soil",
+            "label": "tree.item.soil",
+            "leaf": "heterogeneous"
+          },
+          {
+            "id": "sugarSolution",
+            "label": "tree.item.sugarSolution",
+            "leaf": "homogeneous"
+          },
+          {
+            "id": "silver",
+            "label": "tree.item.silver",
+            "leaf": "metal"
+          },
+          {
+            "id": "calciumCarbonate",
+            "label": "tree.item.calciumCarbonate",
+            "leaf": "compound"
+          },
+          {
+            "id": "tin",
+            "label": "tree.item.tin",
+            "leaf": "metal"
+          },
+          {
+            "id": "silicon",
+            "label": "tree.item.silicon",
+            "leaf": "metalloid"
+          },
+          {
+            "id": "coal",
+            "label": "tree.item.coal",
+            "leaf": "heterogeneous"
+          },
+          {
+            "id": "air",
+            "label": "tree.item.air",
+            "leaf": "homogeneous"
+          },
+          {
+            "id": "soap",
+            "label": "tree.item.soap",
+            "leaf": "compound"
+          },
+          {
+            "id": "methane",
+            "label": "tree.item.methane",
+            "leaf": "compound"
+          },
+          {
+            "id": "carbonDioxide",
+            "label": "tree.item.carbonDioxide",
+            "leaf": "compound"
+          },
+          {
+            "id": "blood",
+            "label": "tree.item.blood",
+            "leaf": "heterogeneous"
+          }
+        ]
       },
       "sourceRef": {
         "page": 19,

@@ -254,6 +254,38 @@
       ]
     }
   ],
+  "zoomStops": [
+    {
+      "id": "hand",
+      "label": "zoom.hand.label",
+      "size": "10 cm",
+      "blurb": "zoom.hand.blurb"
+    },
+    {
+      "id": "grain",
+      "label": "zoom.grain.label",
+      "size": "1 mm",
+      "blurb": "zoom.grain.blurb"
+    },
+    {
+      "id": "glass",
+      "label": "zoom.glass.label",
+      "size": "0.1 mm",
+      "blurb": "zoom.glass.blurb"
+    },
+    {
+      "id": "drop",
+      "label": "zoom.drop.label",
+      "size": "10 µm",
+      "blurb": "zoom.drop.blurb"
+    },
+    {
+      "id": "particle",
+      "label": "zoom.particle.label",
+      "size": "0.1 nm",
+      "blurb": "zoom.particle.blurb"
+    }
+  ],
   "misconceptions": [
     {
       "id": "gaps-contain-air",
@@ -1325,7 +1357,56 @@
       "config": {
         "diagram": "state-interconversion",
         "labelCount": 6,
-        "successWhen": "allCorrect"
+        "successWhen": "allCorrect",
+        "states": [
+          {
+            "id": "solid",
+            "label": "diagram.state.solid"
+          },
+          {
+            "id": "liquid",
+            "label": "diagram.state.liquid"
+          },
+          {
+            "id": "gas",
+            "label": "diagram.state.gas"
+          }
+        ],
+        "moves": [
+          {
+            "from": "solid",
+            "to": "liquid",
+            "answer": "diagram.move.0.answer",
+            "alsoAccept": "diagram.move.0.alt"
+          },
+          {
+            "from": "liquid",
+            "to": "solid",
+            "answer": "diagram.move.1.answer",
+            "alsoAccept": "diagram.move.1.alt"
+          },
+          {
+            "from": "liquid",
+            "to": "gas",
+            "answer": "diagram.move.2.answer",
+            "alsoAccept": "diagram.move.2.alt"
+          },
+          {
+            "from": "gas",
+            "to": "liquid",
+            "answer": "diagram.move.3.answer"
+          },
+          {
+            "from": "solid",
+            "to": "gas",
+            "answer": "diagram.move.4.answer"
+          },
+          {
+            "from": "gas",
+            "to": "solid",
+            "answer": "diagram.move.5.answer"
+          }
+        ]
       },
       "sourceRef": {
         "page": 8,
