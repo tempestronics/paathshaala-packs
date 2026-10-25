@@ -31,7 +31,7 @@
   "ch5.plant.nucleus.do": "Draw a solid rounded blob in the upper left, about a fifth of the width.",
   "ch5.plant.nucleus.does": "Holds the instructions and decides what the cell builds. Take it out and the cell runs on for a while, then cannot replace anything.",
   "ch5.plant.vacuole.label": "Large central vacuole",
-  "ch5.plant.vacuole.do": "Draw one very large rounded shape filling most of the right side.",
+  "ch5.plant.vacuole.do": "Draw one very large rounded shape filling most of the right side, with a line around it. It has its own membrane, and it is not green: only the chloroplasts are green.",
   "ch5.plant.vacuole.does": "A storage sac full of cell sap. In a mature plant cell it is the central vacuole, and the book says it can take up 50 to 90 per cent of the cell's volume. The sap provides turgidity and rigidity: that is what holds a soft plant upright.",
   "ch5.plant.vacuole.only": "Plant cells have one very large central vacuole. Animal cells have small ones.",
   "ch5.plant.chloroplast.label": "Chloroplasts, which are one kind of plastid",
