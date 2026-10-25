@@ -267,7 +267,16 @@
                   -249.5
                 ]
               }
-            ]
+            ],
+            "detail": {
+              "points": [
+                "ch5.plant.wall.detail.p0",
+                "ch5.plant.wall.detail.p1",
+                "ch5.plant.wall.detail.p2",
+                "ch5.plant.wall.detail.p3",
+                "ch5.plant.wall.detail.p4"
+              ]
+            }
           },
           {
             "id": "membrane",
@@ -294,7 +303,16 @@
                   -249.5
                 ]
               }
-            ]
+            ],
+            "detail": {
+              "points": [
+                "ch5.plant.membrane.detail.p0",
+                "ch5.plant.membrane.detail.p1",
+                "ch5.plant.membrane.detail.p2",
+                "ch5.plant.membrane.detail.p3",
+                "ch5.plant.membrane.detail.p4"
+              ]
+            }
           },
           {
             "id": "nucleus",
@@ -316,7 +334,125 @@
                   -249.5
                 ]
               }
-            ]
+            ],
+            "detail": {
+              "points": [
+                "ch5.plant.nucleus.detail.p0",
+                "ch5.plant.nucleus.detail.p1",
+                "ch5.plant.nucleus.detail.p2",
+                "ch5.plant.nucleus.detail.p3",
+                "ch5.plant.nucleus.detail.p4",
+                "ch5.plant.nucleus.detail.p5"
+              ],
+              "diagram": {
+                "viewBox": "0 0 200 120",
+                "ratio": 1.67,
+                "shapes": [
+                  {
+                    "kind": "ellipse",
+                    "x": 10,
+                    "y": 10,
+                    "w": 180,
+                    "h": 100,
+                    "fill": "#bfe3e7",
+                    "filled": true,
+                    "stroke": "#1c818a",
+                    "strokeWidth": 3
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 17,
+                    "y": 17,
+                    "w": 166,
+                    "h": 86,
+                    "stroke": "#1c818a",
+                    "strokeWidth": 2
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 30,
+                    "y": 28,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 94,
+                    "y": 10,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 158,
+                    "y": 40,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 54,
+                    "y": 96,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 134,
+                    "y": 100,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 8,
+                    "y": 66,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 78,
+                    "y": 42,
+                    "w": 44,
+                    "h": 36,
+                    "fill": "#14616a",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M40 60 C60 44 70 82 92 64",
+                    "stroke": "#14616a",
+                    "strokeWidth": 2.5
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M110 36 C128 54 140 30 160 52",
+                    "stroke": "#14616a",
+                    "strokeWidth": 2.5
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M52 88 C76 72 96 96 124 84",
+                    "stroke": "#14616a",
+                    "strokeWidth": 2.5
+                  }
+                ]
+              },
+              "howToDraw": "ch5.plant.nucleus.detail.how"
+            }
           },
           {
             "id": "vacuole",
@@ -339,7 +475,16 @@
                   -249.5
                 ]
               }
-            ]
+            ],
+            "detail": {
+              "points": [
+                "ch5.plant.vacuole.detail.p0",
+                "ch5.plant.vacuole.detail.p1",
+                "ch5.plant.vacuole.detail.p2",
+                "ch5.plant.vacuole.detail.p3",
+                "ch5.plant.vacuole.detail.p4"
+              ]
+            }
           },
           {
             "id": "chloroplast",
@@ -356,6 +501,48 @@
                 "h": 33.610566,
                 "fill": "#5fd38d",
                 "filled": true,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-343.19 -684.75 L-343.19 -667.28",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-320.15 -684.75 L-320.15 -667.28",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-297.10 -684.75 L-297.10 -667.28",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
                 "transform": [
                   0.59176,
                   -0.806114,
@@ -383,6 +570,48 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M-780.64 81.89 L-780.64 99.37",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  -0.474015,
+                  -0.880517,
+                  -0.880517,
+                  0.474015,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-757.59 81.89 L-757.59 99.37",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  -0.474015,
+                  -0.880517,
+                  -0.880517,
+                  0.474015,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-734.55 81.89 L-734.55 99.37",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  -0.474015,
+                  -0.880517,
+                  -0.880517,
+                  0.474015,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
                 "kind": "ellipse",
                 "x": -390.037378,
                 "y": -771.1014230000001,
@@ -390,6 +619,48 @@
                 "h": 33.610566,
                 "fill": "#5fd38d",
                 "filled": true,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-378.51 -763.03 L-378.51 -745.56",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-355.47 -763.03 L-355.47 -745.56",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-332.42 -763.03 L-332.42 -745.56",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
                 "transform": [
                   0.59176,
                   -0.806114,
@@ -417,6 +688,48 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M-142.19 -496.77 L-142.19 -479.29",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-119.14 -496.77 L-119.14 -479.29",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-96.10 -496.77 L-96.10 -479.29",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
                 "kind": "ellipse",
                 "x": -70.500801,
                 "y": -564.524213,
@@ -424,6 +737,48 @@
                 "h": 33.610566,
                 "fill": "#5fd38d",
                 "filled": true,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-58.98 -556.46 L-58.98 -538.98",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-35.93 -556.46 L-35.93 -538.98",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-12.88 -556.46 L-12.88 -538.98",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
                 "transform": [
                   0.59176,
                   -0.806114,
@@ -449,8 +804,225 @@
                   154.4,
                   -249.5
                 ]
+              },
+              {
+                "kind": "path",
+                "d": "M-36.53 -665.42 L-36.53 -647.94",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M-13.48 -665.42 L-13.48 -647.94",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "path",
+                "d": "M9.57 -665.42 L9.57 -647.94",
+                "stroke": "#2f8a55",
+                "strokeWidth": 1.6,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
               }
-            ]
+            ],
+            "detail": {
+              "points": [
+                "ch5.plant.chloroplast.detail.p0",
+                "ch5.plant.chloroplast.detail.p1",
+                "ch5.plant.chloroplast.detail.p2",
+                "ch5.plant.chloroplast.detail.p3",
+                "ch5.plant.chloroplast.detail.p4",
+                "ch5.plant.chloroplast.detail.p5"
+              ],
+              "diagram": {
+                "viewBox": "0 0 200 120",
+                "ratio": 1.67,
+                "shapes": [
+                  {
+                    "kind": "ellipse",
+                    "x": 6,
+                    "y": 14,
+                    "w": 188,
+                    "h": 92,
+                    "fill": "#9fd8b0",
+                    "filled": true,
+                    "stroke": "#2f8a55",
+                    "strokeWidth": 3
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 29,
+                    "y": 34,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 29,
+                    "y": 43,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 29,
+                    "y": 52,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 29,
+                    "y": 61,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 29,
+                    "y": 70,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M67 52 C80 44 84 58 97 50",
+                    "stroke": "#2f8a55",
+                    "strokeWidth": 2
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 77,
+                    "y": 34,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 77,
+                    "y": 43,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 77,
+                    "y": 52,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 77,
+                    "y": 61,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 77,
+                    "y": 70,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M115 58 C128 50 132 64 145 56",
+                    "stroke": "#2f8a55",
+                    "strokeWidth": 2
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 127,
+                    "y": 34,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 127,
+                    "y": 43,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 127,
+                    "y": 52,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 127,
+                    "y": 61,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 127,
+                    "y": 70,
+                    "w": 38,
+                    "h": 7,
+                    "fill": "#2f8a55",
+                    "filled": true
+                  }
+                ]
+              },
+              "howToDraw": "ch5.plant.chloroplast.detail.how"
+            }
           },
           {
             "id": "mitochondrion",
@@ -460,10 +1032,10 @@
             "shapes": [
               {
                 "kind": "ellipse",
-                "x": 92.5,
-                "y": 570.25,
-                "w": 16,
-                "h": 7.5,
+                "x": 88.9,
+                "y": 567.4375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -476,11 +1048,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M93.54 574.00 C97.25 569.54 100.04 578.46 102.82 574.00 C104.68 570.33 106.07 572.69 107.46 571.90",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.8,
+                  -0.56,
+                  0.56,
+                  0.86,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 507.9,
-                "y": 395.35,
-                "w": 16,
-                "h": 7.5,
+                "x": 504.29999999999995,
+                "y": 392.5375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -493,11 +1079,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M508.94 399.10 C512.65 394.64 515.44 403.56 518.22 399.10 C520.08 395.43 521.47 397.79 522.86 397.00",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.93,
+                  0.36,
+                  -0.36,
+                  0.93,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 335.5,
-                "y": 728.85,
-                "w": 16,
-                "h": 7.5,
+                "x": 331.9,
+                "y": 726.0375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -510,11 +1110,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M336.54 732.60 C340.25 728.14 343.04 737.06 345.82 732.60 C347.68 728.93 349.07 731.29 350.46 730.50",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  1,
+                  0,
+                  0,
+                  1,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": -274.3,
-                "y": 425.25,
-                "w": 16,
-                "h": 7.5,
+                "x": -277.90000000000003,
+                "y": 422.4375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -527,11 +1141,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M-273.26 429.00 C-269.55 424.54 -266.76 433.46 -263.98 429.00 C-262.12 425.32 -260.73 427.69 -259.34 426.90",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.18,
+                  -0.98,
+                  0.98,
+                  0.18,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 826.7,
-                "y": 311.45,
-                "w": 16,
-                "h": 7.5,
+                "x": 823.1,
+                "y": 308.6375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -544,11 +1172,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M827.74 315.20 C831.45 310.74 834.24 319.66 837.02 315.20 C838.88 311.52 840.27 313.89 841.66 313.10",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.81,
+                  0.58,
+                  -0.58,
+                  0.81,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": -751.5,
-                "y": 40.65,
-                "w": 16,
-                "h": 7.5,
+                "x": -755.1,
+                "y": 37.8375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -561,11 +1203,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M-750.46 44.40 C-746.75 39.94 -743.96 48.86 -741.18 44.40 C-739.32 40.73 -737.93 43.09 -736.54 42.30",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  -0.47,
+                  -0.88,
+                  -0.88,
+                  0.47,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 451.2,
-                "y": 406.45,
-                "w": 16,
-                "h": 7.5,
+                "x": 447.59999999999997,
+                "y": 403.6375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -578,11 +1234,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M452.24 410.20 C455.95 405.74 458.74 414.66 461.52 410.20 C463.38 406.52 464.77 408.89 466.16 408.10",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  1,
+                  0,
+                  0,
+                  1,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 7.199999999999999,
-                "y": 459.05,
-                "w": 16,
-                "h": 7.5,
+                "x": 3.5999999999999996,
+                "y": 456.2375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -595,11 +1265,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M8.24 462.80 C11.95 458.34 14.74 467.26 17.52 462.80 C19.38 459.12 20.77 461.49 22.16 460.70",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.82,
+                  -0.57,
+                  0.57,
+                  0.82,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 151.1,
-                "y": 602.25,
-                "w": 16,
-                "h": 7.5,
+                "x": 147.5,
+                "y": 599.4375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -612,11 +1296,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M152.14 606.00 C155.85 601.54 158.64 610.46 161.42 606.00 C163.28 602.33 164.67 604.69 166.06 603.90",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.98,
+                  -0.176,
+                  0.176,
+                  0.98,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 478,
-                "y": 503.95,
-                "w": 16,
-                "h": 7.5,
+                "x": 474.4,
+                "y": 501.1375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -627,8 +1325,89 @@
                   154.4,
                   -249.5
                 ]
+              },
+              {
+                "kind": "path",
+                "d": "M479.04 507.70 C482.75 503.24 485.54 512.16 488.32 507.70 C490.18 504.02 491.57 506.39 492.96 505.60",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.968871,
+                  0.247567,
+                  -0.247567,
+                  0.968871,
+                  154.4,
+                  -249.5
+                ]
               }
-            ]
+            ],
+            "detail": {
+              "points": [
+                "ch5.plant.mitochondrion.detail.p0",
+                "ch5.plant.mitochondrion.detail.p1",
+                "ch5.plant.mitochondrion.detail.p2",
+                "ch5.plant.mitochondrion.detail.p3",
+                "ch5.plant.mitochondrion.detail.p4",
+                "ch5.plant.mitochondrion.detail.p5"
+              ],
+              "diagram": {
+                "viewBox": "0 0 200 120",
+                "ratio": 1.67,
+                "shapes": [
+                  {
+                    "kind": "ellipse",
+                    "x": 6,
+                    "y": 8,
+                    "w": 188,
+                    "h": 104,
+                    "fill": "#f7e6f1",
+                    "filled": true,
+                    "stroke": "#a8427f",
+                    "strokeWidth": 3
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 17,
+                    "y": 18,
+                    "w": 166,
+                    "h": 84,
+                    "stroke": "#d88ebf",
+                    "strokeWidth": 2.5
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M43.0 29.5 C41.0 59.4 48.0 71.7 52.0 71.7 C56.0 71.7 63.0 52.8 61.0 22.9 Z",
+                    "fill": "#d88ebf",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M91.0 18.2 C89.0 50.7 96.0 68.0 100.0 68.0 C104.0 68.0 111.0 50.7 109.0 18.2 Z",
+                    "fill": "#d88ebf",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M139.0 22.9 C137.0 50.2 144.0 67.7 148.0 67.7 C152.0 67.7 159.0 56.8 157.0 29.5 Z",
+                    "fill": "#d88ebf",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M67.0 98.5 C65.0 67.3 72.0 52.2 76.0 52.2 C80.0 52.2 87.0 70.1 85.0 101.3 Z",
+                    "fill": "#d88ebf",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M117.0 101.1 C115.0 71.2 122.0 53.9 126.0 53.9 C130.0 53.9 137.0 68.2 135.0 98.1 Z",
+                    "fill": "#d88ebf",
+                    "filled": true
+                  }
+                ]
+              },
+              "howToDraw": "ch5.plant.mitochondrion.detail.how"
+            }
           }
         ]
       },
@@ -736,7 +1515,16 @@
                 "stroke": "#08a",
                 "strokeWidth": 3.5
               }
-            ]
+            ],
+            "detail": {
+              "points": [
+                "ch5.animal.membrane.detail.p0",
+                "ch5.animal.membrane.detail.p1",
+                "ch5.animal.membrane.detail.p2",
+                "ch5.animal.membrane.detail.p3",
+                "ch5.animal.membrane.detail.p4"
+              ]
+            }
           },
           {
             "id": "nucleus",
@@ -750,7 +1538,125 @@
                 "fill": "#1c818a",
                 "filled": true
               }
-            ]
+            ],
+            "detail": {
+              "points": [
+                "ch5.animal.nucleus.detail.p0",
+                "ch5.animal.nucleus.detail.p1",
+                "ch5.animal.nucleus.detail.p2",
+                "ch5.animal.nucleus.detail.p3",
+                "ch5.animal.nucleus.detail.p4",
+                "ch5.animal.nucleus.detail.p5"
+              ],
+              "diagram": {
+                "viewBox": "0 0 200 120",
+                "ratio": 1.67,
+                "shapes": [
+                  {
+                    "kind": "ellipse",
+                    "x": 10,
+                    "y": 10,
+                    "w": 180,
+                    "h": 100,
+                    "fill": "#bfe3e7",
+                    "filled": true,
+                    "stroke": "#1c818a",
+                    "strokeWidth": 3
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 17,
+                    "y": 17,
+                    "w": 166,
+                    "h": 86,
+                    "stroke": "#1c818a",
+                    "strokeWidth": 2
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 30,
+                    "y": 28,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 94,
+                    "y": 10,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 158,
+                    "y": 40,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 54,
+                    "y": 96,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 134,
+                    "y": 100,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 8,
+                    "y": 66,
+                    "w": 12,
+                    "h": 8,
+                    "fill": "#f7f3e8",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 78,
+                    "y": 42,
+                    "w": 44,
+                    "h": 36,
+                    "fill": "#14616a",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M40 60 C60 44 70 82 92 64",
+                    "stroke": "#14616a",
+                    "strokeWidth": 2.5
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M110 36 C128 54 140 30 160 52",
+                    "stroke": "#14616a",
+                    "strokeWidth": 2.5
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M52 88 C76 72 96 96 124 84",
+                    "stroke": "#14616a",
+                    "strokeWidth": 2.5
+                  }
+                ]
+              },
+              "howToDraw": "ch5.animal.nucleus.detail.how"
+            }
           },
           {
             "id": "mitochondrion",
@@ -760,10 +1666,10 @@
             "shapes": [
               {
                 "kind": "ellipse",
-                "x": 74.25,
-                "y": 603.55,
-                "w": 16,
-                "h": 7.5,
+                "x": 70.65,
+                "y": 600.7375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -776,11 +1682,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M75.29 607.30 C79.00 602.84 81.79 611.76 84.57 607.30 C86.43 603.62 87.82 605.99 89.21 605.20",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.829038,
+                  -0.559193,
+                  0.559193,
+                  0.829038,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 559.85,
-                "y": 351.25,
-                "w": 16,
-                "h": 7.5,
+                "x": 556.25,
+                "y": 348.4375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -793,11 +1713,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M560.89 355.00 C564.60 350.54 567.39 359.46 570.17 355.00 C572.03 351.32 573.42 353.69 574.81 352.90",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.93358,
+                  0.358368,
+                  -0.358368,
+                  0.93358,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 408.25,
-                "y": 715.95,
-                "w": 16,
-                "h": 7.5,
+                "x": 404.65,
+                "y": 713.1375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -810,11 +1744,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M409.29 719.70 C413.00 715.24 415.79 724.16 418.57 719.70 C420.43 716.03 421.82 718.39 423.21 717.60",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  1,
+                  0,
+                  0,
+                  1,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": -534,
-                "y": 625.05,
-                "w": 16,
-                "h": 7.5,
+                "x": -537.6,
+                "y": 622.2375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -827,11 +1775,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M-532.96 628.80 C-529.25 624.34 -526.46 633.26 -523.68 628.80 C-521.82 625.12 -520.43 627.49 -519.04 626.70",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.173648,
+                  -0.984808,
+                  0.984808,
+                  0.173648,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 707.5,
-                "y": 154.25,
-                "w": 16,
-                "h": 7.5,
+                "x": 703.9,
+                "y": 151.4375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -844,11 +1806,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M708.54 158.00 C712.25 153.54 715.04 162.46 717.82 158.00 C719.68 154.32 721.07 156.69 722.46 155.90",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.819152,
+                  0.573576,
+                  -0.573576,
+                  0.819152,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": -747.36,
-                "y": -80.75,
-                "w": 16,
-                "h": 7.5,
+                "x": -750.96,
+                "y": -83.5625,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -861,11 +1837,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M-746.32 -77.00 C-742.61 -81.46 -739.82 -72.54 -737.04 -77.00 C-735.18 -80.67 -733.79 -78.31 -732.40 -79.10",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  -0.469472,
+                  -0.882948,
+                  0.882948,
+                  -0.469472,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 7.17,
-                "y": 459.25,
-                "w": 16,
-                "h": 7.5,
+                "x": 3.5700000000000003,
+                "y": 456.4375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -878,11 +1868,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M8.21 463.00 C11.92 458.54 14.71 467.46 17.49 463.00 C19.35 459.32 20.74 461.69 22.13 460.90",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.820252,
+                  -0.572003,
+                  0.572003,
+                  0.820252,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 151.13,
-                "y": 602.25,
-                "w": 16,
-                "h": 7.5,
+                "x": 147.53,
+                "y": 599.4375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -895,11 +1899,25 @@
                 ]
               },
               {
+                "kind": "path",
+                "d": "M152.17 606.00 C155.88 601.54 158.67 610.46 161.45 606.00 C163.31 602.33 164.70 604.69 166.09 603.90",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.984808,
+                  -0.173648,
+                  0.173648,
+                  0.984808,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
                 "kind": "ellipse",
-                "x": 478,
-                "y": 503.95,
-                "w": 16,
-                "h": 7.5,
+                "x": 474.4,
+                "y": 501.1375,
+                "w": 23.2,
+                "h": 13.125,
                 "fill": "#d88ebf",
                 "filled": true,
                 "transform": [
@@ -910,8 +1928,89 @@
                   86.5,
                   -255.256
                 ]
+              },
+              {
+                "kind": "path",
+                "d": "M479.04 507.70 C482.75 503.24 485.54 512.16 488.32 507.70 C490.18 504.02 491.57 506.39 492.96 505.60",
+                "stroke": "#a8427f",
+                "strokeWidth": 1.1,
+                "transform": [
+                  0.969016,
+                  0.246999,
+                  -0.246999,
+                  0.969016,
+                  86.5,
+                  -255.256
+                ]
               }
-            ]
+            ],
+            "detail": {
+              "points": [
+                "ch5.animal.mitochondrion.detail.p0",
+                "ch5.animal.mitochondrion.detail.p1",
+                "ch5.animal.mitochondrion.detail.p2",
+                "ch5.animal.mitochondrion.detail.p3",
+                "ch5.animal.mitochondrion.detail.p4",
+                "ch5.animal.mitochondrion.detail.p5"
+              ],
+              "diagram": {
+                "viewBox": "0 0 200 120",
+                "ratio": 1.67,
+                "shapes": [
+                  {
+                    "kind": "ellipse",
+                    "x": 6,
+                    "y": 8,
+                    "w": 188,
+                    "h": 104,
+                    "fill": "#f7e6f1",
+                    "filled": true,
+                    "stroke": "#a8427f",
+                    "strokeWidth": 3
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 17,
+                    "y": 18,
+                    "w": 166,
+                    "h": 84,
+                    "stroke": "#d88ebf",
+                    "strokeWidth": 2.5
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M43.0 29.5 C41.0 59.4 48.0 71.7 52.0 71.7 C56.0 71.7 63.0 52.8 61.0 22.9 Z",
+                    "fill": "#d88ebf",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M91.0 18.2 C89.0 50.7 96.0 68.0 100.0 68.0 C104.0 68.0 111.0 50.7 109.0 18.2 Z",
+                    "fill": "#d88ebf",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M139.0 22.9 C137.0 50.2 144.0 67.7 148.0 67.7 C152.0 67.7 159.0 56.8 157.0 29.5 Z",
+                    "fill": "#d88ebf",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M67.0 98.5 C65.0 67.3 72.0 52.2 76.0 52.2 C80.0 52.2 87.0 70.1 85.0 101.3 Z",
+                    "fill": "#d88ebf",
+                    "filled": true
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M117.0 101.1 C115.0 71.2 122.0 53.9 126.0 53.9 C130.0 53.9 137.0 68.2 135.0 98.1 Z",
+                    "fill": "#d88ebf",
+                    "filled": true
+                  }
+                ]
+              },
+              "howToDraw": "ch5.animal.mitochondrion.detail.how"
+            }
           }
         ]
       },
