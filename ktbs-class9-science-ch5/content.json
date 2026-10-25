@@ -83,39 +83,46 @@
         }
       ],
       "memoryAid": {
-        "technique": "acronym",
-        "word": "GARDEN",
+        "technique": "acrostic",
+        "word": "EGLMPV",
+        "sentence": "aid.s.u4.sentence",
         "meaning": "aid.s.u4.meaning",
         "letters": [
           {
-            "letter": "G",
-            "property": "aid.s.u4.G.property",
-            "note": "aid.s.u4.G.note"
-          },
-          {
-            "letter": "A",
-            "property": "aid.s.u4.A.property",
-            "note": "aid.s.u4.A.note"
-          },
-          {
-            "letter": "R",
-            "property": "aid.s.u4.R.property",
-            "note": "aid.s.u4.R.note"
-          },
-          {
-            "letter": "D",
-            "property": "aid.s.u4.D.property",
-            "note": "aid.s.u4.D.note"
-          },
-          {
             "letter": "E",
             "property": "aid.s.u4.E.property",
+            "cue": "aid.s.u4.E.cue",
             "note": "aid.s.u4.E.note"
           },
           {
-            "letter": "N",
-            "property": "aid.s.u4.N.property",
-            "note": "aid.s.u4.N.note"
+            "letter": "G",
+            "property": "aid.s.u4.G.property",
+            "cue": "aid.s.u4.G.cue",
+            "note": "aid.s.u4.G.note"
+          },
+          {
+            "letter": "L",
+            "property": "aid.s.u4.L.property",
+            "cue": "aid.s.u4.L.cue",
+            "note": "aid.s.u4.L.note"
+          },
+          {
+            "letter": "M",
+            "property": "aid.s.u4.M.property",
+            "cue": "aid.s.u4.M.cue",
+            "note": "aid.s.u4.M.note"
+          },
+          {
+            "letter": "P",
+            "property": "aid.s.u4.P.property",
+            "cue": "aid.s.u4.P.cue",
+            "note": "aid.s.u4.P.note"
+          },
+          {
+            "letter": "V",
+            "property": "aid.s.u4.V.property",
+            "cue": "aid.s.u4.V.cue",
+            "note": "aid.s.u4.V.note"
           }
         ]
       }
@@ -484,7 +491,8 @@
                 "ch5.plant.vacuole.detail.p1",
                 "ch5.plant.vacuole.detail.p2",
                 "ch5.plant.vacuole.detail.p3",
-                "ch5.plant.vacuole.detail.p4"
+                "ch5.plant.vacuole.detail.p4",
+                "ch5.plant.vacuole.detail.p5"
               ]
             }
           },
