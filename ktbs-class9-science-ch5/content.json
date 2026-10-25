@@ -178,7 +178,8 @@
               {
                 "text": "ch5.u1.quiz.q0.o0",
                 "correct": false,
-                "feedback": "ch5.u1.quiz.q0.f0"
+                "feedback": "ch5.u1.quiz.q0.f0",
+                "misconception": "cells-are-empty-boxes"
               },
               {
                 "text": "ch5.u1.quiz.q0.o1",
@@ -188,12 +189,14 @@
               {
                 "text": "ch5.u1.quiz.q0.o2",
                 "correct": false,
-                "feedback": "ch5.u1.quiz.q0.f2"
+                "feedback": "ch5.u1.quiz.q0.f2",
+                "misconception": "contents-survive-not-walls"
               },
               {
                 "text": "ch5.u1.quiz.q0.o3",
                 "correct": false,
-                "feedback": "ch5.u1.quiz.q0.f3"
+                "feedback": "ch5.u1.quiz.q0.f3",
+                "misconception": "empty-means-instrument-failed"
               }
             ]
           },
@@ -203,7 +206,8 @@
               {
                 "text": "ch5.u1.quiz.q1.o0",
                 "correct": false,
-                "feedback": "ch5.u1.quiz.q1.f0"
+                "feedback": "ch5.u1.quiz.q1.f0",
+                "misconception": "cell-theory-is-just-description"
               },
               {
                 "text": "ch5.u1.quiz.q1.o1",
@@ -213,12 +217,14 @@
               {
                 "text": "ch5.u1.quiz.q1.o2",
                 "correct": false,
-                "feedback": "ch5.u1.quiz.q1.f2"
+                "feedback": "ch5.u1.quiz.q1.f2",
+                "misconception": "one-unit-means-simple"
               },
               {
                 "text": "ch5.u1.quiz.q1.o3",
                 "correct": false,
-                "feedback": "ch5.u1.quiz.q1.f3"
+                "feedback": "ch5.u1.quiz.q1.f3",
+                "misconception": "cells-small-so-organisms-small"
               }
             ]
           }
@@ -2812,7 +2818,8 @@
               {
                 "text": "ch5.u5.quiz.q0.o0",
                 "correct": false,
-                "feedback": "ch5.u5.quiz.q0.f0"
+                "feedback": "ch5.u5.quiz.q0.f0",
+                "misconception": "size-is-about-repair"
               },
               {
                 "text": "ch5.u5.quiz.q0.o1",
@@ -2822,17 +2829,66 @@
               {
                 "text": "ch5.u5.quiz.q0.o2",
                 "correct": false,
-                "feedback": "ch5.u5.quiz.q0.f2"
+                "feedback": "ch5.u5.quiz.q0.f2",
+                "misconception": "size-is-about-division-speed"
               },
               {
                 "text": "ch5.u5.quiz.q0.o3",
                 "correct": false,
-                "feedback": "ch5.u5.quiz.q0.f3"
+                "feedback": "ch5.u5.quiz.q0.f3",
+                "misconception": "a-cell-is-always-microscopic"
               }
             ]
           }
         ]
       }
+    }
+  ],
+  "misconceptions": [
+    {
+      "id": "cells-are-empty-boxes",
+      "statement": "mis.cellsAreEmptyBoxes.statement",
+      "correction": "mis.cellsAreEmptyBoxes.correction"
+    },
+    {
+      "id": "contents-survive-not-walls",
+      "statement": "mis.contentsSurviveNotWalls.statement",
+      "correction": "mis.contentsSurviveNotWalls.correction"
+    },
+    {
+      "id": "empty-means-instrument-failed",
+      "statement": "mis.emptyMeansInstrumentFailed.statement",
+      "correction": "mis.emptyMeansInstrumentFailed.correction"
+    },
+    {
+      "id": "cell-theory-is-just-description",
+      "statement": "mis.cellTheoryIsJustDescription.statement",
+      "correction": "mis.cellTheoryIsJustDescription.correction"
+    },
+    {
+      "id": "one-unit-means-simple",
+      "statement": "mis.oneUnitMeansSimple.statement",
+      "correction": "mis.oneUnitMeansSimple.correction"
+    },
+    {
+      "id": "cells-small-so-organisms-small",
+      "statement": "mis.cellsSmallSoOrganismsSmall.statement",
+      "correction": "mis.cellsSmallSoOrganismsSmall.correction"
+    },
+    {
+      "id": "size-is-about-repair",
+      "statement": "mis.sizeIsAboutRepair.statement",
+      "correction": "mis.sizeIsAboutRepair.correction"
+    },
+    {
+      "id": "size-is-about-division-speed",
+      "statement": "mis.sizeIsAboutDivisionSpeed.statement",
+      "correction": "mis.sizeIsAboutDivisionSpeed.correction"
+    },
+    {
+      "id": "a-cell-is-always-microscopic",
+      "statement": "mis.aCellIsAlwaysMicroscopic.statement",
+      "correction": "mis.aCellIsAlwaysMicroscopic.correction"
     }
   ]
 }
