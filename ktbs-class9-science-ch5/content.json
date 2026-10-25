@@ -1,0 +1,1167 @@
+{
+  "sections": [
+    {
+      "id": "s.u1",
+      "title": "s.u1.title",
+      "blurb": "s.u1.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u1.q1.ask",
+          "answer": "recap.s.u1.q1.answer",
+          "listenFor": "recap.s.u1.q1.listenFor"
+        },
+        {
+          "ask": "recap.s.u1.q2.ask",
+          "answer": "recap.s.u1.q2.answer",
+          "listenFor": "recap.s.u1.q2.listenFor"
+        }
+      ]
+    },
+    {
+      "id": "s.u2",
+      "title": "s.u2.title",
+      "blurb": "s.u2.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u2.q1.ask",
+          "answer": "recap.s.u2.q1.answer",
+          "listenFor": "recap.s.u2.q1.listenFor"
+        },
+        {
+          "ask": "recap.s.u2.q2.ask",
+          "answer": "recap.s.u2.q2.answer",
+          "listenFor": "recap.s.u2.q2.listenFor"
+        },
+        {
+          "ask": "recap.s.u2.q3.ask",
+          "answer": "recap.s.u2.q3.answer",
+          "listenFor": "recap.s.u2.q3.listenFor"
+        }
+      ]
+    },
+    {
+      "id": "s.u3",
+      "title": "s.u3.title",
+      "blurb": "s.u3.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u3.q1.ask",
+          "answer": "recap.s.u3.q1.answer",
+          "listenFor": "recap.s.u3.q1.listenFor"
+        },
+        {
+          "ask": "recap.s.u3.q2.ask",
+          "answer": "recap.s.u3.q2.answer",
+          "listenFor": "recap.s.u3.q2.listenFor"
+        },
+        {
+          "ask": "recap.s.u3.q3.ask",
+          "answer": "recap.s.u3.q3.answer",
+          "listenFor": "recap.s.u3.q3.listenFor"
+        }
+      ]
+    },
+    {
+      "id": "s.u4",
+      "title": "s.u4.title",
+      "blurb": "s.u4.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u4.q1.ask",
+          "answer": "recap.s.u4.q1.answer",
+          "listenFor": "recap.s.u4.q1.listenFor"
+        },
+        {
+          "ask": "recap.s.u4.q2.ask",
+          "answer": "recap.s.u4.q2.answer",
+          "listenFor": "recap.s.u4.q2.listenFor"
+        },
+        {
+          "ask": "recap.s.u4.q3.ask",
+          "answer": "recap.s.u4.q3.answer",
+          "listenFor": "recap.s.u4.q3.listenFor"
+        }
+      ],
+      "memoryAid": {
+        "technique": "acronym",
+        "word": "GARDEN",
+        "meaning": "aid.s.u4.meaning",
+        "letters": [
+          {
+            "letter": "G",
+            "property": "aid.s.u4.G.property",
+            "note": "aid.s.u4.G.note"
+          },
+          {
+            "letter": "A",
+            "property": "aid.s.u4.A.property",
+            "note": "aid.s.u4.A.note"
+          },
+          {
+            "letter": "R",
+            "property": "aid.s.u4.R.property",
+            "note": "aid.s.u4.R.note"
+          },
+          {
+            "letter": "D",
+            "property": "aid.s.u4.D.property",
+            "note": "aid.s.u4.D.note"
+          },
+          {
+            "letter": "E",
+            "property": "aid.s.u4.E.property",
+            "note": "aid.s.u4.E.note"
+          },
+          {
+            "letter": "N",
+            "property": "aid.s.u4.N.property",
+            "note": "aid.s.u4.N.note"
+          }
+        ]
+      }
+    },
+    {
+      "id": "s.u5",
+      "title": "s.u5.title",
+      "blurb": "s.u5.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u5.q1.ask",
+          "answer": "recap.s.u5.q1.answer",
+          "listenFor": "recap.s.u5.q1.listenFor"
+        },
+        {
+          "ask": "recap.s.u5.q2.ask",
+          "answer": "recap.s.u5.q2.answer",
+          "listenFor": "recap.s.u5.q2.listenFor"
+        }
+      ]
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "ch5-u1-read-1",
+      "type": "explainer",
+      "section": "s.u1",
+      "title": "a.ch5-u1-read-1.title",
+      "minutes": 4,
+      "sourceRef": {
+        "page": 26,
+        "section": "5.1"
+      },
+      "config": {
+        "text": "ch5.u1.definition"
+      }
+    },
+    {
+      "id": "ch5-u1-quiz-2",
+      "type": "quiz",
+      "section": "s.u1",
+      "title": "a.ch5-u1-quiz-2.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 26,
+        "section": "5.1"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch5.u1.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch5.u1.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch5.u1.quiz.q0.f0"
+              },
+              {
+                "text": "ch5.u1.quiz.q0.o1",
+                "correct": true,
+                "feedback": "ch5.u1.quiz.q0.f1"
+              },
+              {
+                "text": "ch5.u1.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch5.u1.quiz.q0.f2"
+              },
+              {
+                "text": "ch5.u1.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch5.u1.quiz.q0.f3"
+              }
+            ]
+          },
+          {
+            "prompt": "ch5.u1.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch5.u1.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch5.u1.quiz.q1.f0"
+              },
+              {
+                "text": "ch5.u1.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch5.u1.quiz.q1.f1"
+              },
+              {
+                "text": "ch5.u1.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch5.u1.quiz.q1.f2"
+              },
+              {
+                "text": "ch5.u1.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch5.u1.quiz.q1.f3"
+              }
+            ]
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch5-u1-quiz-2.virus.q",
+          "answer": "ask.ch5-u1-quiz-2.virus.a"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u2-draw-1",
+      "type": "drawAlong",
+      "section": "s.u2",
+      "title": "a.ch5-u2-draw-1.title",
+      "blurb": "a.ch5-u2-draw-1.blurb",
+      "minutes": 15,
+      "sourceRef": {
+        "page": 28,
+        "section": "5.2"
+      },
+      "config": {
+        "caption": "ch5.plant.caption",
+        "ratio": 0.741,
+        "viewBox": "361.87 17.57 398.56 538.16",
+        "credit": "ch5.plant.credit",
+        "steps": [
+          {
+            "id": "wall",
+            "label": "ch5.plant.wall.label",
+            "instruction": "ch5.plant.wall.do",
+            "does": "ch5.plant.wall.does",
+            "onlyIn": "ch5.plant.wall.only",
+            "shapes": [
+              {
+                "kind": "rect",
+                "x": 227.4,
+                "y": 287,
+                "w": 358.7,
+                "h": 498.3,
+                "fill": "#fc0",
+                "filled": true,
+                "stroke": "#d4aa00",
+                "strokeWidth": 4,
+                "transform": [
+                  1,
+                  0,
+                  0,
+                  1,
+                  154.4,
+                  -249.5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "membrane",
+            "label": "ch5.plant.membrane.label",
+            "instruction": "ch5.plant.membrane.do",
+            "does": "ch5.plant.membrane.does",
+            "shapes": [
+              {
+                "kind": "rect",
+                "x": 234.8,
+                "y": 294.5,
+                "w": 343.9,
+                "h": 483.5,
+                "fill": "#eff9f9",
+                "filled": true,
+                "stroke": "#d4aa00",
+                "strokeWidth": 4,
+                "transform": [
+                  1,
+                  0,
+                  0,
+                  1,
+                  154.4,
+                  -249.5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nucleus",
+            "label": "ch5.plant.nucleus.label",
+            "instruction": "ch5.plant.nucleus.do",
+            "does": "ch5.plant.nucleus.does",
+            "shapes": [
+              {
+                "kind": "path",
+                "d": "M331.89204 428.05295c-10.86196-1.73121-22.66906 7.12112-28.6668 16.34101-8.21234 12.62424-8.53928 30.43059-4.54568 44.95178 3.00015 10.90888 9.63564 23.23251 20.20304 27.27412 11.7191 4.48208 27.76444 1.05547 36.87058-7.57614 10.61004-10.05713 14.58984-28.22707 11.11167-42.42641-4.12874-16.85523-17.83557-35.83299-34.97281-38.56436z",
+                "fill": "#1c818a",
+                "filled": true,
+                "transform": [
+                  1,
+                  0,
+                  0,
+                  1,
+                  154.4,
+                  -249.5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "vacuole",
+            "label": "ch5.plant.vacuole.label",
+            "instruction": "ch5.plant.vacuole.do",
+            "does": "ch5.plant.vacuole.does",
+            "onlyIn": "ch5.plant.vacuole.only",
+            "shapes": [
+              {
+                "kind": "path",
+                "d": "M399.87784 501.03622c8.56554-18.64643 21.85836-38.44123 40.94946-45.96368 28.1105-11.07636 68.32668-12.42743 90.25595 8.35703 31.98167 30.31207 23.6901 86.95062 19.22118 130.78756-3.59283 35.24312-7.24193 79.67926-36.35309 99.86654-25.29595 17.54161-67.46559 17.29154-92.34521-.83571-28.94174-21.0869-30.50166-66.30334-33.84598-101.95579-2.83498-30.22258-.55351-62.67185 12.11769-90.25595z",
+                "fill": "#cfe2c6",
+                "filled": true,
+                "transform": [
+                  1,
+                  0,
+                  0,
+                  1,
+                  154.4,
+                  -249.5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "chloroplast",
+            "label": "ch5.plant.chloroplast.label",
+            "instruction": "ch5.plant.chloroplast.do",
+            "does": "ch5.plant.chloroplast.does",
+            "onlyIn": "ch5.plant.chloroplast.only",
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": -354.717738,
+                "y": -692.820053,
+                "w": 72.022636,
+                "h": 33.610566,
+                "fill": "#5fd38d",
+                "filled": true,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": -792.1648779999999,
+                "y": 73.82433999999999,
+                "w": 72.022636,
+                "h": 33.610566,
+                "fill": "#5fd38d",
+                "filled": true,
+                "transform": [
+                  -0.474015,
+                  -0.880517,
+                  -0.880517,
+                  0.474015,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": -390.037378,
+                "y": -771.1014230000001,
+                "w": 72.022636,
+                "h": 33.610566,
+                "fill": "#5fd38d",
+                "filled": true,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": -153.713738,
+                "y": -504.83372299999996,
+                "w": 72.022636,
+                "h": 33.610566,
+                "fill": "#5fd38d",
+                "filled": true,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": -70.500801,
+                "y": -564.524213,
+                "w": 72.022636,
+                "h": 33.610566,
+                "fill": "#5fd38d",
+                "filled": true,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": -48.050821,
+                "y": -673.485273,
+                "w": 72.022636,
+                "h": 33.610566,
+                "fill": "#5fd38d",
+                "filled": true,
+                "transform": [
+                  0.59176,
+                  -0.806114,
+                  -0.806114,
+                  -0.59176,
+                  154.4,
+                  -249.5
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mitochondrion",
+            "label": "ch5.plant.mitochondrion.label",
+            "instruction": "ch5.plant.mitochondrion.do",
+            "does": "ch5.plant.mitochondrion.does",
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": 92.5,
+                "y": 570.25,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.8,
+                  -0.56,
+                  0.56,
+                  0.86,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 507.9,
+                "y": 395.35,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.93,
+                  0.36,
+                  -0.36,
+                  0.93,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 335.5,
+                "y": 728.85,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  1,
+                  0,
+                  0,
+                  1,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": -274.3,
+                "y": 425.25,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.18,
+                  -0.98,
+                  0.98,
+                  0.18,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 826.7,
+                "y": 311.45,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.81,
+                  0.58,
+                  -0.58,
+                  0.81,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": -751.5,
+                "y": 40.65,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  -0.47,
+                  -0.88,
+                  -0.88,
+                  0.47,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 451.2,
+                "y": 406.45,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  1,
+                  0,
+                  0,
+                  1,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 7.199999999999999,
+                "y": 459.05,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.82,
+                  -0.57,
+                  0.57,
+                  0.82,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 151.1,
+                "y": 602.25,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.98,
+                  -0.176,
+                  0.176,
+                  0.98,
+                  154.4,
+                  -249.5
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 478,
+                "y": 503.95,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.968871,
+                  0.247567,
+                  -0.247567,
+                  0.968871,
+                  154.4,
+                  -249.5
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch5-u2-draw-1.order.q",
+          "answer": "ask.ch5-u2-draw-1.order.a"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u2-sort-2",
+      "type": "sortBins",
+      "section": "s.u2",
+      "title": "a.ch5-u2-sort-2.title",
+      "blurb": "a.ch5-u2-sort-2.blurb",
+      "minutes": 8,
+      "sourceRef": {
+        "page": 30,
+        "section": "5.2.2"
+      },
+      "config": {
+        "bins": [
+          "ch5.u2.sort.bin.0",
+          "ch5.u2.sort.bin.1"
+        ],
+        "items": [
+          {
+            "label": "ch5.u2.sort.i0.label",
+            "bin": "ch5.u2.sort.bin.0",
+            "why": "ch5.u2.sort.i0.why"
+          },
+          {
+            "label": "ch5.u2.sort.i1.label",
+            "bin": "ch5.u2.sort.bin.1",
+            "why": "ch5.u2.sort.i1.why"
+          },
+          {
+            "label": "ch5.u2.sort.i2.label",
+            "bin": "ch5.u2.sort.bin.1",
+            "why": "ch5.u2.sort.i2.why"
+          },
+          {
+            "label": "ch5.u2.sort.i3.label",
+            "bin": "ch5.u2.sort.bin.0",
+            "why": "ch5.u2.sort.i3.why",
+            "tricky": true
+          },
+          {
+            "label": "ch5.u2.sort.i4.label",
+            "bin": "ch5.u2.sort.bin.0",
+            "why": "ch5.u2.sort.i4.why"
+          },
+          {
+            "label": "ch5.u2.sort.i5.label",
+            "bin": "ch5.u2.sort.bin.0",
+            "why": "ch5.u2.sort.i5.why",
+            "tricky": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch5-u3-draw-1",
+      "type": "drawAlong",
+      "section": "s.u3",
+      "title": "a.ch5-u3-draw-1.title",
+      "blurb": "a.ch5-u3-draw-1.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 28,
+        "section": "5.2"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch5.u3.animal.predict.prompt",
+          "options": [
+            "ch5.u3.animal.predict.o0",
+            "ch5.u3.animal.predict.o1",
+            "ch5.u3.animal.predict.o2",
+            "ch5.u3.animal.predict.o3"
+          ],
+          "correct": 2
+        },
+        "observe": "ch5.u3.animal.observe",
+        "explain": "ch5.u3.animal.explain"
+      },
+      "config": {
+        "caption": "ch5.animal.caption",
+        "ratio": 0.886,
+        "viewBox": "247.28 11.88 474.16 535.43",
+        "credit": "ch5.animal.credit",
+        "steps": [
+          {
+            "id": "membrane",
+            "label": "ch5.animal.membrane.label",
+            "instruction": "ch5.animal.membrane.do",
+            "does": "ch5.animal.membrane.does",
+            "shapes": [
+              {
+                "kind": "path",
+                "d": "M466.48 40c-25.34.97-51.77 1.24-75.32 10.62-27.94 11.13-54.8 28.75-73.55 52.28-19.7 24.75-29.7 56.77-36.3 87.73-11.2 52.6-14.2 108.4-4.4 161.27 4.2 22.65 14 44.54 26.6 63.8 19.2 29.16 44 55.45 72.7 75.32 17.8 12.28 38.1 22.04 59.4 25.7 55.8 9.58 117.3 10.76 169.3-11.52 31-13.26 60-37.87 74.5-68.23 22.2-46.46 12-102.74 9.8-154.2-2.1-50.1.5-104.1-22.1-148.86-18.6-36.7-50.2-70-87.7-86.8-34.3-15.4-75-8.5-112.5-7.1z",
+                "fill": "#eff9f9",
+                "filled": true,
+                "stroke": "#08a",
+                "strokeWidth": 3.5
+              }
+            ]
+          },
+          {
+            "id": "nucleus",
+            "label": "ch5.animal.nucleus.label",
+            "instruction": "ch5.animal.nucleus.do",
+            "does": "ch5.animal.nucleus.does",
+            "shapes": [
+              {
+                "kind": "path",
+                "d": "M418.4 172.8c-10.87-1.73-22.68 7.12-28.67 16.34-8.22 12.62-8.54 30.43-4.55 44.95 3 10.9 9.64 23.2 20.2 27.2 11.72 4.5 27.77 1 36.87-7.6 10.6-10.1 14.6-28.3 11.1-42.5-4.1-16.9-17.82-35.9-34.96-38.6z",
+                "fill": "#1c818a",
+                "filled": true
+              }
+            ]
+          },
+          {
+            "id": "mitochondrion",
+            "label": "ch5.animal.mitochondrion.label",
+            "instruction": "ch5.animal.mitochondrion.do",
+            "does": "ch5.animal.mitochondrion.does",
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": 74.25,
+                "y": 603.55,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.829038,
+                  -0.559193,
+                  0.559193,
+                  0.829038,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 559.85,
+                "y": 351.25,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.93358,
+                  0.358368,
+                  -0.358368,
+                  0.93358,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 408.25,
+                "y": 715.95,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  1,
+                  0,
+                  0,
+                  1,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": -534,
+                "y": 625.05,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.173648,
+                  -0.984808,
+                  0.984808,
+                  0.173648,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 707.5,
+                "y": 154.25,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.819152,
+                  0.573576,
+                  -0.573576,
+                  0.819152,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": -747.36,
+                "y": -80.75,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  -0.469472,
+                  -0.882948,
+                  0.882948,
+                  -0.469472,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 7.17,
+                "y": 459.25,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.820252,
+                  -0.572003,
+                  0.572003,
+                  0.820252,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 151.13,
+                "y": 602.25,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.984808,
+                  -0.173648,
+                  0.173648,
+                  0.984808,
+                  86.5,
+                  -255.256
+                ]
+              },
+              {
+                "kind": "ellipse",
+                "x": 478,
+                "y": 503.95,
+                "w": 16,
+                "h": 7.5,
+                "fill": "#d88ebf",
+                "filled": true,
+                "transform": [
+                  0.969016,
+                  0.246999,
+                  -0.246999,
+                  0.969016,
+                  86.5,
+                  -255.256
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch5-u3-draw-1.shape.q",
+          "answer": "ask.ch5-u3-draw-1.shape.a"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u3-sort-2",
+      "type": "sortBins",
+      "section": "s.u3",
+      "title": "a.ch5-u3-sort-2.title",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 32,
+        "section": "5.2.5"
+      },
+      "config": {
+        "bins": [
+          "ch5.u3.sort.bin.0",
+          "ch5.u3.sort.bin.1",
+          "ch5.u3.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch5.u3.sort.i0.label",
+            "bin": "ch5.u3.sort.bin.0",
+            "why": "ch5.u3.sort.i0.why"
+          },
+          {
+            "label": "ch5.u3.sort.i1.label",
+            "bin": "ch5.u3.sort.bin.0",
+            "why": "ch5.u3.sort.i1.why",
+            "tricky": true
+          },
+          {
+            "label": "ch5.u3.sort.i2.label",
+            "bin": "ch5.u3.sort.bin.0",
+            "why": "ch5.u3.sort.i2.why"
+          },
+          {
+            "label": "ch5.u3.sort.i3.label",
+            "bin": "ch5.u3.sort.bin.2",
+            "why": "ch5.u3.sort.i3.why"
+          },
+          {
+            "label": "ch5.u3.sort.i4.label",
+            "bin": "ch5.u3.sort.bin.2",
+            "why": "ch5.u3.sort.i4.why"
+          },
+          {
+            "label": "ch5.u3.sort.i5.label",
+            "bin": "ch5.u3.sort.bin.2",
+            "why": "ch5.u3.sort.i5.why"
+          },
+          {
+            "label": "ch5.u3.sort.i6.label",
+            "bin": "ch5.u3.sort.bin.1",
+            "why": "ch5.u3.sort.i6.why",
+            "tricky": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch5-u4-read-1",
+      "type": "explainer",
+      "section": "s.u4",
+      "title": "a.ch5-u4-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 32,
+        "section": "5.2.5"
+      },
+      "config": {
+        "text": "ch5.u4.definition"
+      }
+    },
+    {
+      "id": "ch5-u4-sort-2",
+      "type": "sortBins",
+      "section": "s.u4",
+      "title": "a.ch5-u4-sort-2.title",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 32,
+        "section": "5.2.5"
+      },
+      "config": {
+        "bins": [
+          "ch5.u4.sort.bin.0",
+          "ch5.u4.sort.bin.1",
+          "ch5.u4.sort.bin.2",
+          "ch5.u4.sort.bin.3"
+        ],
+        "items": [
+          {
+            "label": "ch5.u4.sort.i0.label",
+            "bin": "ch5.u4.sort.bin.0",
+            "why": "ch5.u4.sort.i0.why"
+          },
+          {
+            "label": "ch5.u4.sort.i1.label",
+            "bin": "ch5.u4.sort.bin.1",
+            "why": "ch5.u4.sort.i1.why"
+          },
+          {
+            "label": "ch5.u4.sort.i2.label",
+            "bin": "ch5.u4.sort.bin.2",
+            "why": "ch5.u4.sort.i2.why"
+          },
+          {
+            "label": "ch5.u4.sort.i3.label",
+            "bin": "ch5.u4.sort.bin.3",
+            "why": "ch5.u4.sort.i3.why"
+          },
+          {
+            "label": "ch5.u4.sort.i4.label",
+            "bin": "ch5.u4.sort.bin.2",
+            "why": "ch5.u4.sort.i4.why",
+            "tricky": true
+          },
+          {
+            "label": "ch5.u4.sort.i5.label",
+            "bin": "ch5.u4.sort.bin.0",
+            "why": "ch5.u4.sort.i5.why",
+            "tricky": true
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch5-u4-sort-2.ownDna.q",
+          "answer": "ask.ch5-u4-sort-2.ownDna.a"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u5-read-1",
+      "type": "explainer",
+      "section": "s.u5",
+      "title": "a.ch5-u5-read-1.title",
+      "minutes": 4,
+      "sourceRef": {
+        "page": 34,
+        "section": "5.2.5"
+      },
+      "config": {
+        "text": "ch5.u5.definition"
+      }
+    },
+    {
+      "id": "ch5-u5-calc-2",
+      "type": "calculate",
+      "section": "s.u5",
+      "title": "a.ch5-u5-calc-2.title",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 34,
+        "section": "5.2.5"
+      },
+      "config": {
+        "items": [
+          {
+            "prompt": "ch5.u5.c0.prompt",
+            "given": [
+              "ch5.u5.c0.g0",
+              "ch5.u5.c0.g1"
+            ],
+            "steps": [
+              "ch5.u5.c0.s0",
+              "ch5.u5.c0.s1"
+            ],
+            "answer": "24",
+            "unit": "square units"
+          },
+          {
+            "prompt": "ch5.u5.c1.prompt",
+            "given": [
+              "ch5.u5.c1.g0"
+            ],
+            "steps": [
+              "ch5.u5.c1.s0"
+            ],
+            "answer": "8",
+            "unit": "cubic units"
+          },
+          {
+            "prompt": "ch5.u5.c2.prompt",
+            "given": [
+              "ch5.u5.c2.g0",
+              "ch5.u5.c2.g1"
+            ],
+            "steps": [
+              "ch5.u5.c2.s0"
+            ],
+            "answer": "1.5",
+            "trap": "ch5.u5.c2.trap"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch5-u5-calc-2.bigcells.q",
+          "answer": "ask.ch5-u5-calc-2.bigcells.a"
+        }
+      ]
+    },
+    {
+      "id": "ch5-u5-quiz-3",
+      "type": "quiz",
+      "section": "s.u5",
+      "title": "a.ch5-u5-quiz-3.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 36,
+        "label": "Exercises"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch5.u5.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch5.u5.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch5.u5.quiz.q0.f0"
+              },
+              {
+                "text": "ch5.u5.quiz.q0.o1",
+                "correct": true,
+                "feedback": "ch5.u5.quiz.q0.f1"
+              },
+              {
+                "text": "ch5.u5.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch5.u5.quiz.q0.f2"
+              },
+              {
+                "text": "ch5.u5.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch5.u5.quiz.q0.f3"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
