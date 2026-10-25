@@ -1351,57 +1351,338 @@
                 "ch5.plant.mitochondrion.detail.p5"
               ],
               "diagram": {
-                "viewBox": "0 0 200 120",
-                "ratio": 1.67,
+                "viewBox": "0 0 260 130",
+                "ratio": 2.0,
                 "shapes": [
                   {
-                    "kind": "ellipse",
-                    "x": 6,
-                    "y": 8,
-                    "w": 188,
-                    "h": 104,
-                    "fill": "#f7e6f1",
+                    "kind": "path",
+                    "d": "M59.0 14 L201.0 14 A51.0 51.0 0 0 1 201.0 116 L59.0 116 A51.0 51.0 0 0 1 59.0 14 Z",
+                    "fill": "#fdf4f9",
                     "filled": true,
-                    "stroke": "#a8427f",
-                    "strokeWidth": 3
+                    "stroke": "#8e3268",
+                    "strokeWidth": 3.2
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M59.0 30 L74 30 C74 65.2 79.5 74 85 74 C90.5 74 96 65.2 96 30 L122 30 C122 65.2 127.5 74 133 74 C138.5 74 144 65.2 144 30 L170 30 C170 65.2 175.5 74 181 74 C186.5 74 192 65.2 192 30 L201.0 30 A35.0 35.0 0 0 1 201.0 100 L146 100 C146 64.8 151.5 56 157 56 C162.5 56 168 64.8 168 100 L98 100 C98 64.8 103.5 56 109 56 C114.5 56 120 64.8 120 100 L59.0 100 A35.0 35.0 0 0 1 59.0 30 Z",
+                    "fill": "#f3dcea",
+                    "filled": true,
+                    "stroke": "#b0538c",
+                    "strokeWidth": 2.6
                   },
                   {
                     "kind": "ellipse",
-                    "x": 17,
-                    "y": 18,
-                    "w": 166,
-                    "h": 84,
-                    "stroke": "#d88ebf",
-                    "strokeWidth": 2.5
-                  },
-                  {
-                    "kind": "path",
-                    "d": "M43.0 29.5 C41.0 59.4 48.0 71.7 52.0 71.7 C56.0 71.7 63.0 52.8 61.0 22.9 Z",
-                    "fill": "#d88ebf",
+                    "x": 38.0,
+                    "y": 36.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
                     "filled": true
                   },
                   {
-                    "kind": "path",
-                    "d": "M91.0 18.2 C89.0 50.7 96.0 68.0 100.0 68.0 C104.0 68.0 111.0 50.7 109.0 18.2 Z",
-                    "fill": "#d88ebf",
+                    "kind": "ellipse",
+                    "x": 40.0,
+                    "y": 53.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
                     "filled": true
                   },
                   {
-                    "kind": "path",
-                    "d": "M139.0 22.9 C137.0 50.2 144.0 67.7 148.0 67.7 C152.0 67.7 159.0 56.8 157.0 29.5 Z",
-                    "fill": "#d88ebf",
+                    "kind": "ellipse",
+                    "x": 43.0,
+                    "y": 63.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
                     "filled": true
                   },
                   {
-                    "kind": "path",
-                    "d": "M67.0 98.5 C65.0 67.3 72.0 52.2 76.0 52.2 C80.0 52.2 87.0 70.1 85.0 101.3 Z",
-                    "fill": "#d88ebf",
+                    "kind": "ellipse",
+                    "x": 40.0,
+                    "y": 73.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
                     "filled": true
                   },
                   {
-                    "kind": "path",
-                    "d": "M117.0 101.1 C115.0 71.2 122.0 53.9 126.0 53.9 C130.0 53.9 137.0 68.2 135.0 98.1 Z",
-                    "fill": "#d88ebf",
+                    "kind": "ellipse",
+                    "x": 41.0,
+                    "y": 89.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 55.8,
+                    "y": 44.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 50.8,
+                    "y": 51.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 49.8,
+                    "y": 68.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 49.8,
+                    "y": 80.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 49.8,
+                    "y": 89.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 68.7,
+                    "y": 51.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 63.7,
+                    "y": 68.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 67.7,
+                    "y": 81.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 71.7,
+                    "y": 88.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 83.5,
+                    "y": 79.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 83.5,
+                    "y": 86.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 93.4,
+                    "y": 88.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 106.2,
+                    "y": 40.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 106.2,
+                    "y": 51.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 135.9,
+                    "y": 87.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 152.8,
+                    "y": 37.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 180.5,
+                    "y": 79.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 178.5,
+                    "y": 89.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 196.3,
+                    "y": 67.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 194.3,
+                    "y": 89.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 210.2,
+                    "y": 40.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 202.2,
+                    "y": 51.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 207.2,
+                    "y": 69.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 204.2,
+                    "y": 78.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 207.2,
+                    "y": 87.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 221.0,
+                    "y": 38.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 224.0,
+                    "y": 54.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 220.0,
+                    "y": 64.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 221.0,
+                    "y": 73.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 217.0,
+                    "y": 93.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
                     "filled": true
                   }
                 ]
@@ -1954,57 +2235,338 @@
                 "ch5.animal.mitochondrion.detail.p5"
               ],
               "diagram": {
-                "viewBox": "0 0 200 120",
-                "ratio": 1.67,
+                "viewBox": "0 0 260 130",
+                "ratio": 2.0,
                 "shapes": [
                   {
-                    "kind": "ellipse",
-                    "x": 6,
-                    "y": 8,
-                    "w": 188,
-                    "h": 104,
-                    "fill": "#f7e6f1",
+                    "kind": "path",
+                    "d": "M59.0 14 L201.0 14 A51.0 51.0 0 0 1 201.0 116 L59.0 116 A51.0 51.0 0 0 1 59.0 14 Z",
+                    "fill": "#fdf4f9",
                     "filled": true,
-                    "stroke": "#a8427f",
-                    "strokeWidth": 3
+                    "stroke": "#8e3268",
+                    "strokeWidth": 3.2
+                  },
+                  {
+                    "kind": "path",
+                    "d": "M59.0 30 L74 30 C74 65.2 79.5 74 85 74 C90.5 74 96 65.2 96 30 L122 30 C122 65.2 127.5 74 133 74 C138.5 74 144 65.2 144 30 L170 30 C170 65.2 175.5 74 181 74 C186.5 74 192 65.2 192 30 L201.0 30 A35.0 35.0 0 0 1 201.0 100 L146 100 C146 64.8 151.5 56 157 56 C162.5 56 168 64.8 168 100 L98 100 C98 64.8 103.5 56 109 56 C114.5 56 120 64.8 120 100 L59.0 100 A35.0 35.0 0 0 1 59.0 30 Z",
+                    "fill": "#f3dcea",
+                    "filled": true,
+                    "stroke": "#b0538c",
+                    "strokeWidth": 2.6
                   },
                   {
                     "kind": "ellipse",
-                    "x": 17,
-                    "y": 18,
-                    "w": 166,
-                    "h": 84,
-                    "stroke": "#d88ebf",
-                    "strokeWidth": 2.5
-                  },
-                  {
-                    "kind": "path",
-                    "d": "M43.0 29.5 C41.0 59.4 48.0 71.7 52.0 71.7 C56.0 71.7 63.0 52.8 61.0 22.9 Z",
-                    "fill": "#d88ebf",
+                    "x": 38.0,
+                    "y": 36.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
                     "filled": true
                   },
                   {
-                    "kind": "path",
-                    "d": "M91.0 18.2 C89.0 50.7 96.0 68.0 100.0 68.0 C104.0 68.0 111.0 50.7 109.0 18.2 Z",
-                    "fill": "#d88ebf",
+                    "kind": "ellipse",
+                    "x": 40.0,
+                    "y": 53.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
                     "filled": true
                   },
                   {
-                    "kind": "path",
-                    "d": "M139.0 22.9 C137.0 50.2 144.0 67.7 148.0 67.7 C152.0 67.7 159.0 56.8 157.0 29.5 Z",
-                    "fill": "#d88ebf",
+                    "kind": "ellipse",
+                    "x": 43.0,
+                    "y": 63.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
                     "filled": true
                   },
                   {
-                    "kind": "path",
-                    "d": "M67.0 98.5 C65.0 67.3 72.0 52.2 76.0 52.2 C80.0 52.2 87.0 70.1 85.0 101.3 Z",
-                    "fill": "#d88ebf",
+                    "kind": "ellipse",
+                    "x": 40.0,
+                    "y": 73.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
                     "filled": true
                   },
                   {
-                    "kind": "path",
-                    "d": "M117.0 101.1 C115.0 71.2 122.0 53.9 126.0 53.9 C130.0 53.9 137.0 68.2 135.0 98.1 Z",
-                    "fill": "#d88ebf",
+                    "kind": "ellipse",
+                    "x": 41.0,
+                    "y": 89.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 55.8,
+                    "y": 44.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 50.8,
+                    "y": 51.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 49.8,
+                    "y": 68.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 49.8,
+                    "y": 80.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 49.8,
+                    "y": 89.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 68.7,
+                    "y": 51.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 63.7,
+                    "y": 68.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 67.7,
+                    "y": 81.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 71.7,
+                    "y": 88.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 83.5,
+                    "y": 79.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 83.5,
+                    "y": 86.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 93.4,
+                    "y": 88.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 106.2,
+                    "y": 40.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 106.2,
+                    "y": 51.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 135.9,
+                    "y": 87.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 152.8,
+                    "y": 37.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 180.5,
+                    "y": 79.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 178.5,
+                    "y": 89.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 196.3,
+                    "y": 67.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 194.3,
+                    "y": 89.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 210.2,
+                    "y": 40.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 202.2,
+                    "y": 51.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 207.2,
+                    "y": 69.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 204.2,
+                    "y": 78.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 207.2,
+                    "y": 87.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 221.0,
+                    "y": 38.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 224.0,
+                    "y": 54.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 220.0,
+                    "y": 64.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 221.0,
+                    "y": 73.5,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
+                    "filled": true
+                  },
+                  {
+                    "kind": "ellipse",
+                    "x": 217.0,
+                    "y": 93.0,
+                    "w": 2.6,
+                    "h": 2.6,
+                    "fill": "#8e3268",
                     "filled": true
                   }
                 ]
