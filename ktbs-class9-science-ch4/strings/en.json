@@ -428,7 +428,7 @@
   "recap.s.u3.q1.ask": "How many electrons fit in the M shell, and how many are allowed in it when it is the outermost shell?",
   "recap.s.u3.q1.answer": "The capacity is 2n squared, so 18. But no outermost shell may hold more than 8, so an atom that ends at M stops at 8 and starts the N shell.",
   "recap.s.u3.q1.listenFor": "Listen for a flat 18 with no mention of the outermost rule. It is the rule that explains why potassium starts a fourth shell rather than putting a ninth electron in M.",
-  "recap.s.u3.q2.ask": "Write the electron distribution of sodium, which has 11 electrons.",
+  "recap.s.u3.q2.ask": "Sodium has 11 electrons. How are they arranged in its shells?",
   "recap.s.u3.q2.answer": "2,8,1. K takes 2, L takes 8, and the eleventh goes into M.",
   "recap.s.u3.q2.listenFor": "Listen for 2,9 or 8,2,1. The first ignores the capacity of L, the second fills from the outside in.",
   "recap.s.u4.q1.ask": "Magnesium is 2,8,2 and chlorine is 2,8,7. Why does magnesium have a valency of two and chlorine one?",
