@@ -1,0 +1,43 @@
+{
+  "format": "paath/1",
+  "id": "ktbs.class9.science.ch4",
+  "version": "1.0.0",
+  "title": "Structure of the Atom",
+  "blurb": "Dalton said the atom could not be divided. Here is what is inside it.",
+  "subject": "Science",
+  "level": "Class 9",
+  "source": "Karnataka Textbook Society, 2026-27, Part 2",
+  "textbook": {
+    "title": "Class 9 Science Part 2",
+    "chapter": 4,
+    "firstPage": 13,
+    "lastPage": 23,
+    "publisher": "Karnataka Textbook Society",
+    "edition": "2026-27"
+  },
+  "author": {
+    "name": "Paathshaala",
+    "url": "https://paathshaala.org"
+  },
+  "licence": "CC-BY-4.0",
+  "languages": [
+    "en",
+    "kn"
+  ],
+  "defaultLanguage": "en",
+  "estimatedMinutes": 183,
+  "requires": {
+    "minPlayer": 1,
+    "artifactTypes": [
+      "calculate",
+      "classifyTree",
+      "drawAlong",
+      "experiment",
+      "explainer",
+      "quiz",
+      "sortBins",
+      "valencyHands",
+      "zoomScale"
+    ]
+  }
+}

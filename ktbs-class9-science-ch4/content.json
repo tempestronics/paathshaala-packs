@@ -1,0 +1,1983 @@
+{
+  "sections": [
+    {
+      "id": "s.u1",
+      "title": "s.u1.title",
+      "blurb": "s.u1.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u1.q1.ask",
+          "answer": "recap.s.u1.q1.answer",
+          "listenFor": "recap.s.u1.q1.listenFor",
+          "sourceRef": {
+            "page": 13,
+            "section": "4.1",
+            "label": "Activity 4.1"
+          }
+        },
+        {
+          "ask": "recap.s.u1.q2.ask",
+          "answer": "recap.s.u1.q2.answer",
+          "listenFor": "recap.s.u1.q2.listenFor"
+        }
+      ]
+    },
+    {
+      "id": "s.u2",
+      "title": "s.u2.title",
+      "blurb": "s.u2.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u2.q1.ask",
+          "answer": "recap.s.u2.q1.answer",
+          "listenFor": "recap.s.u2.q1.listenFor",
+          "sourceRef": {
+            "page": 15,
+            "section": "4.2.2"
+          }
+        },
+        {
+          "ask": "recap.s.u2.q2.ask",
+          "answer": "recap.s.u2.q2.answer",
+          "listenFor": "recap.s.u2.q2.listenFor"
+        },
+        {
+          "ask": "recap.s.u2.q3.ask",
+          "answer": "recap.s.u2.q3.answer",
+          "listenFor": "recap.s.u2.q3.listenFor",
+          "sourceRef": {
+            "page": 15,
+            "section": "4.2.2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u3",
+      "title": "s.u3.title",
+      "blurb": "s.u3.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u3.q1.ask",
+          "answer": "recap.s.u3.q1.answer",
+          "listenFor": "recap.s.u3.q1.listenFor",
+          "sourceRef": {
+            "page": 17,
+            "section": "4.3"
+          }
+        },
+        {
+          "ask": "recap.s.u3.q2.ask",
+          "answer": "recap.s.u3.q2.answer",
+          "listenFor": "recap.s.u3.q2.listenFor",
+          "sourceRef": {
+            "page": 17,
+            "section": "4.3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u4",
+      "title": "s.u4.title",
+      "blurb": "s.u4.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u4.q1.ask",
+          "answer": "recap.s.u4.q1.answer",
+          "listenFor": "recap.s.u4.q1.listenFor",
+          "sourceRef": {
+            "page": 19,
+            "section": "4.4"
+          }
+        },
+        {
+          "ask": "recap.s.u4.q2.ask",
+          "answer": "recap.s.u4.q2.answer",
+          "listenFor": "recap.s.u4.q2.listenFor"
+        }
+      ]
+    },
+    {
+      "id": "s.u5",
+      "title": "s.u5.title",
+      "blurb": "s.u5.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u5.q1.ask",
+          "answer": "recap.s.u5.q1.answer",
+          "listenFor": "recap.s.u5.q1.listenFor",
+          "sourceRef": {
+            "page": 23,
+            "label": "Exercise 19"
+          }
+        },
+        {
+          "ask": "recap.s.u5.q2.ask",
+          "answer": "recap.s.u5.q2.answer",
+          "listenFor": "recap.s.u5.q2.listenFor"
+        }
+      ]
+    },
+    {
+      "id": "s.u6",
+      "title": "s.u6.title",
+      "blurb": "s.u6.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u6.q1.ask",
+          "answer": "recap.s.u6.q1.answer",
+          "listenFor": "recap.s.u6.q1.listenFor",
+          "sourceRef": {
+            "page": 20,
+            "section": "4.6"
+          }
+        },
+        {
+          "ask": "recap.s.u6.q2.ask",
+          "answer": "recap.s.u6.q2.answer",
+          "listenFor": "recap.s.u6.q2.listenFor",
+          "sourceRef": {
+            "page": 20,
+            "section": "4.6.1"
+          }
+        }
+      ],
+      "memoryAid": {
+        "technique": "acronym",
+        "word": "CREAM",
+        "meaning": "aid.s.u6.meaning",
+        "contrast": {
+          "a": "aid.s.u6.a",
+          "b": "aid.s.u6.b"
+        },
+        "letters": [
+          {
+            "letter": "C",
+            "property": "aid.s.u6.C.property",
+            "a": "aid.s.u6.C.a",
+            "b": "aid.s.u6.C.b"
+          },
+          {
+            "letter": "R",
+            "property": "aid.s.u6.R.property",
+            "a": "aid.s.u6.R.a",
+            "b": "aid.s.u6.R.b"
+          },
+          {
+            "letter": "E",
+            "property": "aid.s.u6.E.property",
+            "a": "aid.s.u6.E.a",
+            "b": "aid.s.u6.E.b"
+          },
+          {
+            "letter": "A",
+            "property": "aid.s.u6.A.property",
+            "a": "aid.s.u6.A.a",
+            "b": "aid.s.u6.A.b"
+          },
+          {
+            "letter": "M",
+            "property": "aid.s.u6.M.property",
+            "a": "aid.s.u6.M.a",
+            "b": "aid.s.u6.M.b"
+          }
+        ]
+      }
+    }
+  ],
+  "zoomStops": [
+    {
+      "id": "drop",
+      "label": "zoom.drop.label",
+      "size": "10 µm"
+    },
+    {
+      "id": "solutionBoundary",
+      "label": "zoom.solutionBoundary.label",
+      "size": "1 nm",
+      "blurb": "zoom.solutionBoundary.blurb"
+    },
+    {
+      "id": "molecule",
+      "label": "zoom.molecule.label",
+      "size": "0.3 nm"
+    },
+    {
+      "id": "atom",
+      "label": "zoom.atom.label",
+      "size": "0.1 nm",
+      "blurb": "zoom.atom.blurb"
+    },
+    {
+      "id": "nucleus",
+      "label": "zoom.nucleus.label",
+      "size": "0.000001 nm",
+      "blurb": "zoom.nucleus.blurb"
+    }
+  ],
+  "trees": [
+    {
+      "id": "species",
+      "root": "pair",
+      "nodes": [
+        {
+          "id": "pair",
+          "label": "tree.species.pair.label",
+          "question": "tree.species.pair.q",
+          "options": [
+            {
+              "label": "tree.species.pair.o0",
+              "goes": "sameZ"
+            },
+            {
+              "label": "tree.species.pair.o1",
+              "goes": "diffZ"
+            }
+          ]
+        },
+        {
+          "id": "sameZ",
+          "label": "tree.species.sameZ.label",
+          "question": "tree.species.sameZ.q",
+          "options": [
+            {
+              "label": "tree.species.sameZ.o0",
+              "goes": "identical"
+            },
+            {
+              "label": "tree.species.sameZ.o1",
+              "goes": "isotopes"
+            }
+          ]
+        },
+        {
+          "id": "diffZ",
+          "label": "tree.species.diffZ.label",
+          "question": "tree.species.diffZ.q",
+          "options": [
+            {
+              "label": "tree.species.diffZ.o0",
+              "goes": "isobars"
+            },
+            {
+              "label": "tree.species.diffZ.o1",
+              "goes": "unrelated"
+            }
+          ]
+        },
+        {
+          "id": "identical",
+          "label": "tree.species.identical.label"
+        },
+        {
+          "id": "isotopes",
+          "label": "tree.species.isotopes.label"
+        },
+        {
+          "id": "isobars",
+          "label": "tree.species.isobars.label"
+        },
+        {
+          "id": "unrelated",
+          "label": "tree.species.unrelated.label"
+        }
+      ]
+    }
+  ],
+  "misconceptions": [
+    {
+      "id": "electron-is-heavy",
+      "statement": "mis.electron-is-heavy.statement",
+      "correction": "mis.electron-is-heavy.correction"
+    },
+    {
+      "id": "neutron-is-the-light-one",
+      "statement": "mis.neutron-is-the-light-one.statement",
+      "correction": "mis.neutron-is-the-light-one.correction"
+    },
+    {
+      "id": "atom-has-no-charges",
+      "statement": "mis.atom-has-no-charges.statement",
+      "correction": "mis.atom-has-no-charges.correction"
+    },
+    {
+      "id": "neutrons-cancel-charge",
+      "statement": "mis.neutrons-cancel-charge.statement",
+      "correction": "mis.neutrons-cancel-charge.correction"
+    },
+    {
+      "id": "charge-leaks-away",
+      "statement": "mis.charge-leaks-away.statement",
+      "correction": "mis.charge-leaks-away.correction"
+    },
+    {
+      "id": "scattering-found-electron",
+      "statement": "mis.scattering-found-electron.statement",
+      "correction": "mis.scattering-found-electron.correction"
+    },
+    {
+      "id": "scattering-found-proton",
+      "statement": "mis.scattering-found-proton.statement",
+      "correction": "mis.scattering-found-proton.correction"
+    },
+    {
+      "id": "scattering-found-neutron",
+      "statement": "mis.scattering-found-neutron.statement",
+      "correction": "mis.scattering-found-neutron.correction"
+    },
+    {
+      "id": "foil-has-holes",
+      "statement": "mis.foil-has-holes.statement",
+      "correction": "mis.foil-has-holes.correction"
+    },
+    {
+      "id": "alpha-is-small",
+      "statement": "mis.alpha-is-small.statement",
+      "correction": "mis.alpha-is-small.correction"
+    },
+    {
+      "id": "gold-is-soft",
+      "statement": "mis.gold-is-soft.statement",
+      "correction": "mis.gold-is-soft.correction"
+    },
+    {
+      "id": "shells-fill-outside-in",
+      "statement": "mis.shells-fill-outside-in.statement",
+      "correction": "mis.shells-fill-outside-in.correction"
+    },
+    {
+      "id": "shells-fill-out-of-order",
+      "statement": "mis.shells-fill-out-of-order.statement",
+      "correction": "mis.shells-fill-out-of-order.correction"
+    },
+    {
+      "id": "forgets-inner-shell",
+      "statement": "mis.forgets-inner-shell.statement",
+      "correction": "mis.forgets-inner-shell.correction"
+    },
+    {
+      "id": "forgets-outer-shell",
+      "statement": "mis.forgets-outer-shell.statement",
+      "correction": "mis.forgets-outer-shell.correction"
+    },
+    {
+      "id": "counts-unfilled-shell",
+      "statement": "mis.counts-unfilled-shell.statement",
+      "correction": "mis.counts-unfilled-shell.correction"
+    },
+    {
+      "id": "miscounts-valence",
+      "statement": "mis.miscounts-valence.statement",
+      "correction": "mis.miscounts-valence.correction"
+    },
+    {
+      "id": "confuses-z-with-valence",
+      "statement": "mis.confuses-z-with-valence.statement",
+      "correction": "mis.confuses-z-with-valence.correction"
+    },
+    {
+      "id": "counts-all-electrons",
+      "statement": "mis.counts-all-electrons.statement",
+      "correction": "mis.counts-all-electrons.correction"
+    },
+    {
+      "id": "heavy-means-unreactive",
+      "statement": "mis.heavy-means-unreactive.statement",
+      "correction": "mis.heavy-means-unreactive.correction"
+    },
+    {
+      "id": "noble-gas-has-no-electrons",
+      "statement": "mis.noble-gas-has-no-electrons.statement",
+      "correction": "mis.noble-gas-has-no-electrons.correction"
+    },
+    {
+      "id": "gases-do-not-react",
+      "statement": "mis.gases-do-not-react.statement",
+      "correction": "mis.gases-do-not-react.correction"
+    },
+    {
+      "id": "neutrons-define-element",
+      "statement": "mis.neutrons-define-element.statement",
+      "correction": "mis.neutrons-define-element.correction"
+    },
+    {
+      "id": "electrons-define-element",
+      "statement": "mis.electrons-define-element.statement",
+      "correction": "mis.electrons-define-element.correction"
+    },
+    {
+      "id": "mass-number-defines-element",
+      "statement": "mis.mass-number-defines-element.statement",
+      "correction": "mis.mass-number-defines-element.correction"
+    },
+    {
+      "id": "electrons-excluded-by-position",
+      "statement": "mis.electrons-excluded-by-position.statement",
+      "correction": "mis.electrons-excluded-by-position.correction"
+    },
+    {
+      "id": "electron-has-no-mass",
+      "statement": "mis.electron-has-no-mass.statement",
+      "correction": "mis.electron-has-no-mass.correction"
+    },
+    {
+      "id": "mass-cancels",
+      "statement": "mis.mass-cancels.statement",
+      "correction": "mis.mass-cancels.correction"
+    },
+    {
+      "id": "isotope-differs-in-protons",
+      "statement": "mis.isotope-differs-in-protons.statement",
+      "correction": "mis.isotope-differs-in-protons.correction"
+    },
+    {
+      "id": "isotope-confused-with-isobar",
+      "statement": "mis.isotope-confused-with-isobar.statement",
+      "correction": "mis.isotope-confused-with-isobar.correction"
+    },
+    {
+      "id": "isotopes-differ-chemically",
+      "statement": "mis.isotopes-differ-chemically.statement",
+      "correction": "mis.isotopes-differ-chemically.correction"
+    },
+    {
+      "id": "same-mass-same-element",
+      "statement": "mis.same-mass-same-element.statement",
+      "correction": "mis.same-mass-same-element.correction"
+    },
+    {
+      "id": "isobars-impossible",
+      "statement": "mis.isobars-impossible.statement",
+      "correction": "mis.isobars-impossible.correction"
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "ch4-u1-do-1",
+      "type": "experiment",
+      "section": "s.u1",
+      "title": "a.ch4-u1-do-1.title",
+      "blurb": "a.ch4-u1-do-1.blurb",
+      "minutes": 8,
+      "sourceRef": {
+        "page": 13,
+        "section": "4.1",
+        "label": "Activity 4.1"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch4.u1.comb.predict.prompt",
+          "options": [
+            "ch4.u1.comb.predict.o0",
+            "ch4.u1.comb.predict.o1",
+            "ch4.u1.comb.predict.o2",
+            "ch4.u1.comb.predict.o3"
+          ],
+          "correct": 2
+        },
+        "observe": "ch4.u1.comb.observe",
+        "explain": "ch4.u1.comb.explain"
+      },
+      "config": {
+        "equipment": [
+          "a dry plastic comb",
+          "small torn pieces of paper",
+          "a glass rod",
+          "a silk cloth",
+          "an inflated balloon"
+        ],
+        "steps": "ch4.u1.do.steps",
+        "watchFor": "ch4.u1.do.watch",
+        "supervision": false,
+        "printable": true
+      },
+      "followUps": [
+        {
+          "question": "ask.ch4-u1-do-1.wherefrom.q",
+          "answer": "ask.ch4-u1-do-1.wherefrom.a"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u1-read-2",
+      "type": "explainer",
+      "section": "s.u1",
+      "title": "a.ch4-u1-read-2.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 13,
+        "section": "4.1"
+      },
+      "config": {
+        "text": "ch4.u1.definition"
+      }
+    },
+    {
+      "id": "ch4-u1-sort-3",
+      "type": "sortBins",
+      "section": "s.u1",
+      "title": "a.ch4-u1-sort-3.title",
+      "blurb": "a.ch4-u1-sort-3.blurb",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 16,
+        "section": "4.2.4"
+      },
+      "config": {
+        "bins": [
+          "ch4.u1.sort.bin.0",
+          "ch4.u1.sort.bin.1",
+          "ch4.u1.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch4.u1.sort.i0.label",
+            "bin": "ch4.u1.sort.bin.0",
+            "why": "ch4.u1.sort.i0.why"
+          },
+          {
+            "label": "ch4.u1.sort.i1.label",
+            "bin": "ch4.u1.sort.bin.0",
+            "why": "ch4.u1.sort.i1.why"
+          },
+          {
+            "label": "ch4.u1.sort.i2.label",
+            "bin": "ch4.u1.sort.bin.0",
+            "why": "ch4.u1.sort.i2.why"
+          },
+          {
+            "label": "ch4.u1.sort.i3.label",
+            "bin": "ch4.u1.sort.bin.1",
+            "why": "ch4.u1.sort.i3.why"
+          },
+          {
+            "label": "ch4.u1.sort.i4.label",
+            "bin": "ch4.u1.sort.bin.1",
+            "why": "ch4.u1.sort.i4.why",
+            "tricky": true
+          },
+          {
+            "label": "ch4.u1.sort.i5.label",
+            "bin": "ch4.u1.sort.bin.2",
+            "why": "ch4.u1.sort.i5.why"
+          },
+          {
+            "label": "ch4.u1.sort.i6.label",
+            "bin": "ch4.u1.sort.bin.2",
+            "why": "ch4.u1.sort.i6.why"
+          },
+          {
+            "label": "ch4.u1.sort.i7.label",
+            "bin": "ch4.u1.sort.bin.2",
+            "why": "ch4.u1.sort.i7.why",
+            "tricky": true
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch4-u1-sort-3.neutronlate.q",
+          "answer": "ask.ch4-u1-sort-3.neutronlate.a"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u1-quiz-4",
+      "type": "quiz",
+      "section": "s.u1",
+      "title": "a.ch4-u1-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 21,
+        "label": "Exercise 1"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch4.u1.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch4.u1.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch4.u1.quiz.q0.f0",
+                "misconception": "electron-is-heavy"
+              },
+              {
+                "text": "ch4.u1.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch4.u1.quiz.q0.f1",
+                "misconception": "neutron-is-the-light-one"
+              },
+              {
+                "text": "ch4.u1.quiz.q0.o2",
+                "correct": true,
+                "feedback": "ch4.u1.quiz.q0.f2"
+              },
+              {
+                "text": "ch4.u1.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch4.u1.quiz.q0.f3",
+                "misconception": "electron-is-heavy"
+              }
+            ]
+          },
+          {
+            "prompt": "ch4.u1.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch4.u1.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch4.u1.quiz.q1.f0",
+                "misconception": "atom-has-no-charges"
+              },
+              {
+                "text": "ch4.u1.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch4.u1.quiz.q1.f1",
+                "misconception": "neutrons-cancel-charge"
+              },
+              {
+                "text": "ch4.u1.quiz.q1.o2",
+                "correct": true,
+                "feedback": "ch4.u1.quiz.q1.f2"
+              },
+              {
+                "text": "ch4.u1.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch4.u1.quiz.q1.f3",
+                "misconception": "charge-leaks-away"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch4-u2-read-1",
+      "type": "explainer",
+      "section": "s.u2",
+      "title": "a.ch4-u2-read-1.title",
+      "minutes": 4,
+      "sourceRef": {
+        "page": 14,
+        "section": "4.2.1"
+      },
+      "config": {
+        "text": "ch4.u2.thomson"
+      }
+    },
+    {
+      "id": "ch4-u2-read-2",
+      "type": "explainer",
+      "section": "s.u2",
+      "title": "a.ch4-u2-read-2.title",
+      "blurb": "a.ch4-u2-read-2.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 14,
+        "section": "4.2.2"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch4.u2.foil.predict.prompt",
+          "options": [
+            "ch4.u2.foil.predict.o0",
+            "ch4.u2.foil.predict.o1",
+            "ch4.u2.foil.predict.o2",
+            "ch4.u2.foil.predict.o3"
+          ],
+          "correct": 1
+        },
+        "observe": "ch4.u2.foil.observe",
+        "explain": "ch4.u2.foil.explain"
+      },
+      "config": {
+        "text": "ch4.u2.rutherford"
+      },
+      "followUps": [
+        {
+          "question": "ask.ch4-u2-read-2.whygold.q",
+          "answer": "ask.ch4-u2-read-2.whygold.a"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u2-sort-3",
+      "type": "sortBins",
+      "section": "s.u2",
+      "title": "a.ch4-u2-sort-3.title",
+      "blurb": "a.ch4-u2-sort-3.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 16,
+        "section": "4.2.3"
+      },
+      "config": {
+        "bins": [
+          "ch4.u2.sort.bin.0",
+          "ch4.u2.sort.bin.1",
+          "ch4.u2.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch4.u2.sort.i0.label",
+            "bin": "ch4.u2.sort.bin.0",
+            "why": "ch4.u2.sort.i0.why"
+          },
+          {
+            "label": "ch4.u2.sort.i1.label",
+            "bin": "ch4.u2.sort.bin.0",
+            "why": "ch4.u2.sort.i1.why"
+          },
+          {
+            "label": "ch4.u2.sort.i2.label",
+            "bin": "ch4.u2.sort.bin.1",
+            "why": "ch4.u2.sort.i2.why"
+          },
+          {
+            "label": "ch4.u2.sort.i3.label",
+            "bin": "ch4.u2.sort.bin.1",
+            "why": "ch4.u2.sort.i3.why"
+          },
+          {
+            "label": "ch4.u2.sort.i4.label",
+            "bin": "ch4.u2.sort.bin.1",
+            "why": "ch4.u2.sort.i4.why"
+          },
+          {
+            "label": "ch4.u2.sort.i5.label",
+            "bin": "ch4.u2.sort.bin.2",
+            "why": "ch4.u2.sort.i5.why"
+          },
+          {
+            "label": "ch4.u2.sort.i6.label",
+            "bin": "ch4.u2.sort.bin.2",
+            "why": "ch4.u2.sort.i6.why",
+            "tricky": true
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch4-u2-sort-3.collapse.q",
+          "answer": "ask.ch4-u2-sort-3.collapse.a"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u2-quiz-4",
+      "type": "quiz",
+      "section": "s.u2",
+      "title": "a.ch4-u2-quiz-4.title",
+      "minutes": 7,
+      "sourceRef": {
+        "page": 22,
+        "label": "Exercise 15"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch4.u2.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch4.u2.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch4.u2.quiz.q0.f0",
+                "misconception": "scattering-found-electron"
+              },
+              {
+                "text": "ch4.u2.quiz.q0.o1",
+                "correct": true,
+                "feedback": "ch4.u2.quiz.q0.f1"
+              },
+              {
+                "text": "ch4.u2.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch4.u2.quiz.q0.f2",
+                "misconception": "scattering-found-proton"
+              },
+              {
+                "text": "ch4.u2.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch4.u2.quiz.q0.f3",
+                "misconception": "scattering-found-neutron"
+              }
+            ]
+          },
+          {
+            "prompt": "ch4.u2.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch4.u2.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch4.u2.quiz.q1.f0",
+                "misconception": "foil-has-holes"
+              },
+              {
+                "text": "ch4.u2.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch4.u2.quiz.q1.f1"
+              },
+              {
+                "text": "ch4.u2.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch4.u2.quiz.q1.f2",
+                "misconception": "alpha-is-small"
+              },
+              {
+                "text": "ch4.u2.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch4.u2.quiz.q1.f3",
+                "misconception": "gold-is-soft"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch4-u3-read-1",
+      "type": "explainer",
+      "section": "s.u3",
+      "title": "a.ch4-u3-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 16,
+        "section": "4.3"
+      },
+      "config": {
+        "text": "ch4.u3.definition"
+      }
+    },
+    {
+      "id": "ch4-u3-draw-2",
+      "type": "drawAlong",
+      "section": "s.u3",
+      "title": "a.ch4-u3-draw-2.title",
+      "blurb": "a.ch4-u3-draw-2.blurb",
+      "minutes": 15,
+      "sourceRef": {
+        "page": 17,
+        "section": "4.3",
+        "label": "Fig. 4.4"
+      },
+      "config": {
+        "caption": "ch4.bohr.caption",
+        "ratio": 1.0,
+        "viewBox": "0 0 1000 1000",
+        "steps": [
+          {
+            "id": "nucleus",
+            "label": "ch4.bohr.nucleus.label",
+            "instruction": "ch4.bohr.nucleus.do",
+            "does": "ch4.bohr.nucleus.does",
+            "detail": {
+              "points": [
+                "ch4.bohr.nucleus.detail.p0",
+                "ch4.bohr.nucleus.detail.p1",
+                "ch4.bohr.nucleus.detail.p2"
+              ]
+            },
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": 442.0,
+                "y": 442.0,
+                "w": 116,
+                "h": 116,
+                "tone": "accent3",
+                "filled": true
+              }
+            ]
+          },
+          {
+            "id": "kshell",
+            "label": "ch4.bohr.kshell.label",
+            "instruction": "ch4.bohr.kshell.do",
+            "does": "ch4.bohr.kshell.does",
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": 370.0,
+                "y": 370.0,
+                "w": 260.0,
+                "h": 260.0,
+                "tone": "outline",
+                "filled": false,
+                "strokeWidth": 3.0
+              }
+            ]
+          },
+          {
+            "id": "ke",
+            "label": "ch4.bohr.ke.label",
+            "instruction": "ch4.bohr.ke.do",
+            "does": "ch4.bohr.ke.does",
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": 483.0,
+                "y": 353.0,
+                "w": 34.0,
+                "h": 34.0,
+                "tone": "accent1",
+                "filled": true
+              },
+              {
+                "kind": "ellipse",
+                "x": 483.0,
+                "y": 613.0,
+                "w": 34.0,
+                "h": 34.0,
+                "tone": "accent1",
+                "filled": true
+              }
+            ]
+          },
+          {
+            "id": "lshell",
+            "label": "ch4.bohr.lshell.label",
+            "instruction": "ch4.bohr.lshell.do",
+            "does": "ch4.bohr.lshell.does",
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": 240.0,
+                "y": 240.0,
+                "w": 520.0,
+                "h": 520.0,
+                "tone": "outline",
+                "filled": false,
+                "strokeWidth": 3.0
+              }
+            ]
+          },
+          {
+            "id": "le",
+            "label": "ch4.bohr.le.label",
+            "instruction": "ch4.bohr.le.do",
+            "does": "ch4.bohr.le.does",
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": 582.5,
+                "y": 242.8,
+                "w": 34.0,
+                "h": 34.0,
+                "tone": "accent1",
+                "filled": true
+              },
+              {
+                "kind": "ellipse",
+                "x": 723.2,
+                "y": 383.5,
+                "w": 34.0,
+                "h": 34.0,
+                "tone": "accent1",
+                "filled": true
+              },
+              {
+                "kind": "ellipse",
+                "x": 723.2,
+                "y": 582.5,
+                "w": 34.0,
+                "h": 34.0,
+                "tone": "accent1",
+                "filled": true
+              },
+              {
+                "kind": "ellipse",
+                "x": 582.5,
+                "y": 723.2,
+                "w": 34.0,
+                "h": 34.0,
+                "tone": "accent1",
+                "filled": true
+              },
+              {
+                "kind": "ellipse",
+                "x": 383.5,
+                "y": 723.2,
+                "w": 34.0,
+                "h": 34.0,
+                "tone": "accent1",
+                "filled": true
+              },
+              {
+                "kind": "ellipse",
+                "x": 242.8,
+                "y": 582.5,
+                "w": 34.0,
+                "h": 34.0,
+                "tone": "accent1",
+                "filled": true
+              },
+              {
+                "kind": "ellipse",
+                "x": 242.8,
+                "y": 383.5,
+                "w": 34.0,
+                "h": 34.0,
+                "tone": "accent1",
+                "filled": true
+              },
+              {
+                "kind": "ellipse",
+                "x": 383.5,
+                "y": 242.8,
+                "w": 34.0,
+                "h": 34.0,
+                "tone": "accent1",
+                "filled": true
+              }
+            ]
+          },
+          {
+            "id": "mshell",
+            "label": "ch4.bohr.mshell.label",
+            "instruction": "ch4.bohr.mshell.do",
+            "does": "ch4.bohr.mshell.does",
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": 110.0,
+                "y": 110.0,
+                "w": 780.0,
+                "h": 780.0,
+                "tone": "outline",
+                "filled": false,
+                "strokeWidth": 3.0
+              }
+            ]
+          },
+          {
+            "id": "me",
+            "label": "ch4.bohr.me.label",
+            "instruction": "ch4.bohr.me.do",
+            "does": "ch4.bohr.me.does",
+            "detail": {
+              "points": [
+                "ch4.bohr.me.detail.p0",
+                "ch4.bohr.me.detail.p1",
+                "ch4.bohr.me.detail.p2",
+                "ch4.bohr.me.detail.p3"
+              ]
+            },
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": 758.8,
+                "y": 207.2,
+                "w": 34.0,
+                "h": 34.0,
+                "tone": "accent1",
+                "filled": true
+              }
+            ]
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch4-u3-draw-2.notorbits.q",
+          "answer": "ask.ch4-u3-draw-2.notorbits.a"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u3-calc-3",
+      "type": "calculate",
+      "section": "s.u3",
+      "title": "a.ch4-u3-calc-3.title",
+      "minutes": 8,
+      "sourceRef": {
+        "page": 17,
+        "section": "4.3"
+      },
+      "config": {
+        "items": [
+          {
+            "prompt": "ch4.u3.calc.c0.prompt",
+            "given": [
+              "ch4.u3.calc.c0.g0",
+              "ch4.u3.calc.c0.g1"
+            ],
+            "steps": [
+              "ch4.u3.calc.c0.s0",
+              "ch4.u3.calc.c0.s1"
+            ],
+            "answer": "18",
+            "trap": "ch4.u3.calc.c0.trap"
+          },
+          {
+            "prompt": "ch4.u3.calc.c1.prompt",
+            "given": [
+              "ch4.u3.calc.c1.g0",
+              "ch4.u3.calc.c1.g1",
+              "ch4.u3.calc.c1.g2"
+            ],
+            "steps": [
+              "ch4.u3.calc.c1.s0",
+              "ch4.u3.calc.c1.s1",
+              "ch4.u3.calc.c1.s2"
+            ],
+            "answer": "1",
+            "trap": "ch4.u3.calc.c1.trap"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch4-u3-quiz-4",
+      "type": "quiz",
+      "section": "s.u3",
+      "title": "a.ch4-u3-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 23,
+        "label": "Exercise 18"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch4.u3.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch4.u3.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch4.u3.quiz.q0.f0",
+                "misconception": "shells-fill-outside-in"
+              },
+              {
+                "text": "ch4.u3.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch4.u3.quiz.q0.f1",
+                "misconception": "shells-fill-out-of-order"
+              },
+              {
+                "text": "ch4.u3.quiz.q0.o2",
+                "correct": true,
+                "feedback": "ch4.u3.quiz.q0.f2"
+              },
+              {
+                "text": "ch4.u3.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch4.u3.quiz.q0.f3",
+                "misconception": "shells-fill-outside-in"
+              }
+            ]
+          },
+          {
+            "prompt": "ch4.u3.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch4.u3.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch4.u3.quiz.q1.f0",
+                "misconception": "forgets-inner-shell"
+              },
+              {
+                "text": "ch4.u3.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch4.u3.quiz.q1.f1"
+              },
+              {
+                "text": "ch4.u3.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch4.u3.quiz.q1.f2",
+                "misconception": "counts-unfilled-shell"
+              },
+              {
+                "text": "ch4.u3.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch4.u3.quiz.q1.f3",
+                "misconception": "forgets-outer-shell"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch4-u4-read-1",
+      "type": "explainer",
+      "section": "s.u4",
+      "title": "a.ch4-u4-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 18,
+        "section": "4.4"
+      },
+      "config": {
+        "text": "ch4.u4.definition"
+      }
+    },
+    {
+      "id": "ch4-u4-valencyhands-2",
+      "type": "valencyHands",
+      "section": "s.u4",
+      "title": "a.ch4-u4-valencyhands-2.title",
+      "blurb": "a.ch4-u4-valencyhands-2.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 18,
+        "section": "4.4"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch4.u4.why.predict.prompt",
+          "options": [
+            "ch4.u4.why.predict.o0",
+            "ch4.u4.why.predict.o1",
+            "ch4.u4.why.predict.o2",
+            "ch4.u4.why.predict.o3"
+          ],
+          "correct": 1
+        },
+        "observe": "ch4.u4.why.observe",
+        "explain": "ch4.u4.why.explain"
+      },
+      "config": {
+        "atoms": [
+          {
+            "id": "na",
+            "symbol": "Na",
+            "label": "ch4.valency.atom.na",
+            "arms": 1
+          },
+          {
+            "id": "mg",
+            "symbol": "Mg",
+            "label": "ch4.valency.atom.mg",
+            "arms": 2
+          },
+          {
+            "id": "al",
+            "symbol": "Al",
+            "label": "ch4.valency.atom.al",
+            "arms": 3
+          },
+          {
+            "id": "cl",
+            "symbol": "Cl",
+            "label": "ch4.valency.atom.cl",
+            "arms": 1
+          },
+          {
+            "id": "o",
+            "symbol": "O",
+            "label": "ch4.valency.atom.o",
+            "arms": 2
+          },
+          {
+            "id": "f",
+            "symbol": "F",
+            "label": "ch4.valency.atom.f",
+            "arms": 1
+          }
+        ],
+        "targets": [
+          {
+            "label": "ch4.valency.target.nacl",
+            "formula": "NaCl",
+            "counts": [
+              {
+                "atom": "na",
+                "n": 1
+              },
+              {
+                "atom": "cl",
+                "n": 1
+              }
+            ]
+          },
+          {
+            "label": "ch4.valency.target.mgcl2",
+            "formula": "MgCl2",
+            "counts": [
+              {
+                "atom": "mg",
+                "n": 1
+              },
+              {
+                "atom": "cl",
+                "n": 2
+              }
+            ]
+          },
+          {
+            "label": "ch4.valency.target.al2o3",
+            "formula": "Al2O3",
+            "counts": [
+              {
+                "atom": "al",
+                "n": 2
+              },
+              {
+                "atom": "o",
+                "n": 3
+              }
+            ]
+          },
+          {
+            "label": "ch4.valency.target.mgo",
+            "formula": "MgO",
+            "counts": [
+              {
+                "atom": "mg",
+                "n": 1
+              },
+              {
+                "atom": "o",
+                "n": 1
+              }
+            ]
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch4-u4-valencyhands-2.fluorine.q",
+          "answer": "ask.ch4-u4-valencyhands-2.fluorine.a"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u4-sort-3",
+      "type": "sortBins",
+      "section": "s.u4",
+      "title": "a.ch4-u4-sort-3.title",
+      "blurb": "a.ch4-u4-sort-3.blurb",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 18,
+        "section": "4.4",
+        "label": "Table 4.1"
+      },
+      "config": {
+        "bins": [
+          "ch4.u4.sort.bin.0",
+          "ch4.u4.sort.bin.1",
+          "ch4.u4.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch4.u4.sort.i0.label",
+            "bin": "ch4.u4.sort.bin.0",
+            "why": "ch4.u4.sort.i0.why"
+          },
+          {
+            "label": "ch4.u4.sort.i1.label",
+            "bin": "ch4.u4.sort.bin.0",
+            "why": "ch4.u4.sort.i1.why"
+          },
+          {
+            "label": "ch4.u4.sort.i2.label",
+            "bin": "ch4.u4.sort.bin.0",
+            "why": "ch4.u4.sort.i2.why"
+          },
+          {
+            "label": "ch4.u4.sort.i3.label",
+            "bin": "ch4.u4.sort.bin.1",
+            "why": "ch4.u4.sort.i3.why"
+          },
+          {
+            "label": "ch4.u4.sort.i4.label",
+            "bin": "ch4.u4.sort.bin.1",
+            "why": "ch4.u4.sort.i4.why"
+          },
+          {
+            "label": "ch4.u4.sort.i5.label",
+            "bin": "ch4.u4.sort.bin.2",
+            "why": "ch4.u4.sort.i5.why"
+          },
+          {
+            "label": "ch4.u4.sort.i6.label",
+            "bin": "ch4.u4.sort.bin.2",
+            "why": "ch4.u4.sort.i6.why"
+          },
+          {
+            "label": "ch4.u4.sort.i7.label",
+            "bin": "ch4.u4.sort.bin.2",
+            "why": "ch4.u4.sort.i7.why",
+            "tricky": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch4-u4-quiz-4",
+      "type": "quiz",
+      "section": "s.u4",
+      "title": "a.ch4-u4-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 22,
+        "label": "Exercise 17"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch4.u4.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch4.u4.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch4.u4.quiz.q0.f0",
+                "misconception": "miscounts-valence"
+              },
+              {
+                "text": "ch4.u4.quiz.q0.o1",
+                "correct": true,
+                "feedback": "ch4.u4.quiz.q0.f1"
+              },
+              {
+                "text": "ch4.u4.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch4.u4.quiz.q0.f2",
+                "misconception": "confuses-z-with-valence"
+              },
+              {
+                "text": "ch4.u4.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch4.u4.quiz.q0.f3",
+                "misconception": "counts-all-electrons"
+              }
+            ]
+          },
+          {
+            "prompt": "ch4.u4.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch4.u4.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch4.u4.quiz.q1.f0",
+                "misconception": "heavy-means-unreactive"
+              },
+              {
+                "text": "ch4.u4.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch4.u4.quiz.q1.f1"
+              },
+              {
+                "text": "ch4.u4.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch4.u4.quiz.q1.f2",
+                "misconception": "noble-gas-has-no-electrons"
+              },
+              {
+                "text": "ch4.u4.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch4.u4.quiz.q1.f3",
+                "misconception": "gases-do-not-react"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch4-u5-read-1",
+      "type": "explainer",
+      "section": "s.u5",
+      "title": "a.ch4-u5-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 19,
+        "section": "4.5"
+      },
+      "config": {
+        "text": "ch4.u5.definition"
+      }
+    },
+    {
+      "id": "ch4-u5-zoom-2",
+      "type": "zoomScale",
+      "section": "s.u5",
+      "title": "a.ch4-u5-zoom-2.title",
+      "blurb": "a.ch4-u5-zoom-2.blurb",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 15,
+        "section": "4.2.2"
+      },
+      "config": {
+        "unlockStops": [
+          "nucleus"
+        ],
+        "highlight": "nucleus"
+      },
+      "followUps": [
+        {
+          "question": "ask.ch4-u5-zoom-2.empty.q",
+          "answer": "ask.ch4-u5-zoom-2.empty.a"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u5-calc-3",
+      "type": "calculate",
+      "section": "s.u5",
+      "title": "a.ch4-u5-calc-3.title",
+      "blurb": "a.ch4-u5-calc-3.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 23,
+        "label": "Exercise 19"
+      },
+      "config": {
+        "items": [
+          {
+            "prompt": "ch4.u5.calc.c0.prompt",
+            "given": [
+              "ch4.u5.calc.c0.g0",
+              "ch4.u5.calc.c0.g1"
+            ],
+            "steps": [
+              "ch4.u5.calc.c0.s0",
+              "ch4.u5.calc.c0.s1"
+            ],
+            "answer": "19",
+            "trap": "ch4.u5.calc.c0.trap"
+          },
+          {
+            "prompt": "ch4.u5.calc.c1.prompt",
+            "given": [
+              "ch4.u5.calc.c1.g0",
+              "ch4.u5.calc.c1.g1"
+            ],
+            "steps": [
+              "ch4.u5.calc.c1.s0",
+              "ch4.u5.calc.c1.s1"
+            ],
+            "answer": "16",
+            "trap": "ch4.u5.calc.c1.trap"
+          },
+          {
+            "prompt": "ch4.u5.calc.c2.prompt",
+            "given": [
+              "ch4.u5.calc.c2.g0",
+              "ch4.u5.calc.c2.g1"
+            ],
+            "steps": [
+              "ch4.u5.calc.c2.s0"
+            ],
+            "answer": "12",
+            "trap": "ch4.u5.calc.c2.trap"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch4-u5-quiz-4",
+      "type": "quiz",
+      "section": "s.u5",
+      "title": "a.ch4-u5-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 19,
+        "section": "4.5.2"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch4.u5.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch4.u5.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch4.u5.quiz.q0.f0",
+                "misconception": "neutrons-define-element"
+              },
+              {
+                "text": "ch4.u5.quiz.q0.o1",
+                "correct": true,
+                "feedback": "ch4.u5.quiz.q0.f1"
+              },
+              {
+                "text": "ch4.u5.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch4.u5.quiz.q0.f2",
+                "misconception": "electrons-define-element"
+              },
+              {
+                "text": "ch4.u5.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch4.u5.quiz.q0.f3",
+                "misconception": "mass-number-defines-element"
+              }
+            ]
+          },
+          {
+            "prompt": "ch4.u5.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch4.u5.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch4.u5.quiz.q1.f0",
+                "misconception": "electrons-excluded-by-position"
+              },
+              {
+                "text": "ch4.u5.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch4.u5.quiz.q1.f1"
+              },
+              {
+                "text": "ch4.u5.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch4.u5.quiz.q1.f2",
+                "misconception": "electron-has-no-mass"
+              },
+              {
+                "text": "ch4.u5.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch4.u5.quiz.q1.f3",
+                "misconception": "mass-cancels"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch4-u6-read-1",
+      "type": "explainer",
+      "section": "s.u6",
+      "title": "a.ch4-u6-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 19,
+        "section": "4.6"
+      },
+      "config": {
+        "text": "ch4.u6.definition"
+      }
+    },
+    {
+      "id": "ch4-u6-tree-2",
+      "type": "classifyTree",
+      "section": "s.u6",
+      "title": "a.ch4-u6-tree-2.title",
+      "blurb": "a.ch4-u6-tree-2.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 20,
+        "section": "4.6.1"
+      },
+      "config": {
+        "tree": "species",
+        "mode": "forward",
+        "items": [
+          {
+            "id": "hd",
+            "label": "species.item.hd",
+            "leaf": "isotopes"
+          },
+          {
+            "id": "c1214",
+            "label": "species.item.c1214",
+            "leaf": "isotopes"
+          },
+          {
+            "id": "cl3537",
+            "label": "species.item.cl3537",
+            "leaf": "isotopes"
+          },
+          {
+            "id": "caar",
+            "label": "species.item.caar",
+            "leaf": "isobars"
+          },
+          {
+            "id": "o16o16",
+            "label": "species.item.o16o16",
+            "leaf": "identical"
+          },
+          {
+            "id": "namg",
+            "label": "species.item.namg",
+            "leaf": "unrelated"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch4-u6-tree-2.whysame.q",
+          "answer": "ask.ch4-u6-tree-2.whysame.a"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u6-calc-3",
+      "type": "calculate",
+      "section": "s.u6",
+      "title": "a.ch4-u6-calc-3.title",
+      "blurb": "a.ch4-u6-calc-3.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 20,
+        "section": "4.6"
+      },
+      "config": {
+        "items": [
+          {
+            "prompt": "ch4.u6.calc.c0.prompt",
+            "given": [
+              "ch4.u6.calc.c0.g0",
+              "ch4.u6.calc.c0.g1"
+            ],
+            "steps": [
+              "ch4.u6.calc.c0.s0",
+              "ch4.u6.calc.c0.s1",
+              "ch4.u6.calc.c0.s2"
+            ],
+            "answer": "35.5",
+            "unit": "u",
+            "trap": "ch4.u6.calc.c0.trap"
+          },
+          {
+            "prompt": "ch4.u6.calc.c1.prompt",
+            "given": [
+              "ch4.u6.calc.c1.g0",
+              "ch4.u6.calc.c1.g1"
+            ],
+            "steps": [
+              "ch4.u6.calc.c1.s0",
+              "ch4.u6.calc.c1.s1"
+            ],
+            "answer": "80",
+            "unit": "u",
+            "trap": "ch4.u6.calc.c1.trap"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch4-u6-quiz-4",
+      "type": "quiz",
+      "section": "s.u6",
+      "title": "a.ch4-u6-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 22,
+        "label": "Exercise 16"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch4.u6.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch4.u6.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch4.u6.quiz.q0.f0",
+                "misconception": "isotope-differs-in-protons"
+              },
+              {
+                "text": "ch4.u6.quiz.q0.o1",
+                "correct": true,
+                "feedback": "ch4.u6.quiz.q0.f1"
+              },
+              {
+                "text": "ch4.u6.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch4.u6.quiz.q0.f2",
+                "misconception": "isotope-confused-with-isobar"
+              },
+              {
+                "text": "ch4.u6.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch4.u6.quiz.q0.f3",
+                "misconception": "isotopes-differ-chemically"
+              }
+            ]
+          },
+          {
+            "prompt": "ch4.u6.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch4.u6.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch4.u6.quiz.q1.f0",
+                "misconception": "isotope-confused-with-isobar"
+              },
+              {
+                "text": "ch4.u6.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch4.u6.quiz.q1.f1"
+              },
+              {
+                "text": "ch4.u6.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch4.u6.quiz.q1.f2",
+                "misconception": "same-mass-same-element"
+              },
+              {
+                "text": "ch4.u6.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch4.u6.quiz.q1.f3",
+                "misconception": "isobars-impossible"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "paths": [
+    {
+      "id": "guided",
+      "title": "path.guided.title",
+      "blurb": "path.guided.blurb",
+      "artifacts": [
+        "ch4-u1-do-1",
+        "ch4-u1-read-2",
+        "ch4-u1-sort-3",
+        "ch4-u1-quiz-4",
+        "ch4-u2-read-1",
+        "ch4-u2-read-2",
+        "ch4-u2-sort-3",
+        "ch4-u2-quiz-4",
+        "ch4-u3-read-1",
+        "ch4-u3-draw-2",
+        "ch4-u3-calc-3",
+        "ch4-u3-quiz-4",
+        "ch4-u4-read-1",
+        "ch4-u4-valencyhands-2",
+        "ch4-u4-sort-3",
+        "ch4-u4-quiz-4",
+        "ch4-u5-read-1",
+        "ch4-u5-zoom-2",
+        "ch4-u5-calc-3",
+        "ch4-u5-quiz-4",
+        "ch4-u6-read-1",
+        "ch4-u6-tree-2",
+        "ch4-u6-calc-3",
+        "ch4-u6-quiz-4"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "id": "electron",
+      "definition": "gloss.electron",
+      "seeAlso": [
+        "proton",
+        "shell",
+        "valence-electron"
+      ]
+    },
+    {
+      "id": "proton",
+      "definition": "gloss.proton",
+      "seeAlso": [
+        "electron",
+        "neutron",
+        "atomic-number"
+      ]
+    },
+    {
+      "id": "neutron",
+      "definition": "gloss.neutron",
+      "seeAlso": [
+        "proton",
+        "isotope",
+        "mass-number"
+      ]
+    },
+    {
+      "id": "nucleus",
+      "definition": "gloss.nucleus",
+      "seeAlso": [
+        "proton",
+        "neutron",
+        "nucleon"
+      ]
+    },
+    {
+      "id": "nucleon",
+      "definition": "gloss.nucleon",
+      "seeAlso": [
+        "mass-number",
+        "nucleus"
+      ]
+    },
+    {
+      "id": "shell",
+      "definition": "gloss.shell",
+      "seeAlso": [
+        "electron",
+        "valence-electron",
+        "octet"
+      ]
+    },
+    {
+      "id": "valence-electron",
+      "definition": "gloss.valence-electron",
+      "seeAlso": [
+        "shell",
+        "valency",
+        "octet"
+      ]
+    },
+    {
+      "id": "octet",
+      "definition": "gloss.octet",
+      "seeAlso": [
+        "valence-electron",
+        "valency"
+      ]
+    },
+    {
+      "id": "valency",
+      "definition": "gloss.valency",
+      "seeAlso": [
+        "valence-electron",
+        "octet"
+      ]
+    },
+    {
+      "id": "atomic-number",
+      "definition": "gloss.atomic-number",
+      "seeAlso": [
+        "proton",
+        "mass-number",
+        "isotope"
+      ]
+    },
+    {
+      "id": "mass-number",
+      "definition": "gloss.mass-number",
+      "seeAlso": [
+        "nucleon",
+        "atomic-number",
+        "isobar"
+      ]
+    },
+    {
+      "id": "isotope",
+      "definition": "gloss.isotope",
+      "seeAlso": [
+        "isobar",
+        "atomic-number",
+        "neutron"
+      ]
+    },
+    {
+      "id": "isobar",
+      "definition": "gloss.isobar",
+      "seeAlso": [
+        "isotope",
+        "mass-number"
+      ]
+    },
+    {
+      "id": "alpha-particle",
+      "definition": "gloss.alpha-particle",
+      "seeAlso": [
+        "nucleus"
+      ]
+    }
+  ]
+}
