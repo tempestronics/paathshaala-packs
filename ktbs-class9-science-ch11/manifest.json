@@ -1,0 +1,40 @@
+{
+  "format": "paath/1",
+  "id": "ktbs.class9.science.ch11",
+  "version": "1.0.0",
+  "title": "Sound",
+  "blurb": "The air carries it and does not travel with it, and the curve in the book is a graph rather than a picture.",
+  "subject": "Science",
+  "level": "Class 9",
+  "source": "Karnataka Textbook Society, 2026-27, Part 2",
+  "textbook": {
+    "title": "Class 9 Science Part 2",
+    "chapter": 11,
+    "firstPage": 51,
+    "lastPage": 63,
+    "publisher": "Karnataka Textbook Society",
+    "edition": "2026-27"
+  },
+  "author": {
+    "name": "Paathshaala",
+    "url": "https://paathshaala.org"
+  },
+  "licence": "CC-BY-4.0",
+  "languages": [
+    "en",
+    "kn"
+  ],
+  "defaultLanguage": "en",
+  "estimatedMinutes": 177,
+  "requires": {
+    "minPlayer": 1,
+    "artifactTypes": [
+      "calculate",
+      "experiment",
+      "explainer",
+      "quiz",
+      "sortBins",
+      "waveLab"
+    ]
+  }
+}
