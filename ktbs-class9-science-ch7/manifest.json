@@ -1,0 +1,43 @@
+{
+  "format": "paath/1",
+  "id": "ktbs.class9.science.ch7",
+  "version": "1.0.0",
+  "title": "Motion",
+  "blurb": "Two graphs, three equations, and the difference between how far you went and how far you got.",
+  "subject": "Science",
+  "level": "Class 9",
+  "source": "Karnataka Textbook Society, 2026-27, Part 1",
+  "textbook": {
+    "title": "Class 9 Science Part 1",
+    "chapter": 7,
+    "firstPage": 49,
+    "lastPage": 63,
+    "publisher": "Karnataka Textbook Society",
+    "edition": "2026-27"
+  },
+  "author": {
+    "name": "Paathshaala",
+    "url": "https://paathshaala.org"
+  },
+  "licence": "CC-BY-4.0",
+  "languages": [
+    "en",
+    "kn"
+  ],
+  "defaultLanguage": "en",
+  "estimatedMinutes": 235,
+  "requires": {
+    "minPlayer": 1,
+    "artifactTypes": [
+      "calculate",
+      "challenge",
+      "classifyTree",
+      "drawAlong",
+      "experiment",
+      "explainer",
+      "motionLab",
+      "quiz",
+      "sortBins"
+    ]
+  }
+}

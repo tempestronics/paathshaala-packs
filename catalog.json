@@ -192,6 +192,38 @@
       "audio": null,
       "sizeBytes": 104553,
       "textSizeBytes": 104553
+    },
+    {
+      "id": "ktbs.class9.science.ch7",
+      "dir": "ktbs-class9-science-ch7",
+      "version": "1.0.0",
+      "format": "paath/1",
+      "title": "Motion",
+      "blurb": "Two graphs, three equations, and the difference between how far you went and how far you got.",
+      "subject": "Science",
+      "level": "Class 9",
+      "languages": [
+        "en",
+        "kn"
+      ],
+      "estimatedMinutes": 235,
+      "requires": {
+        "minPlayer": 1,
+        "artifactTypes": [
+          "calculate",
+          "challenge",
+          "classifyTree",
+          "drawAlong",
+          "experiment",
+          "explainer",
+          "motionLab",
+          "quiz",
+          "sortBins"
+        ]
+      },
+      "audio": null,
+      "sizeBytes": 160880,
+      "textSizeBytes": 160880
     }
   ]
 }
