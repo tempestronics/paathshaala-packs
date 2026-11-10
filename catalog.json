@@ -40,6 +40,36 @@
       "textSizeBytes": 115169
     },
     {
+      "id": "ktbs.class9.science.ch10",
+      "dir": "ktbs-class9-science-ch10",
+      "version": "1.0.0",
+      "format": "paath/1",
+      "title": "Work and Energy",
+      "blurb": "Holding a heavy load still is not work, and a bar that never changes length is the whole of conservation.",
+      "subject": "Science",
+      "level": "Class 9",
+      "languages": [
+        "en",
+        "kn"
+      ],
+      "estimatedMinutes": 176,
+      "requires": {
+        "minPlayer": 1,
+        "artifactTypes": [
+          "calculate",
+          "challenge",
+          "experiment",
+          "explainer",
+          "motionLab",
+          "quiz",
+          "sortBins"
+        ]
+      },
+      "audio": null,
+      "sizeBytes": 110305,
+      "textSizeBytes": 110305
+    },
+    {
       "id": "ktbs.class9.science.ch2",
       "dir": "ktbs-class9-science-ch2",
       "version": "1.0.0",

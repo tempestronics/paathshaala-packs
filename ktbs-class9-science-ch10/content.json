@@ -1,0 +1,1783 @@
+{
+  "sections": [
+    {
+      "id": "s.u1",
+      "title": "s.u1.title",
+      "blurb": "s.u1.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u1.q1.ask",
+          "answer": "recap.s.u1.q1.answer",
+          "listenFor": "recap.s.u1.q1.listenFor",
+          "sourceRef": {
+            "page": 38,
+            "section": "10.1.2"
+          }
+        },
+        {
+          "ask": "recap.s.u1.q2.ask",
+          "answer": "recap.s.u1.q2.answer",
+          "listenFor": "recap.s.u1.q2.listenFor",
+          "sourceRef": {
+            "page": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u2",
+      "title": "s.u2.title",
+      "blurb": "s.u2.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u2.q1.ask",
+          "answer": "recap.s.u2.q1.answer",
+          "listenFor": "recap.s.u2.q1.listenFor",
+          "sourceRef": {
+            "page": 38,
+            "section": "10.1.3"
+          }
+        },
+        {
+          "ask": "recap.s.u2.q2.ask",
+          "answer": "recap.s.u2.q2.answer",
+          "listenFor": "recap.s.u2.q2.listenFor",
+          "sourceRef": {
+            "page": 39,
+            "section": "10.1.3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u3",
+      "title": "s.u3.title",
+      "blurb": "s.u3.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u3.q1.ask",
+          "answer": "recap.s.u3.q1.answer",
+          "listenFor": "recap.s.u3.q1.listenFor",
+          "sourceRef": {
+            "page": 42,
+            "section": "10.2.2"
+          }
+        },
+        {
+          "ask": "recap.s.u3.q2.ask",
+          "answer": "recap.s.u3.q2.answer",
+          "listenFor": "recap.s.u3.q2.listenFor",
+          "sourceRef": {
+            "page": 43,
+            "section": "10.2.2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u4",
+      "title": "s.u4.title",
+      "blurb": "s.u4.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u4.q1.ask",
+          "answer": "recap.s.u4.q1.answer",
+          "listenFor": "recap.s.u4.q1.listenFor",
+          "sourceRef": {
+            "page": 44,
+            "section": "10.2.4"
+          }
+        },
+        {
+          "ask": "recap.s.u4.q2.ask",
+          "answer": "recap.s.u4.q2.answer",
+          "listenFor": "recap.s.u4.q2.listenFor",
+          "sourceRef": {
+            "page": 44,
+            "section": "10.2.4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u5",
+      "title": "s.u5.title",
+      "blurb": "s.u5.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u5.q1.ask",
+          "answer": "recap.s.u5.q1.answer",
+          "listenFor": "recap.s.u5.q1.listenFor",
+          "sourceRef": {
+            "page": 45,
+            "section": "10.2.6"
+          }
+        },
+        {
+          "ask": "recap.s.u5.q2.ask",
+          "answer": "recap.s.u5.q2.answer",
+          "listenFor": "recap.s.u5.q2.listenFor",
+          "sourceRef": {
+            "page": 49
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u6",
+      "title": "s.u6.title",
+      "blurb": "s.u6.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u6.q1.ask",
+          "answer": "recap.s.u6.q1.answer",
+          "listenFor": "recap.s.u6.q1.listenFor",
+          "sourceRef": {
+            "page": 46,
+            "section": "10.3"
+          }
+        },
+        {
+          "ask": "recap.s.u6.q2.ask",
+          "answer": "recap.s.u6.q2.answer",
+          "listenFor": "recap.s.u6.q2.listenFor",
+          "sourceRef": {
+            "page": 47,
+            "section": "10.3"
+          }
+        }
+      ]
+    }
+  ],
+  "misconceptions": [
+    {
+      "id": "tiredness-means-work",
+      "statement": "mis.tiredness-means-work.statement",
+      "correction": "mis.tiredness-means-work.correction"
+    },
+    {
+      "id": "heavy-means-work",
+      "statement": "mis.heavy-means-work.statement",
+      "correction": "mis.heavy-means-work.correction"
+    },
+    {
+      "id": "force-alone-is-work",
+      "statement": "mis.force-alone-is-work.statement",
+      "correction": "mis.force-alone-is-work.correction"
+    },
+    {
+      "id": "time-makes-work",
+      "statement": "mis.time-makes-work.statement",
+      "correction": "mis.time-makes-work.correction"
+    },
+    {
+      "id": "any-movement-is-work",
+      "statement": "mis.any-movement-is-work.statement",
+      "correction": "mis.any-movement-is-work.correction"
+    },
+    {
+      "id": "joule-is-a-force",
+      "statement": "mis.joule-is-a-force.statement",
+      "correction": "mis.joule-is-a-force.correction"
+    },
+    {
+      "id": "joule-is-a-height",
+      "statement": "mis.joule-is-a-height.statement",
+      "correction": "mis.joule-is-a-height.correction"
+    },
+    {
+      "id": "gravity-always-positive",
+      "statement": "mis.gravity-always-positive.statement",
+      "correction": "mis.gravity-always-positive.correction"
+    },
+    {
+      "id": "gravity-never-works",
+      "statement": "mis.gravity-never-works.statement",
+      "correction": "mis.gravity-never-works.correction"
+    },
+    {
+      "id": "right-angle-gives-half",
+      "statement": "mis.right-angle-gives-half.statement",
+      "correction": "mis.right-angle-gives-half.correction"
+    },
+    {
+      "id": "kinetic-energy-is-momentum",
+      "statement": "mis.kinetic-energy-is-momentum.statement",
+      "correction": "mis.kinetic-energy-is-momentum.correction"
+    },
+    {
+      "id": "kinetic-is-potential",
+      "statement": "mis.kinetic-is-potential.statement",
+      "correction": "mis.kinetic-is-potential.correction"
+    },
+    {
+      "id": "energy-follows-speed",
+      "statement": "mis.energy-follows-speed.statement",
+      "correction": "mis.energy-follows-speed.correction"
+    },
+    {
+      "id": "energy-ignores-speed",
+      "statement": "mis.energy-ignores-speed.statement",
+      "correction": "mis.energy-ignores-speed.correction"
+    },
+    {
+      "id": "heavier-means-more-energy",
+      "statement": "mis.heavier-means-more-energy.statement",
+      "correction": "mis.heavier-means-more-energy.correction"
+    },
+    {
+      "id": "potential-has-a-square",
+      "statement": "mis.potential-has-a-square.statement",
+      "correction": "mis.potential-has-a-square.correction"
+    },
+    {
+      "id": "potential-leaves-out-g",
+      "statement": "mis.potential-leaves-out-g.statement",
+      "correction": "mis.potential-leaves-out-g.correction"
+    },
+    {
+      "id": "longer-path-more-work",
+      "statement": "mis.longer-path-more-work.statement",
+      "correction": "mis.longer-path-more-work.correction"
+    },
+    {
+      "id": "faster-means-more-work",
+      "statement": "mis.faster-means-more-work.statement",
+      "correction": "mis.faster-means-more-work.correction"
+    },
+    {
+      "id": "still-means-no-energy",
+      "statement": "mis.still-means-no-energy.statement",
+      "correction": "mis.still-means-no-energy.correction"
+    },
+    {
+      "id": "resting-means-no-energy",
+      "statement": "mis.resting-means-no-energy.statement",
+      "correction": "mis.resting-means-no-energy.correction"
+    },
+    {
+      "id": "falling-loses-energy",
+      "statement": "mis.falling-loses-energy.statement",
+      "correction": "mis.falling-loses-energy.correction"
+    },
+    {
+      "id": "law-only-for-rest",
+      "statement": "mis.law-only-for-rest.statement",
+      "correction": "mis.law-only-for-rest.correction"
+    },
+    {
+      "id": "friction-destroys-energy",
+      "statement": "mis.friction-destroys-energy.statement",
+      "correction": "mis.friction-destroys-energy.correction"
+    },
+    {
+      "id": "energy-was-never-there",
+      "statement": "mis.energy-was-never-there.statement",
+      "correction": "mis.energy-was-never-there.correction"
+    },
+    {
+      "id": "energy-largest-at-the-top",
+      "statement": "mis.energy-largest-at-the-top.statement",
+      "correction": "mis.energy-largest-at-the-top.correction"
+    },
+    {
+      "id": "energy-largest-halfway",
+      "statement": "mis.energy-largest-halfway.statement",
+      "correction": "mis.energy-largest-halfway.correction"
+    },
+    {
+      "id": "power-is-work",
+      "statement": "mis.power-is-work.statement",
+      "correction": "mis.power-is-work.correction"
+    },
+    {
+      "id": "power-is-force",
+      "statement": "mis.power-is-force.statement",
+      "correction": "mis.power-is-force.correction"
+    },
+    {
+      "id": "time-does-not-affect-power",
+      "statement": "mis.time-does-not-affect-power.statement",
+      "correction": "mis.time-does-not-affect-power.correction"
+    },
+    {
+      "id": "parked-thing-has-energy",
+      "statement": "mis.parked-thing-has-energy.statement",
+      "correction": "mis.parked-thing-has-energy.correction"
+    },
+    {
+      "id": "power-is-the-time",
+      "statement": "mis.power-is-the-time.statement",
+      "correction": "mis.power-is-the-time.correction"
+    },
+    {
+      "id": "fridge-runs-constantly",
+      "statement": "mis.fridge-runs-constantly.statement",
+      "correction": "mis.fridge-runs-constantly.correction"
+    },
+    {
+      "id": "standby-draws-nothing",
+      "statement": "mis.standby-draws-nothing.statement",
+      "correction": "mis.standby-draws-nothing.correction"
+    },
+    {
+      "id": "heater-is-cheap",
+      "statement": "mis.heater-is-cheap.statement",
+      "correction": "mis.heater-is-cheap.correction"
+    },
+    {
+      "id": "led-uses-more",
+      "statement": "mis.led-uses-more.statement",
+      "correction": "mis.led-uses-more.correction"
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "ch10-u1-read-1",
+      "type": "explainer",
+      "section": "s.u1",
+      "title": "a.ch10-u1-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 37,
+        "section": "10.1"
+      },
+      "config": {
+        "text": "ch10.u1.work"
+      }
+    },
+    {
+      "id": "ch10-u1-sort-2",
+      "type": "sortBins",
+      "section": "s.u1",
+      "title": "a.ch10-u1-sort-2.title",
+      "blurb": "a.ch10-u1-sort-2.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 38,
+        "section": "10.1.2"
+      },
+      "config": {
+        "bins": [
+          "ch10.u1.sort.bin.0",
+          "ch10.u1.sort.bin.1"
+        ],
+        "items": [
+          {
+            "label": "ch10.u1.sort.i0.label",
+            "bin": "ch10.u1.sort.bin.0",
+            "why": "ch10.u1.sort.i0.why"
+          },
+          {
+            "label": "ch10.u1.sort.i1.label",
+            "bin": "ch10.u1.sort.bin.1",
+            "why": "ch10.u1.sort.i1.why"
+          },
+          {
+            "label": "ch10.u1.sort.i2.label",
+            "bin": "ch10.u1.sort.bin.0",
+            "why": "ch10.u1.sort.i2.why"
+          },
+          {
+            "label": "ch10.u1.sort.i3.label",
+            "bin": "ch10.u1.sort.bin.1",
+            "why": "ch10.u1.sort.i3.why",
+            "tricky": true
+          },
+          {
+            "label": "ch10.u1.sort.i4.label",
+            "bin": "ch10.u1.sort.bin.0",
+            "why": "ch10.u1.sort.i4.why"
+          },
+          {
+            "label": "ch10.u1.sort.i5.label",
+            "bin": "ch10.u1.sort.bin.1",
+            "why": "ch10.u1.sort.i5.why",
+            "tricky": true
+          },
+          {
+            "label": "ch10.u1.sort.i6.label",
+            "bin": "ch10.u1.sort.bin.1",
+            "why": "ch10.u1.sort.i6.why",
+            "tricky": true
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch10-u1-sort-2.tired.q",
+          "answer": "ask.ch10-u1-sort-2.tired.a"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u1-quiz-3",
+      "type": "quiz",
+      "section": "s.u1",
+      "title": "a.ch10-u1-quiz-3.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 48
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch10.u1.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch10.u1.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch10.u1.quiz.q0.f0"
+              },
+              {
+                "text": "ch10.u1.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch10.u1.quiz.q0.f1",
+                "misconception": "tiredness-means-work"
+              },
+              {
+                "text": "ch10.u1.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch10.u1.quiz.q0.f2",
+                "misconception": "heavy-means-work"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u1.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch10.u1.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch10.u1.quiz.q1.f0"
+              },
+              {
+                "text": "ch10.u1.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch10.u1.quiz.q1.f1",
+                "misconception": "force-alone-is-work"
+              },
+              {
+                "text": "ch10.u1.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch10.u1.quiz.q1.f2",
+                "misconception": "time-makes-work"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u1.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch10.u1.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch10.u1.quiz.q2.f0"
+              },
+              {
+                "text": "ch10.u1.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch10.u1.quiz.q2.f1",
+                "misconception": "any-movement-is-work"
+              },
+              {
+                "text": "ch10.u1.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch10.u1.quiz.q2.f2",
+                "misconception": "heavy-means-work"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "any-movement-is-work",
+        "force-alone-is-work",
+        "heavy-means-work",
+        "time-makes-work",
+        "tiredness-means-work"
+      ]
+    },
+    {
+      "id": "ch10-u2-read-1",
+      "type": "explainer",
+      "section": "s.u2",
+      "title": "a.ch10-u2-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 38,
+        "section": "10.1.3"
+      },
+      "config": {
+        "text": "ch10.u2.formula"
+      }
+    },
+    {
+      "id": "ch10-u2-calc-2",
+      "type": "calculate",
+      "section": "s.u2",
+      "title": "a.ch10-u2-calc-2.title",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 39,
+        "section": "10.1.3"
+      },
+      "config": {
+        "items": [
+          {
+            "prompt": "ch10.u2.calc.c0.prompt",
+            "given": [
+              "ch10.u2.calc.c0.g0",
+              "ch10.u2.calc.c0.g1"
+            ],
+            "steps": [
+              "ch10.u2.calc.c0.s0",
+              "ch10.u2.calc.c0.s1"
+            ],
+            "answer": "56",
+            "unit": "J",
+            "trap": "ch10.u2.calc.c0.trap"
+          },
+          {
+            "prompt": "ch10.u2.calc.c1.prompt",
+            "given": [
+              "ch10.u2.calc.c1.g0",
+              "ch10.u2.calc.c1.g1",
+              "ch10.u2.calc.c1.g2"
+            ],
+            "steps": [
+              "ch10.u2.calc.c1.s0",
+              "ch10.u2.calc.c1.s1"
+            ],
+            "answer": "225",
+            "unit": "J",
+            "trap": "ch10.u2.calc.c1.trap"
+          },
+          {
+            "prompt": "ch10.u2.calc.c2.prompt",
+            "given": [
+              "ch10.u2.calc.c2.g0",
+              "ch10.u2.calc.c2.g1"
+            ],
+            "steps": [
+              "ch10.u2.calc.c2.s0",
+              "ch10.u2.calc.c2.s1"
+            ],
+            "answer": "2100",
+            "unit": "J",
+            "trap": "ch10.u2.calc.c2.trap"
+          },
+          {
+            "prompt": "ch10.u2.calc.c3.prompt",
+            "given": [
+              "ch10.u2.calc.c3.g0",
+              "ch10.u2.calc.c3.g1"
+            ],
+            "steps": [
+              "ch10.u2.calc.c3.s0",
+              "ch10.u2.calc.c3.s1"
+            ],
+            "answer": "-6000",
+            "unit": "J",
+            "trap": "ch10.u2.calc.c3.trap"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch10-u2-sort-3",
+      "type": "sortBins",
+      "section": "s.u2",
+      "title": "a.ch10-u2-sort-3.title",
+      "blurb": "a.ch10-u2-sort-3.blurb",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 39,
+        "section": "10.1.3"
+      },
+      "config": {
+        "bins": [
+          "ch10.u2.sort.bin.0",
+          "ch10.u2.sort.bin.1",
+          "ch10.u2.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch10.u2.sort.i0.label",
+            "bin": "ch10.u2.sort.bin.0",
+            "why": "ch10.u2.sort.i0.why"
+          },
+          {
+            "label": "ch10.u2.sort.i1.label",
+            "bin": "ch10.u2.sort.bin.1",
+            "why": "ch10.u2.sort.i1.why",
+            "tricky": true
+          },
+          {
+            "label": "ch10.u2.sort.i2.label",
+            "bin": "ch10.u2.sort.bin.1",
+            "why": "ch10.u2.sort.i2.why"
+          },
+          {
+            "label": "ch10.u2.sort.i3.label",
+            "bin": "ch10.u2.sort.bin.1",
+            "why": "ch10.u2.sort.i3.why"
+          },
+          {
+            "label": "ch10.u2.sort.i4.label",
+            "bin": "ch10.u2.sort.bin.2",
+            "why": "ch10.u2.sort.i4.why",
+            "tricky": true
+          },
+          {
+            "label": "ch10.u2.sort.i5.label",
+            "bin": "ch10.u2.sort.bin.0",
+            "why": "ch10.u2.sort.i5.why"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch10-u2-sort-3.satellite.q",
+          "answer": "ask.ch10-u2-sort-3.satellite.a"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u2-quiz-4",
+      "type": "quiz",
+      "section": "s.u2",
+      "title": "a.ch10-u2-quiz-4.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 49
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch10.u2.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch10.u2.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch10.u2.quiz.q0.f0"
+              },
+              {
+                "text": "ch10.u2.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch10.u2.quiz.q0.f1",
+                "misconception": "joule-is-a-force"
+              },
+              {
+                "text": "ch10.u2.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch10.u2.quiz.q0.f2",
+                "misconception": "joule-is-a-height"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u2.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch10.u2.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch10.u2.quiz.q1.f0"
+              },
+              {
+                "text": "ch10.u2.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch10.u2.quiz.q1.f1",
+                "misconception": "gravity-always-positive"
+              },
+              {
+                "text": "ch10.u2.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch10.u2.quiz.q1.f2",
+                "misconception": "gravity-never-works"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u2.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch10.u2.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch10.u2.quiz.q2.f0"
+              },
+              {
+                "text": "ch10.u2.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch10.u2.quiz.q2.f1",
+                "misconception": "any-movement-is-work"
+              },
+              {
+                "text": "ch10.u2.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch10.u2.quiz.q2.f2",
+                "misconception": "right-angle-gives-half"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "any-movement-is-work",
+        "gravity-always-positive",
+        "gravity-never-works",
+        "joule-is-a-force",
+        "joule-is-a-height",
+        "right-angle-gives-half"
+      ]
+    },
+    {
+      "id": "ch10-u3-read-1",
+      "type": "explainer",
+      "section": "s.u3",
+      "title": "a.ch10-u3-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 40,
+        "section": "10.2"
+      },
+      "config": {
+        "text": "ch10.u3.energy"
+      }
+    },
+    {
+      "id": "ch10-u3-do-2",
+      "type": "experiment",
+      "section": "s.u3",
+      "title": "a.ch10-u3-do-2.title",
+      "blurb": "a.ch10-u3-do-2.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 41,
+        "section": "10.2.2",
+        "label": "Activity 10.6"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch10.u3.sand.predict.prompt",
+          "options": [
+            "ch10.u3.sand.predict.o0",
+            "ch10.u3.sand.predict.o1",
+            "ch10.u3.sand.predict.o2",
+            "ch10.u3.sand.predict.o3"
+          ],
+          "correct": 1
+        },
+        "observe": "ch10.u3.sand.observe",
+        "explain": "ch10.u3.sand.explain"
+      },
+      "config": {
+        "equipment": [
+          "a heavy ball",
+          "a thick bed of wet sand in a tray",
+          "a metre scale",
+          "chalk"
+        ],
+        "steps": "ch10.u3.do.steps",
+        "watchFor": "ch10.u3.do.watch",
+        "printable": true
+      }
+    },
+    {
+      "id": "ch10-u3-calc-3",
+      "type": "calculate",
+      "section": "s.u3",
+      "title": "a.ch10-u3-calc-3.title",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 42,
+        "section": "10.2.2"
+      },
+      "config": {
+        "items": [
+          {
+            "prompt": "ch10.u3.calc.c0.prompt",
+            "given": [
+              "ch10.u3.calc.c0.g0",
+              "ch10.u3.calc.c0.g1"
+            ],
+            "steps": [
+              "ch10.u3.calc.c0.s0",
+              "ch10.u3.calc.c0.s1",
+              "ch10.u3.calc.c0.s2"
+            ],
+            "answer": "120",
+            "unit": "J",
+            "trap": "ch10.u3.calc.c0.trap"
+          },
+          {
+            "prompt": "ch10.u3.calc.c1.prompt",
+            "given": [
+              "ch10.u3.calc.c1.g0",
+              "ch10.u3.calc.c1.g1"
+            ],
+            "steps": [
+              "ch10.u3.calc.c1.s0",
+              "ch10.u3.calc.c1.s1",
+              "ch10.u3.calc.c1.s2"
+            ],
+            "answer": "500",
+            "unit": "J",
+            "trap": "ch10.u3.calc.c1.trap"
+          },
+          {
+            "prompt": "ch10.u3.calc.c2.prompt",
+            "given": [
+              "ch10.u3.calc.c2.g0",
+              "ch10.u3.calc.c2.g1",
+              "ch10.u3.calc.c2.g2"
+            ],
+            "steps": [
+              "ch10.u3.calc.c2.s0",
+              "ch10.u3.calc.c2.s1",
+              "ch10.u3.calc.c2.s2",
+              "ch10.u3.calc.c2.s3"
+            ],
+            "answer": "300000",
+            "unit": "J",
+            "trap": "ch10.u3.calc.c2.trap"
+          },
+          {
+            "prompt": "ch10.u3.calc.c3.prompt",
+            "given": [
+              "ch10.u3.calc.c3.g0",
+              "ch10.u3.calc.c3.g1"
+            ],
+            "steps": [
+              "ch10.u3.calc.c3.s0",
+              "ch10.u3.calc.c3.s1",
+              "ch10.u3.calc.c3.s2"
+            ],
+            "answer": "10",
+            "unit": "m/s",
+            "trap": "ch10.u3.calc.c3.trap"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch10-u3-calc-3.square.q",
+          "answer": "ask.ch10-u3-calc-3.square.a"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u3-quiz-4",
+      "type": "quiz",
+      "section": "s.u3",
+      "title": "a.ch10-u3-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 43,
+        "section": "10.2.2"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch10.u3.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch10.u3.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch10.u3.quiz.q0.f0"
+              },
+              {
+                "text": "ch10.u3.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch10.u3.quiz.q0.f1",
+                "misconception": "kinetic-energy-is-momentum"
+              },
+              {
+                "text": "ch10.u3.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch10.u3.quiz.q0.f2",
+                "misconception": "kinetic-is-potential"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u3.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch10.u3.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch10.u3.quiz.q1.f0"
+              },
+              {
+                "text": "ch10.u3.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch10.u3.quiz.q1.f1",
+                "misconception": "energy-follows-speed"
+              },
+              {
+                "text": "ch10.u3.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch10.u3.quiz.q1.f2",
+                "misconception": "energy-ignores-speed"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u3.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch10.u3.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch10.u3.quiz.q2.f0"
+              },
+              {
+                "text": "ch10.u3.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch10.u3.quiz.q2.f1",
+                "misconception": "heavier-means-more-energy"
+              },
+              {
+                "text": "ch10.u3.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch10.u3.quiz.q2.f2",
+                "misconception": "parked-thing-has-energy"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "energy-follows-speed",
+        "energy-ignores-speed",
+        "heavier-means-more-energy",
+        "kinetic-energy-is-momentum",
+        "kinetic-is-potential",
+        "parked-thing-has-energy"
+      ]
+    },
+    {
+      "id": "ch10-u4-read-1",
+      "type": "explainer",
+      "section": "s.u4",
+      "title": "a.ch10-u4-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 43,
+        "section": "10.2.3"
+      },
+      "config": {
+        "text": "ch10.u4.potential"
+      }
+    },
+    {
+      "id": "ch10-u4-calc-2",
+      "type": "calculate",
+      "section": "s.u4",
+      "title": "a.ch10-u4-calc-2.title",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 44,
+        "section": "10.2.4"
+      },
+      "config": {
+        "items": [
+          {
+            "prompt": "ch10.u4.calc.c0.prompt",
+            "given": [
+              "ch10.u4.calc.c0.g0",
+              "ch10.u4.calc.c0.g1",
+              "ch10.u4.calc.c0.g2"
+            ],
+            "steps": [
+              "ch10.u4.calc.c0.s0",
+              "ch10.u4.calc.c0.s1"
+            ],
+            "answer": "588",
+            "unit": "J",
+            "trap": "ch10.u4.calc.c0.trap"
+          },
+          {
+            "prompt": "ch10.u4.calc.c1.prompt",
+            "given": [
+              "ch10.u4.calc.c1.g0",
+              "ch10.u4.calc.c1.g1",
+              "ch10.u4.calc.c1.g2"
+            ],
+            "steps": [
+              "ch10.u4.calc.c1.s0",
+              "ch10.u4.calc.c1.s1",
+              "ch10.u4.calc.c1.s2"
+            ],
+            "answer": "4",
+            "unit": "m",
+            "trap": "ch10.u4.calc.c1.trap"
+          },
+          {
+            "prompt": "ch10.u4.calc.c2.prompt",
+            "given": [
+              "ch10.u4.calc.c2.g0",
+              "ch10.u4.calc.c2.g1",
+              "ch10.u4.calc.c2.g2"
+            ],
+            "steps": [
+              "ch10.u4.calc.c2.s0",
+              "ch10.u4.calc.c2.s1"
+            ],
+            "answer": "2000",
+            "unit": "J",
+            "trap": "ch10.u4.calc.c2.trap"
+          },
+          {
+            "prompt": "ch10.u4.calc.c3.prompt",
+            "given": [
+              "ch10.u4.calc.c3.g0",
+              "ch10.u4.calc.c3.g1"
+            ],
+            "steps": [
+              "ch10.u4.calc.c3.s0",
+              "ch10.u4.calc.c3.s1",
+              "ch10.u4.calc.c3.s2"
+            ],
+            "answer": "1000",
+            "unit": "J",
+            "trap": "ch10.u4.calc.c3.trap"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch10-u4-calc-2.zerolevel.q",
+          "answer": "ask.ch10-u4-calc-2.zerolevel.a"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u4-quiz-3",
+      "type": "quiz",
+      "section": "s.u4",
+      "title": "a.ch10-u4-quiz-3.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 49
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch10.u4.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch10.u4.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch10.u4.quiz.q0.f0"
+              },
+              {
+                "text": "ch10.u4.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch10.u4.quiz.q0.f1",
+                "misconception": "potential-has-a-square"
+              },
+              {
+                "text": "ch10.u4.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch10.u4.quiz.q0.f2",
+                "misconception": "potential-leaves-out-g"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u4.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch10.u4.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch10.u4.quiz.q1.f0"
+              },
+              {
+                "text": "ch10.u4.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch10.u4.quiz.q1.f1",
+                "misconception": "longer-path-more-work"
+              },
+              {
+                "text": "ch10.u4.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch10.u4.quiz.q1.f2",
+                "misconception": "faster-means-more-work"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u4.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch10.u4.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch10.u4.quiz.q2.f0"
+              },
+              {
+                "text": "ch10.u4.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch10.u4.quiz.q2.f1",
+                "misconception": "still-means-no-energy"
+              },
+              {
+                "text": "ch10.u4.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch10.u4.quiz.q2.f2",
+                "misconception": "resting-means-no-energy"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "faster-means-more-work",
+        "longer-path-more-work",
+        "potential-has-a-square",
+        "potential-leaves-out-g",
+        "resting-means-no-energy",
+        "still-means-no-energy"
+      ]
+    },
+    {
+      "id": "ch10-u5-lab-1",
+      "type": "motionLab",
+      "section": "s.u5",
+      "title": "a.ch10-u5-lab-1.title",
+      "blurb": "a.ch10-u5-lab-1.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 45,
+        "section": "10.2.6"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch10.u5.lab.predict.prompt",
+          "options": [
+            "ch10.u5.lab.predict.o0",
+            "ch10.u5.lab.predict.o1",
+            "ch10.u5.lab.predict.o2",
+            "ch10.u5.lab.predict.o3"
+          ],
+          "correct": 2
+        },
+        "observe": "ch10.u5.lab.observe",
+        "explain": "ch10.u5.lab.explain"
+      },
+      "config": {
+        "track": "fall",
+        "massKg": 2.0,
+        "initialVelocity": 0.0,
+        "frictionN": 0.0,
+        "graphs": [
+          "energy",
+          "velocityTime"
+        ],
+        "handles": [
+          "mass"
+        ],
+        "massRangeKg": [
+          0.5,
+          10.0
+        ],
+        "startHeightM": 5.0,
+        "runSeconds": 4.0,
+        "tasks": [
+          {
+            "id": "t1",
+            "label": "ch10.u5.lab.t1.label",
+            "asks": "ch10.u5.lab.t1.asks",
+            "setMass": 2.0
+          },
+          {
+            "id": "t2",
+            "label": "ch10.u5.lab.t2.label",
+            "asks": "ch10.u5.lab.t2.asks",
+            "setMass": 6.0
+          },
+          {
+            "id": "t3",
+            "label": "ch10.u5.lab.t3.label",
+            "asks": "ch10.u5.lab.t3.asks",
+            "setMass": 0.5
+          }
+        ],
+        "closing": "ch10.u5.lab.closing"
+      },
+      "followUps": [
+        {
+          "question": "ask.ch10-u5-lab-1.ground.q",
+          "answer": "ask.ch10-u5-lab-1.ground.a"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u5-do-2",
+      "type": "experiment",
+      "section": "s.u5",
+      "title": "a.ch10-u5-do-2.title",
+      "blurb": "a.ch10-u5-do-2.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 45,
+        "section": "10.2.6"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch10.u5.pendulum.predict.prompt",
+          "options": [
+            "ch10.u5.pendulum.predict.o0",
+            "ch10.u5.pendulum.predict.o1",
+            "ch10.u5.pendulum.predict.o2",
+            "ch10.u5.pendulum.predict.o3"
+          ],
+          "correct": 1
+        },
+        "observe": "ch10.u5.pendulum.observe",
+        "explain": "ch10.u5.pendulum.explain"
+      },
+      "config": {
+        "equipment": [
+          "a stone or a heavy nut",
+          "about a metre of string",
+          "a hook, a nail or a door frame to hang it from",
+          "chalk",
+          "a watch with a second hand"
+        ],
+        "steps": "ch10.u5.do.steps",
+        "watchFor": "ch10.u5.do.watch",
+        "printable": true
+      }
+    },
+    {
+      "id": "ch10-u5-calc-3",
+      "type": "calculate",
+      "section": "s.u5",
+      "title": "a.ch10-u5-calc-3.title",
+      "blurb": "a.ch10-u5-calc-3.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 46,
+        "section": "10.2.6",
+        "label": "Activity 10.15"
+      },
+      "config": {
+        "items": [
+          {
+            "prompt": "ch10.u5.calc.c0.prompt",
+            "given": [
+              "ch10.u5.calc.c0.g0",
+              "ch10.u5.calc.c0.g1",
+              "ch10.u5.calc.c0.g2"
+            ],
+            "steps": [
+              "ch10.u5.calc.c0.s0",
+              "ch10.u5.calc.c0.s1"
+            ],
+            "answer": "800",
+            "unit": "J",
+            "trap": "ch10.u5.calc.c0.trap"
+          },
+          {
+            "prompt": "ch10.u5.calc.c1.prompt",
+            "given": [
+              "ch10.u5.calc.c1.g0",
+              "ch10.u5.calc.c1.g1"
+            ],
+            "steps": [
+              "ch10.u5.calc.c1.s0",
+              "ch10.u5.calc.c1.s1",
+              "ch10.u5.calc.c1.s2"
+            ],
+            "answer": "200",
+            "unit": "J",
+            "trap": "ch10.u5.calc.c1.trap"
+          },
+          {
+            "prompt": "ch10.u5.calc.c2.prompt",
+            "given": [
+              "ch10.u5.calc.c2.g0",
+              "ch10.u5.calc.c2.g1"
+            ],
+            "steps": [
+              "ch10.u5.calc.c2.s0"
+            ],
+            "answer": "400",
+            "unit": "J",
+            "trap": "ch10.u5.calc.c2.trap"
+          },
+          {
+            "prompt": "ch10.u5.calc.c3.prompt",
+            "given": [
+              "ch10.u5.calc.c3.g0",
+              "ch10.u5.calc.c3.g1"
+            ],
+            "steps": [
+              "ch10.u5.calc.c3.s0"
+            ],
+            "answer": "800",
+            "unit": "J",
+            "trap": "ch10.u5.calc.c3.trap"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch10-u5-quiz-4",
+      "type": "quiz",
+      "section": "s.u5",
+      "title": "a.ch10-u5-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 49
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch10.u5.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch10.u5.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch10.u5.quiz.q0.f0"
+              },
+              {
+                "text": "ch10.u5.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch10.u5.quiz.q0.f1",
+                "misconception": "falling-loses-energy"
+              },
+              {
+                "text": "ch10.u5.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch10.u5.quiz.q0.f2",
+                "misconception": "law-only-for-rest"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u5.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch10.u5.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch10.u5.quiz.q1.f0"
+              },
+              {
+                "text": "ch10.u5.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch10.u5.quiz.q1.f1",
+                "misconception": "friction-destroys-energy"
+              },
+              {
+                "text": "ch10.u5.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch10.u5.quiz.q1.f2",
+                "misconception": "energy-was-never-there"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u5.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch10.u5.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch10.u5.quiz.q2.f0"
+              },
+              {
+                "text": "ch10.u5.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch10.u5.quiz.q2.f1",
+                "misconception": "energy-largest-at-the-top"
+              },
+              {
+                "text": "ch10.u5.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch10.u5.quiz.q2.f2",
+                "misconception": "energy-largest-halfway"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "energy-largest-at-the-top",
+        "energy-largest-halfway",
+        "energy-was-never-there",
+        "falling-loses-energy",
+        "friction-destroys-energy",
+        "law-only-for-rest"
+      ]
+    },
+    {
+      "id": "ch10-u6-read-1",
+      "type": "explainer",
+      "section": "s.u6",
+      "title": "a.ch10-u6-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 46,
+        "section": "10.3"
+      },
+      "config": {
+        "text": "ch10.u6.power"
+      }
+    },
+    {
+      "id": "ch10-u6-calc-2",
+      "type": "calculate",
+      "section": "s.u6",
+      "title": "a.ch10-u6-calc-2.title",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 47,
+        "section": "10.3"
+      },
+      "config": {
+        "items": [
+          {
+            "prompt": "ch10.u6.calc.c0.prompt",
+            "given": [
+              "ch10.u6.calc.c0.g0",
+              "ch10.u6.calc.c0.g1",
+              "ch10.u6.calc.c0.g2"
+            ],
+            "steps": [
+              "ch10.u6.calc.c0.s0",
+              "ch10.u6.calc.c0.s1"
+            ],
+            "answer": "160",
+            "unit": "W",
+            "trap": "ch10.u6.calc.c0.trap"
+          },
+          {
+            "prompt": "ch10.u6.calc.c1.prompt",
+            "given": [
+              "ch10.u6.calc.c1.g0",
+              "ch10.u6.calc.c1.g1"
+            ],
+            "steps": [
+              "ch10.u6.calc.c1.s0",
+              "ch10.u6.calc.c1.s1"
+            ],
+            "answer": "64",
+            "unit": "W",
+            "trap": "ch10.u6.calc.c1.trap"
+          },
+          {
+            "prompt": "ch10.u6.calc.c2.prompt",
+            "given": [
+              "ch10.u6.calc.c2.g0",
+              "ch10.u6.calc.c2.g1",
+              "ch10.u6.calc.c2.g2",
+              "ch10.u6.calc.c2.g3"
+            ],
+            "steps": [
+              "ch10.u6.calc.c2.s0",
+              "ch10.u6.calc.c2.s1",
+              "ch10.u6.calc.c2.s2",
+              "ch10.u6.calc.c2.s3"
+            ],
+            "answer": "375",
+            "unit": "W",
+            "trap": "ch10.u6.calc.c2.trap"
+          },
+          {
+            "prompt": "ch10.u6.calc.c3.prompt",
+            "given": [
+              "ch10.u6.calc.c3.g0",
+              "ch10.u6.calc.c3.g1",
+              "ch10.u6.calc.c3.g2"
+            ],
+            "steps": [
+              "ch10.u6.calc.c3.s0",
+              "ch10.u6.calc.c3.s1"
+            ],
+            "answer": "900000000",
+            "unit": "J",
+            "trap": "ch10.u6.calc.c3.trap"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch10-u6-calc-2.unit.q",
+          "answer": "ask.ch10-u6-calc-2.unit.a"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u6-challenge-3",
+      "type": "challenge",
+      "section": "s.u6",
+      "title": "a.ch10-u6-challenge-3.title",
+      "blurb": "a.ch10-u6-challenge-3.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 47,
+        "section": "10.3"
+      },
+      "config": {
+        "mode": "race",
+        "goal": "chal.ch10-u6-challenge-3.goal",
+        "target": 150,
+        "unitLabel": "chal.ch10-u6-challenge-3.unit",
+        "lowerIsBetter": true,
+        "start": 220,
+        "justify": true,
+        "options": [
+          {
+            "id": "geyser",
+            "label": "chal.ch10-u6-challenge-3.geyser.label",
+            "effect": -45,
+            "because": "chal.ch10-u6-challenge-3.geyser.because",
+            "wrongBecause": "chal.ch10-u6-challenge-3.geyser.wrong"
+          },
+          {
+            "id": "bulbs",
+            "label": "chal.ch10-u6-challenge-3.bulbs.label",
+            "effect": -23,
+            "because": "chal.ch10-u6-challenge-3.bulbs.because",
+            "wrongBecause": "chal.ch10-u6-challenge-3.bulbs.wrong"
+          },
+          {
+            "id": "fridge",
+            "label": "chal.ch10-u6-challenge-3.fridge.label",
+            "effect": -12,
+            "because": "chal.ch10-u6-challenge-3.fridge.because",
+            "wrongBecause": "chal.ch10-u6-challenge-3.fridge.wrong"
+          },
+          {
+            "id": "iron",
+            "label": "chal.ch10-u6-challenge-3.iron.label",
+            "effect": -8,
+            "because": "chal.ch10-u6-challenge-3.iron.because",
+            "wrongBecause": "chal.ch10-u6-challenge-3.iron.wrong"
+          },
+          {
+            "id": "standby",
+            "label": "chal.ch10-u6-challenge-3.standby.label",
+            "effect": -5,
+            "because": "chal.ch10-u6-challenge-3.standby.because",
+            "wrongBecause": "chal.ch10-u6-challenge-3.standby.wrong"
+          },
+          {
+            "id": "heater",
+            "label": "chal.ch10-u6-challenge-3.heater.label",
+            "effect": 90,
+            "because": "chal.ch10-u6-challenge-3.heater.because",
+            "wrongBecause": "chal.ch10-u6-challenge-3.heater.wrong"
+          }
+        ],
+        "debrief": "ch10.u6.challenge.debrief"
+      }
+    },
+    {
+      "id": "ch10-u6-quiz-4",
+      "type": "quiz",
+      "section": "s.u6",
+      "title": "a.ch10-u6-quiz-4.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 50
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch10.u6.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch10.u6.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch10.u6.quiz.q0.f0"
+              },
+              {
+                "text": "ch10.u6.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch10.u6.quiz.q0.f1",
+                "misconception": "power-is-work"
+              },
+              {
+                "text": "ch10.u6.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch10.u6.quiz.q0.f2",
+                "misconception": "power-is-force"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u6.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch10.u6.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch10.u6.quiz.q1.f0"
+              },
+              {
+                "text": "ch10.u6.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch10.u6.quiz.q1.f1",
+                "misconception": "faster-means-more-work"
+              },
+              {
+                "text": "ch10.u6.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch10.u6.quiz.q1.f2",
+                "misconception": "time-does-not-affect-power"
+              }
+            ]
+          },
+          {
+            "prompt": "ch10.u6.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch10.u6.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch10.u6.quiz.q2.f0"
+              },
+              {
+                "text": "ch10.u6.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch10.u6.quiz.q2.f1",
+                "misconception": "power-is-work"
+              },
+              {
+                "text": "ch10.u6.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch10.u6.quiz.q2.f2",
+                "misconception": "power-is-the-time"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "faster-means-more-work",
+        "power-is-force",
+        "power-is-the-time",
+        "power-is-work",
+        "time-does-not-affect-power"
+      ]
+    }
+  ],
+  "paths": [
+    {
+      "id": "guided",
+      "title": "path.guided.title",
+      "blurb": "path.guided.blurb",
+      "artifacts": [
+        "ch10-u1-read-1",
+        "ch10-u1-sort-2",
+        "ch10-u1-quiz-3",
+        "ch10-u2-read-1",
+        "ch10-u2-calc-2",
+        "ch10-u2-sort-3",
+        "ch10-u2-quiz-4",
+        "ch10-u3-read-1",
+        "ch10-u3-do-2",
+        "ch10-u3-calc-3",
+        "ch10-u3-quiz-4",
+        "ch10-u4-read-1",
+        "ch10-u4-calc-2",
+        "ch10-u4-quiz-3",
+        "ch10-u5-lab-1",
+        "ch10-u5-do-2",
+        "ch10-u5-calc-3",
+        "ch10-u5-quiz-4",
+        "ch10-u6-read-1",
+        "ch10-u6-calc-2",
+        "ch10-u6-challenge-3",
+        "ch10-u6-quiz-4"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "id": "work",
+      "definition": "gloss.work",
+      "seeAlso": [
+        "joule",
+        "energy",
+        "power"
+      ]
+    },
+    {
+      "id": "joule",
+      "definition": "gloss.joule",
+      "seeAlso": [
+        "work",
+        "energy"
+      ]
+    },
+    {
+      "id": "energy",
+      "definition": "gloss.energy",
+      "seeAlso": [
+        "work",
+        "kinetic-energy",
+        "potential-energy"
+      ]
+    },
+    {
+      "id": "kinetic-energy",
+      "definition": "gloss.kinetic-energy",
+      "seeAlso": [
+        "energy",
+        "potential-energy",
+        "mechanical-energy"
+      ]
+    },
+    {
+      "id": "potential-energy",
+      "definition": "gloss.potential-energy",
+      "seeAlso": [
+        "energy",
+        "kinetic-energy",
+        "mechanical-energy"
+      ]
+    },
+    {
+      "id": "mechanical-energy",
+      "definition": "gloss.mechanical-energy",
+      "seeAlso": [
+        "kinetic-energy",
+        "potential-energy",
+        "conservation-of-energy"
+      ]
+    },
+    {
+      "id": "conservation-of-energy",
+      "definition": "gloss.conservation-of-energy",
+      "seeAlso": [
+        "energy",
+        "mechanical-energy"
+      ]
+    },
+    {
+      "id": "power",
+      "definition": "gloss.power",
+      "seeAlso": [
+        "watt",
+        "work",
+        "kilowatt-hour"
+      ]
+    },
+    {
+      "id": "watt",
+      "definition": "gloss.watt",
+      "seeAlso": [
+        "power",
+        "kilowatt-hour"
+      ]
+    },
+    {
+      "id": "kilowatt-hour",
+      "definition": "gloss.kilowatt-hour",
+      "seeAlso": [
+        "watt",
+        "power",
+        "energy"
+      ]
+    }
+  ]
+}
