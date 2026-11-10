@@ -1,0 +1,40 @@
+{
+  "format": "paath/1",
+  "id": "ktbs.class9.science.ch6",
+  "version": "1.0.0",
+  "title": "Tissues",
+  "blurb": "Why a body bothers to have different kinds of cell at all.",
+  "subject": "Science",
+  "level": "Class 9",
+  "source": "Karnataka Textbook Society, 2026-27, Part 1",
+  "textbook": {
+    "title": "Class 9 Science Part 1",
+    "chapter": 6,
+    "firstPage": 37,
+    "lastPage": 48,
+    "publisher": "Karnataka Textbook Society",
+    "edition": "2026-27"
+  },
+  "author": {
+    "name": "Paathshaala",
+    "url": "https://paathshaala.org"
+  },
+  "licence": "CC-BY-4.0",
+  "languages": [
+    "en",
+    "kn"
+  ],
+  "defaultLanguage": "en",
+  "estimatedMinutes": 186,
+  "requires": {
+    "minPlayer": 1,
+    "artifactTypes": [
+      "classifyTree",
+      "drawAlong",
+      "experiment",
+      "explainer",
+      "quiz",
+      "sortBins"
+    ]
+  }
+}

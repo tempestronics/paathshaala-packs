@@ -1,0 +1,2001 @@
+{
+  "sections": [
+    {
+      "id": "s.u1",
+      "title": "s.u1.title",
+      "blurb": "s.u1.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u1.q1.ask",
+          "answer": "recap.s.u1.q1.answer",
+          "listenFor": "recap.s.u1.q1.listenFor",
+          "sourceRef": {
+            "page": 47,
+            "label": "Exercise 1"
+          }
+        },
+        {
+          "ask": "recap.s.u1.q2.ask",
+          "answer": "recap.s.u1.q2.answer",
+          "listenFor": "recap.s.u1.q2.listenFor"
+        }
+      ]
+    },
+    {
+      "id": "s.u2",
+      "title": "s.u2.title",
+      "blurb": "s.u2.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u2.q1.ask",
+          "answer": "recap.s.u2.q1.answer",
+          "listenFor": "recap.s.u2.q1.listenFor",
+          "sourceRef": {
+            "page": 38,
+            "section": "6.2.1",
+            "label": "Activity 6.1"
+          }
+        },
+        {
+          "ask": "recap.s.u2.q2.ask",
+          "answer": "recap.s.u2.q2.answer",
+          "listenFor": "recap.s.u2.q2.listenFor"
+        }
+      ]
+    },
+    {
+      "id": "s.u3",
+      "title": "s.u3.title",
+      "blurb": "s.u3.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u3.q1.ask",
+          "answer": "recap.s.u3.q1.answer",
+          "listenFor": "recap.s.u3.q1.listenFor",
+          "sourceRef": {
+            "page": 47,
+            "label": "Exercise 4"
+          }
+        },
+        {
+          "ask": "recap.s.u3.q2.ask",
+          "answer": "recap.s.u3.q2.answer",
+          "listenFor": "recap.s.u3.q2.listenFor",
+          "sourceRef": {
+            "page": 40,
+            "section": "6.2.2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u4",
+      "title": "s.u4.title",
+      "blurb": "s.u4.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u4.q1.ask",
+          "answer": "recap.s.u4.q1.answer",
+          "listenFor": "recap.s.u4.q1.listenFor",
+          "sourceRef": {
+            "page": 47,
+            "label": "Exercise 2"
+          }
+        },
+        {
+          "ask": "recap.s.u4.q2.ask",
+          "answer": "recap.s.u4.q2.answer",
+          "listenFor": "recap.s.u4.q2.listenFor"
+        }
+      ]
+    },
+    {
+      "id": "s.u5",
+      "title": "s.u5.title",
+      "blurb": "s.u5.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u5.q1.ask",
+          "answer": "recap.s.u5.q1.answer",
+          "listenFor": "recap.s.u5.q1.listenFor",
+          "sourceRef": {
+            "page": 43,
+            "section": "6.3.1"
+          }
+        },
+        {
+          "ask": "recap.s.u5.q2.ask",
+          "answer": "recap.s.u5.q2.answer",
+          "listenFor": "recap.s.u5.q2.listenFor",
+          "sourceRef": {
+            "page": 47,
+            "label": "Exercise 10"
+          }
+        }
+      ],
+      "memoryAid": {
+        "technique": "acronym",
+        "word": "PLASTIC",
+        "meaning": "aid.s.u5.meaning",
+        "letters": [
+          {
+            "letter": "P",
+            "property": "aid.s.u5.P.property",
+            "note": "aid.s.u5.P.note"
+          },
+          {
+            "letter": "L",
+            "property": "aid.s.u5.L.property",
+            "note": "aid.s.u5.L.note"
+          },
+          {
+            "letter": "A",
+            "property": "aid.s.u5.A.property",
+            "note": "aid.s.u5.A.note"
+          },
+          {
+            "letter": "S",
+            "property": "aid.s.u5.S.property",
+            "note": "aid.s.u5.S.note"
+          },
+          {
+            "letter": "T",
+            "property": "aid.s.u5.T.property",
+            "note": "aid.s.u5.T.note"
+          },
+          {
+            "letter": "I",
+            "property": "aid.s.u5.I.property",
+            "note": "aid.s.u5.I.note"
+          },
+          {
+            "letter": "C",
+            "property": "aid.s.u5.C.property",
+            "note": "aid.s.u5.C.note"
+          }
+        ]
+      }
+    },
+    {
+      "id": "s.u6",
+      "title": "s.u6.title",
+      "blurb": "s.u6.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u6.q1.ask",
+          "answer": "recap.s.u6.q1.answer",
+          "listenFor": "recap.s.u6.q1.listenFor",
+          "sourceRef": {
+            "page": 47,
+            "label": "Exercise 8"
+          }
+        },
+        {
+          "ask": "recap.s.u6.q2.ask",
+          "answer": "recap.s.u6.q2.answer",
+          "listenFor": "recap.s.u6.q2.listenFor",
+          "sourceRef": {
+            "page": 46,
+            "section": "6.3.4"
+          }
+        }
+      ]
+    }
+  ],
+  "trees": [
+    {
+      "id": "permanent",
+      "root": "permanent",
+      "nodes": [
+        {
+          "id": "permanent",
+          "label": "tree.permanent.permanent.label",
+          "question": "tree.permanent.permanent.q",
+          "options": [
+            {
+              "label": "tree.permanent.permanent.o0",
+              "goes": "simple"
+            },
+            {
+              "label": "tree.permanent.permanent.o1",
+              "goes": "complex"
+            }
+          ]
+        },
+        {
+          "id": "simple",
+          "label": "tree.permanent.simple.label",
+          "question": "tree.permanent.simple.q",
+          "options": [
+            {
+              "label": "tree.permanent.simple.o0",
+              "goes": "parenchyma"
+            },
+            {
+              "label": "tree.permanent.simple.o1",
+              "goes": "collenchyma"
+            },
+            {
+              "label": "tree.permanent.simple.o2",
+              "goes": "sclerenchyma"
+            }
+          ]
+        },
+        {
+          "id": "complex",
+          "label": "tree.permanent.complex.label",
+          "question": "tree.permanent.complex.q",
+          "options": [
+            {
+              "label": "tree.permanent.complex.o0",
+              "goes": "xylem"
+            },
+            {
+              "label": "tree.permanent.complex.o1",
+              "goes": "phloem"
+            }
+          ]
+        },
+        {
+          "id": "parenchyma",
+          "label": "tree.permanent.parenchyma.label"
+        },
+        {
+          "id": "collenchyma",
+          "label": "tree.permanent.collenchyma.label"
+        },
+        {
+          "id": "sclerenchyma",
+          "label": "tree.permanent.sclerenchyma.label"
+        },
+        {
+          "id": "xylem",
+          "label": "tree.permanent.xylem.label"
+        },
+        {
+          "id": "phloem",
+          "label": "tree.permanent.phloem.label"
+        }
+      ]
+    }
+  ],
+  "misconceptions": [
+    {
+      "id": "adjacent-makes-tissue",
+      "statement": "mis.adjacent-makes-tissue.statement",
+      "correction": "mis.adjacent-makes-tissue.correction"
+    },
+    {
+      "id": "size-makes-tissue",
+      "statement": "mis.size-makes-tissue.statement",
+      "correction": "mis.size-makes-tissue.correction"
+    },
+    {
+      "id": "origin-makes-tissue",
+      "statement": "mis.origin-makes-tissue.statement",
+      "correction": "mis.origin-makes-tissue.correction"
+    },
+    {
+      "id": "plants-cannot-repair",
+      "statement": "mis.plants-cannot-repair.statement",
+      "correction": "mis.plants-cannot-repair.correction"
+    },
+    {
+      "id": "plant-cells-die-fast",
+      "statement": "mis.plant-cells-die-fast.statement",
+      "correction": "mis.plant-cells-die-fast.correction"
+    },
+    {
+      "id": "bones-explain-it",
+      "statement": "mis.bones-explain-it.statement",
+      "correction": "mis.bones-explain-it.correction"
+    },
+    {
+      "id": "apical-is-lateral",
+      "statement": "mis.apical-is-lateral.statement",
+      "correction": "mis.apical-is-lateral.correction"
+    },
+    {
+      "id": "apical-is-intercalary",
+      "statement": "mis.apical-is-intercalary.statement",
+      "correction": "mis.apical-is-intercalary.correction"
+    },
+    {
+      "id": "growth-is-everywhere",
+      "statement": "mis.growth-is-everywhere.statement",
+      "correction": "mis.growth-is-everywhere.correction"
+    },
+    {
+      "id": "too-small-for-vacuole",
+      "statement": "mis.too-small-for-vacuole.statement",
+      "correction": "mis.too-small-for-vacuole.correction"
+    },
+    {
+      "id": "vacuole-is-animal",
+      "statement": "mis.vacuole-is-animal.statement",
+      "correction": "mis.vacuole-is-animal.correction"
+    },
+    {
+      "id": "division-removes-vacuole",
+      "statement": "mis.division-removes-vacuole.statement",
+      "correction": "mis.division-removes-vacuole.correction"
+    },
+    {
+      "id": "parenchyma-is-hard",
+      "statement": "mis.parenchyma-is-hard.statement",
+      "correction": "mis.parenchyma-is-hard.correction"
+    },
+    {
+      "id": "collenchyma-is-hard",
+      "statement": "mis.collenchyma-is-hard.statement",
+      "correction": "mis.collenchyma-is-hard.correction"
+    },
+    {
+      "id": "epidermis-is-bulk",
+      "statement": "mis.epidermis-is-bulk.statement",
+      "correction": "mis.epidermis-is-bulk.correction"
+    },
+    {
+      "id": "epidermis-divides",
+      "statement": "mis.epidermis-divides.statement",
+      "correction": "mis.epidermis-divides.correction"
+    },
+    {
+      "id": "epidermis-transports",
+      "statement": "mis.epidermis-transports.statement",
+      "correction": "mis.epidermis-transports.correction"
+    },
+    {
+      "id": "epidermis-stores",
+      "statement": "mis.epidermis-stores.statement",
+      "correction": "mis.epidermis-stores.correction"
+    },
+    {
+      "id": "xylem-has-two",
+      "statement": "mis.xylem-has-two.statement",
+      "correction": "mis.xylem-has-two.correction"
+    },
+    {
+      "id": "xylem-has-three",
+      "statement": "mis.xylem-has-three.statement",
+      "correction": "mis.xylem-has-three.correction"
+    },
+    {
+      "id": "xylem-is-simple",
+      "statement": "mis.xylem-is-simple.statement",
+      "correction": "mis.xylem-is-simple.correction"
+    },
+    {
+      "id": "xylem-carries-food",
+      "statement": "mis.xylem-carries-food.statement",
+      "correction": "mis.xylem-carries-food.correction"
+    },
+    {
+      "id": "parenchyma-transports",
+      "statement": "mis.parenchyma-transports.statement",
+      "correction": "mis.parenchyma-transports.correction"
+    },
+    {
+      "id": "ligament-joins-muscle",
+      "statement": "mis.ligament-joins-muscle.statement",
+      "correction": "mis.ligament-joins-muscle.correction"
+    },
+    {
+      "id": "cartilage-attaches",
+      "statement": "mis.cartilage-attaches.statement",
+      "correction": "mis.cartilage-attaches.correction"
+    },
+    {
+      "id": "areolar-attaches",
+      "statement": "mis.areolar-attaches.statement",
+      "correction": "mis.areolar-attaches.correction"
+    },
+    {
+      "id": "blood-connects-organs",
+      "statement": "mis.blood-connects-organs.statement",
+      "correction": "mis.blood-connects-organs.correction"
+    },
+    {
+      "id": "clotting-defines-it",
+      "statement": "mis.clotting-defines-it.statement",
+      "correction": "mis.clotting-defines-it.correction"
+    },
+    {
+      "id": "widespread-defines-it",
+      "statement": "mis.widespread-defines-it.statement",
+      "correction": "mis.widespread-defines-it.correction"
+    },
+    {
+      "id": "skeletal-is-involuntary",
+      "statement": "mis.skeletal-is-involuntary.statement",
+      "correction": "mis.skeletal-is-involuntary.correction"
+    },
+    {
+      "id": "smooth-is-striated",
+      "statement": "mis.smooth-is-striated.statement",
+      "correction": "mis.smooth-is-striated.correction"
+    },
+    {
+      "id": "no-striated-involuntary",
+      "statement": "mis.no-striated-involuntary.statement",
+      "correction": "mis.no-striated-involuntary.correction"
+    },
+    {
+      "id": "many-axons",
+      "statement": "mis.many-axons.statement",
+      "correction": "mis.many-axons.correction"
+    },
+    {
+      "id": "no-axon",
+      "statement": "mis.no-axon.statement",
+      "correction": "mis.no-axon.correction"
+    },
+    {
+      "id": "axon-per-target",
+      "statement": "mis.axon-per-target.statement",
+      "correction": "mis.axon-per-target.correction"
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "ch6-u1-read-1",
+      "type": "explainer",
+      "section": "s.u1",
+      "title": "a.ch6-u1-read-1.title",
+      "minutes": 4,
+      "sourceRef": {
+        "page": 37,
+        "section": "6.1"
+      },
+      "config": {
+        "text": "ch6.u1.definition"
+      }
+    },
+    {
+      "id": "ch6-u1-sort-2",
+      "type": "sortBins",
+      "section": "s.u1",
+      "title": "a.ch6-u1-sort-2.title",
+      "blurb": "a.ch6-u1-sort-2.blurb",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 37,
+        "section": "6.1"
+      },
+      "config": {
+        "bins": [
+          "ch6.u1.sort.bin.0",
+          "ch6.u1.sort.bin.1"
+        ],
+        "items": [
+          {
+            "label": "ch6.u1.sort.i0.label",
+            "bin": "ch6.u1.sort.bin.0",
+            "why": "ch6.u1.sort.i0.why"
+          },
+          {
+            "label": "ch6.u1.sort.i1.label",
+            "bin": "ch6.u1.sort.bin.0",
+            "why": "ch6.u1.sort.i1.why"
+          },
+          {
+            "label": "ch6.u1.sort.i2.label",
+            "bin": "ch6.u1.sort.bin.1",
+            "why": "ch6.u1.sort.i2.why"
+          },
+          {
+            "label": "ch6.u1.sort.i3.label",
+            "bin": "ch6.u1.sort.bin.1",
+            "why": "ch6.u1.sort.i3.why"
+          },
+          {
+            "label": "ch6.u1.sort.i4.label",
+            "bin": "ch6.u1.sort.bin.1",
+            "why": "ch6.u1.sort.i4.why"
+          },
+          {
+            "label": "ch6.u1.sort.i5.label",
+            "bin": "ch6.u1.sort.bin.1",
+            "why": "ch6.u1.sort.i5.why",
+            "tricky": true
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch6-u1-sort-2.deadcells.q",
+          "answer": "ask.ch6-u1-sort-2.deadcells.a"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u1-quiz-3",
+      "type": "quiz",
+      "section": "s.u1",
+      "title": "a.ch6-u1-quiz-3.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 47,
+        "label": "Exercise 1"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch6.u1.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch6.u1.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch6.u1.quiz.q0.f0",
+                "misconception": "adjacent-makes-tissue"
+              },
+              {
+                "text": "ch6.u1.quiz.q0.o1",
+                "correct": true,
+                "feedback": "ch6.u1.quiz.q0.f1"
+              },
+              {
+                "text": "ch6.u1.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch6.u1.quiz.q0.f2",
+                "misconception": "size-makes-tissue"
+              },
+              {
+                "text": "ch6.u1.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch6.u1.quiz.q0.f3",
+                "misconception": "origin-makes-tissue"
+              }
+            ]
+          },
+          {
+            "prompt": "ch6.u1.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch6.u1.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch6.u1.quiz.q1.f0",
+                "misconception": "plants-cannot-repair"
+              },
+              {
+                "text": "ch6.u1.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch6.u1.quiz.q1.f1"
+              },
+              {
+                "text": "ch6.u1.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch6.u1.quiz.q1.f2",
+                "misconception": "plant-cells-die-fast"
+              },
+              {
+                "text": "ch6.u1.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch6.u1.quiz.q1.f3",
+                "misconception": "bones-explain-it"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch6-u2-do-1",
+      "type": "experiment",
+      "section": "s.u2",
+      "title": "a.ch6-u2-do-1.title",
+      "blurb": "a.ch6-u2-do-1.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 38,
+        "section": "6.2.1",
+        "label": "Activity 6.1"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch6.u2.onion.predict.prompt",
+          "options": [
+            "ch6.u2.onion.predict.o0",
+            "ch6.u2.onion.predict.o1",
+            "ch6.u2.onion.predict.o2",
+            "ch6.u2.onion.predict.o3"
+          ],
+          "correct": 2
+        },
+        "observe": "ch6.u2.onion.observe",
+        "explain": "ch6.u2.onion.explain"
+      },
+      "config": {
+        "equipment": [
+          "two glass jars",
+          "water",
+          "two onion bulbs",
+          "a ruler",
+          "scissors"
+        ],
+        "steps": "ch6.u2.do.steps",
+        "watchFor": "ch6.u2.do.watch",
+        "supervision": false,
+        "printable": true
+      }
+    },
+    {
+      "id": "ch6-u2-read-2",
+      "type": "explainer",
+      "section": "s.u2",
+      "title": "a.ch6-u2-read-2.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 38,
+        "section": "6.2.1"
+      },
+      "config": {
+        "text": "ch6.u2.definition"
+      }
+    },
+    {
+      "id": "ch6-u2-sort-3",
+      "type": "sortBins",
+      "section": "s.u2",
+      "title": "a.ch6-u2-sort-3.title",
+      "minutes": 8,
+      "sourceRef": {
+        "page": 38,
+        "section": "6.2.1",
+        "label": "Fig. 6.2"
+      },
+      "config": {
+        "bins": [
+          "ch6.u2.sort.bin.0",
+          "ch6.u2.sort.bin.1",
+          "ch6.u2.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch6.u2.sort.i0.label",
+            "bin": "ch6.u2.sort.bin.0",
+            "why": "ch6.u2.sort.i0.why"
+          },
+          {
+            "label": "ch6.u2.sort.i1.label",
+            "bin": "ch6.u2.sort.bin.0",
+            "why": "ch6.u2.sort.i1.why"
+          },
+          {
+            "label": "ch6.u2.sort.i2.label",
+            "bin": "ch6.u2.sort.bin.1",
+            "why": "ch6.u2.sort.i2.why"
+          },
+          {
+            "label": "ch6.u2.sort.i3.label",
+            "bin": "ch6.u2.sort.bin.1",
+            "why": "ch6.u2.sort.i3.why"
+          },
+          {
+            "label": "ch6.u2.sort.i4.label",
+            "bin": "ch6.u2.sort.bin.2",
+            "why": "ch6.u2.sort.i4.why",
+            "tricky": true
+          },
+          {
+            "label": "ch6.u2.sort.i5.label",
+            "bin": "ch6.u2.sort.bin.2",
+            "why": "ch6.u2.sort.i5.why"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch6-u2-sort-3.grass.q",
+          "answer": "ask.ch6-u2-sort-3.grass.a"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u2-quiz-4",
+      "type": "quiz",
+      "section": "s.u2",
+      "title": "a.ch6-u2-quiz-4.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 42,
+        "section": "6.2.1"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch6.u2.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch6.u2.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch6.u2.quiz.q0.f0",
+                "misconception": "apical-is-lateral"
+              },
+              {
+                "text": "ch6.u2.quiz.q0.o1",
+                "correct": true,
+                "feedback": "ch6.u2.quiz.q0.f1"
+              },
+              {
+                "text": "ch6.u2.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch6.u2.quiz.q0.f2",
+                "misconception": "apical-is-intercalary"
+              },
+              {
+                "text": "ch6.u2.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch6.u2.quiz.q0.f3",
+                "misconception": "growth-is-everywhere"
+              }
+            ]
+          },
+          {
+            "prompt": "ch6.u2.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch6.u2.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch6.u2.quiz.q1.f0",
+                "misconception": "too-small-for-vacuole"
+              },
+              {
+                "text": "ch6.u2.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch6.u2.quiz.q1.f1"
+              },
+              {
+                "text": "ch6.u2.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch6.u2.quiz.q1.f2",
+                "misconception": "vacuole-is-animal"
+              },
+              {
+                "text": "ch6.u2.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch6.u2.quiz.q1.f3",
+                "misconception": "division-removes-vacuole"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch6-u3-read-1",
+      "type": "explainer",
+      "section": "s.u3",
+      "title": "a.ch6-u3-read-1.title",
+      "minutes": 4,
+      "sourceRef": {
+        "page": 39,
+        "section": "6.2.2"
+      },
+      "config": {
+        "text": "ch6.u3.definition"
+      }
+    },
+    {
+      "id": "ch6-u3-sort-2",
+      "type": "sortBins",
+      "section": "s.u3",
+      "title": "a.ch6-u3-sort-2.title",
+      "blurb": "a.ch6-u3-sort-2.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 40,
+        "section": "6.2.2",
+        "label": "Fig. 6.4"
+      },
+      "config": {
+        "bins": [
+          "ch6.u3.sort.bin.0",
+          "ch6.u3.sort.bin.1",
+          "ch6.u3.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch6.u3.sort.i0.label",
+            "bin": "ch6.u3.sort.bin.0",
+            "why": "ch6.u3.sort.i0.why"
+          },
+          {
+            "label": "ch6.u3.sort.i1.label",
+            "bin": "ch6.u3.sort.bin.0",
+            "why": "ch6.u3.sort.i1.why",
+            "tricky": true
+          },
+          {
+            "label": "ch6.u3.sort.i2.label",
+            "bin": "ch6.u3.sort.bin.0",
+            "why": "ch6.u3.sort.i2.why",
+            "tricky": true
+          },
+          {
+            "label": "ch6.u3.sort.i3.label",
+            "bin": "ch6.u3.sort.bin.1",
+            "why": "ch6.u3.sort.i3.why"
+          },
+          {
+            "label": "ch6.u3.sort.i4.label",
+            "bin": "ch6.u3.sort.bin.1",
+            "why": "ch6.u3.sort.i4.why"
+          },
+          {
+            "label": "ch6.u3.sort.i5.label",
+            "bin": "ch6.u3.sort.bin.2",
+            "why": "ch6.u3.sort.i5.why"
+          },
+          {
+            "label": "ch6.u3.sort.i6.label",
+            "bin": "ch6.u3.sort.bin.2",
+            "why": "ch6.u3.sort.i6.why"
+          },
+          {
+            "label": "ch6.u3.sort.i7.label",
+            "bin": "ch6.u3.sort.bin.2",
+            "why": "ch6.u3.sort.i7.why",
+            "tricky": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch6-u3-do-3",
+      "type": "experiment",
+      "section": "s.u3",
+      "title": "a.ch6-u3-do-3.title",
+      "blurb": "a.ch6-u3-do-3.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 40,
+        "section": "6.2.2",
+        "label": "Activity 6.3"
+      },
+      "config": {
+        "equipment": [
+          "a freshly plucked Rhoeo leaf",
+          "a petri dish of water",
+          "safranin stain",
+          "a slide and cover slip",
+          "a microscope"
+        ],
+        "steps": "ch6.u3.do.steps",
+        "watchFor": "ch6.u3.do.watch",
+        "supervision": false,
+        "printable": true
+      },
+      "followUps": [
+        {
+          "question": "ask.ch6-u3-do-3.stomataopen.q",
+          "answer": "ask.ch6-u3-do-3.stomataopen.a"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u3-sort-4",
+      "type": "sortBins",
+      "section": "s.u3",
+      "title": "a.ch6-u3-sort-4.title",
+      "minutes": 8,
+      "sourceRef": {
+        "page": 41,
+        "section": "6.2.2"
+      },
+      "config": {
+        "bins": [
+          "ch6.u3.sort2.bin.0",
+          "ch6.u3.sort2.bin.1"
+        ],
+        "items": [
+          {
+            "label": "ch6.u3.sort2.i0.label",
+            "bin": "ch6.u3.sort2.bin.0",
+            "why": "ch6.u3.sort2.i0.why"
+          },
+          {
+            "label": "ch6.u3.sort2.i1.label",
+            "bin": "ch6.u3.sort2.bin.0",
+            "why": "ch6.u3.sort2.i1.why"
+          },
+          {
+            "label": "ch6.u3.sort2.i2.label",
+            "bin": "ch6.u3.sort2.bin.0",
+            "why": "ch6.u3.sort2.i2.why"
+          },
+          {
+            "label": "ch6.u3.sort2.i3.label",
+            "bin": "ch6.u3.sort2.bin.0",
+            "why": "ch6.u3.sort2.i3.why"
+          },
+          {
+            "label": "ch6.u3.sort2.i4.label",
+            "bin": "ch6.u3.sort2.bin.1",
+            "why": "ch6.u3.sort2.i4.why"
+          },
+          {
+            "label": "ch6.u3.sort2.i5.label",
+            "bin": "ch6.u3.sort2.bin.1",
+            "why": "ch6.u3.sort2.i5.why"
+          },
+          {
+            "label": "ch6.u3.sort2.i6.label",
+            "bin": "ch6.u3.sort2.bin.1",
+            "why": "ch6.u3.sort2.i6.why",
+            "tricky": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch6-u3-quiz-5",
+      "type": "quiz",
+      "section": "s.u3",
+      "title": "a.ch6-u3-quiz-5.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 48,
+        "label": "Exercise 13"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch6.u3.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch6.u3.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch6.u3.quiz.q0.f0",
+                "misconception": "parenchyma-is-hard"
+              },
+              {
+                "text": "ch6.u3.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch6.u3.quiz.q0.f1",
+                "misconception": "collenchyma-is-hard"
+              },
+              {
+                "text": "ch6.u3.quiz.q0.o2",
+                "correct": true,
+                "feedback": "ch6.u3.quiz.q0.f2"
+              },
+              {
+                "text": "ch6.u3.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch6.u3.quiz.q0.f3",
+                "misconception": "epidermis-is-bulk"
+              }
+            ]
+          },
+          {
+            "prompt": "ch6.u3.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch6.u3.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch6.u3.quiz.q1.f0",
+                "misconception": "epidermis-divides"
+              },
+              {
+                "text": "ch6.u3.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch6.u3.quiz.q1.f1"
+              },
+              {
+                "text": "ch6.u3.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch6.u3.quiz.q1.f2",
+                "misconception": "epidermis-transports"
+              },
+              {
+                "text": "ch6.u3.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch6.u3.quiz.q1.f3",
+                "misconception": "epidermis-stores"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch6-u4-read-1",
+      "type": "explainer",
+      "section": "s.u4",
+      "title": "a.ch6-u4-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 41,
+        "section": "6.2.2"
+      },
+      "config": {
+        "text": "ch6.u4.definition"
+      }
+    },
+    {
+      "id": "ch6-u4-sort-2",
+      "type": "sortBins",
+      "section": "s.u4",
+      "title": "a.ch6-u4-sort-2.title",
+      "blurb": "a.ch6-u4-sort-2.blurb",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 41,
+        "section": "6.2.2",
+        "label": "Fig. 6.7"
+      },
+      "config": {
+        "bins": [
+          "ch6.u4.sort.bin.0",
+          "ch6.u4.sort.bin.1"
+        ],
+        "items": [
+          {
+            "label": "ch6.u4.sort.i0.label",
+            "bin": "ch6.u4.sort.bin.0",
+            "why": "ch6.u4.sort.i0.why"
+          },
+          {
+            "label": "ch6.u4.sort.i1.label",
+            "bin": "ch6.u4.sort.bin.0",
+            "why": "ch6.u4.sort.i1.why"
+          },
+          {
+            "label": "ch6.u4.sort.i2.label",
+            "bin": "ch6.u4.sort.bin.0",
+            "why": "ch6.u4.sort.i2.why"
+          },
+          {
+            "label": "ch6.u4.sort.i3.label",
+            "bin": "ch6.u4.sort.bin.1",
+            "why": "ch6.u4.sort.i3.why"
+          },
+          {
+            "label": "ch6.u4.sort.i4.label",
+            "bin": "ch6.u4.sort.bin.1",
+            "why": "ch6.u4.sort.i4.why"
+          },
+          {
+            "label": "ch6.u4.sort.i5.label",
+            "bin": "ch6.u4.sort.bin.1",
+            "why": "ch6.u4.sort.i5.why",
+            "tricky": true
+          },
+          {
+            "label": "ch6.u4.sort.i6.label",
+            "bin": "ch6.u4.sort.bin.0",
+            "why": "ch6.u4.sort.i6.why"
+          },
+          {
+            "label": "ch6.u4.sort.i7.label",
+            "bin": "ch6.u4.sort.bin.1",
+            "why": "ch6.u4.sort.i7.why",
+            "tricky": true
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch6-u4-sort-2.whydead.q",
+          "answer": "ask.ch6-u4-sort-2.whydead.a"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u4-tree-3",
+      "type": "classifyTree",
+      "section": "s.u4",
+      "title": "a.ch6-u4-tree-3.title",
+      "blurb": "a.ch6-u4-tree-3.blurb",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 48,
+        "label": "Exercise 15"
+      },
+      "config": {
+        "tree": "permanent",
+        "mode": "forward",
+        "items": [
+          {
+            "id": "par",
+            "label": "permtree.item.par",
+            "leaf": "parenchyma"
+          },
+          {
+            "id": "col",
+            "label": "permtree.item.col",
+            "leaf": "collenchyma"
+          },
+          {
+            "id": "scl",
+            "label": "permtree.item.scl",
+            "leaf": "sclerenchyma"
+          },
+          {
+            "id": "xyl",
+            "label": "permtree.item.xyl",
+            "leaf": "xylem"
+          },
+          {
+            "id": "phl",
+            "label": "permtree.item.phl",
+            "leaf": "phloem"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch6-u4-quiz-4",
+      "type": "quiz",
+      "section": "s.u4",
+      "title": "a.ch6-u4-quiz-4.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 47,
+        "label": "Exercise 2"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch6.u4.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch6.u4.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch6.u4.quiz.q0.f0",
+                "misconception": "xylem-has-two"
+              },
+              {
+                "text": "ch6.u4.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch6.u4.quiz.q0.f1",
+                "misconception": "xylem-has-three"
+              },
+              {
+                "text": "ch6.u4.quiz.q0.o2",
+                "correct": true,
+                "feedback": "ch6.u4.quiz.q0.f2"
+              },
+              {
+                "text": "ch6.u4.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch6.u4.quiz.q0.f3",
+                "misconception": "xylem-is-simple"
+              }
+            ]
+          },
+          {
+            "prompt": "ch6.u4.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch6.u4.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch6.u4.quiz.q1.f0",
+                "misconception": "xylem-carries-food"
+              },
+              {
+                "text": "ch6.u4.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch6.u4.quiz.q1.f1"
+              },
+              {
+                "text": "ch6.u4.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch6.u4.quiz.q1.f2",
+                "misconception": "parenchyma-transports"
+              },
+              {
+                "text": "ch6.u4.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch6.u4.quiz.q1.f3",
+                "misconception": "epidermis-transports"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch6-u5-read-1",
+      "type": "explainer",
+      "section": "s.u5",
+      "title": "a.ch6-u5-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 42,
+        "section": "6.3.1"
+      },
+      "config": {
+        "text": "ch6.u5.epithelial"
+      }
+    },
+    {
+      "id": "ch6-u5-sort-2",
+      "type": "sortBins",
+      "section": "s.u5",
+      "title": "a.ch6-u5-sort-2.title",
+      "blurb": "a.ch6-u5-sort-2.blurb",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 43,
+        "section": "6.3.1",
+        "label": "Fig. 6.9"
+      },
+      "config": {
+        "bins": [
+          "ch6.u5.sort.bin.0",
+          "ch6.u5.sort.bin.1",
+          "ch6.u5.sort.bin.2",
+          "ch6.u5.sort.bin.3"
+        ],
+        "items": [
+          {
+            "label": "ch6.u5.sort.i0.label",
+            "bin": "ch6.u5.sort.bin.0",
+            "why": "ch6.u5.sort.i0.why"
+          },
+          {
+            "label": "ch6.u5.sort.i1.label",
+            "bin": "ch6.u5.sort.bin.0",
+            "why": "ch6.u5.sort.i1.why"
+          },
+          {
+            "label": "ch6.u5.sort.i2.label",
+            "bin": "ch6.u5.sort.bin.1",
+            "why": "ch6.u5.sort.i2.why",
+            "tricky": true
+          },
+          {
+            "label": "ch6.u5.sort.i3.label",
+            "bin": "ch6.u5.sort.bin.2",
+            "why": "ch6.u5.sort.i3.why"
+          },
+          {
+            "label": "ch6.u5.sort.i4.label",
+            "bin": "ch6.u5.sort.bin.2",
+            "why": "ch6.u5.sort.i4.why",
+            "tricky": true
+          },
+          {
+            "label": "ch6.u5.sort.i5.label",
+            "bin": "ch6.u5.sort.bin.3",
+            "why": "ch6.u5.sort.i5.why"
+          },
+          {
+            "label": "ch6.u5.sort.i6.label",
+            "bin": "ch6.u5.sort.bin.3",
+            "why": "ch6.u5.sort.i6.why"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch6-u5-read-3",
+      "type": "explainer",
+      "section": "s.u5",
+      "title": "a.ch6-u5-read-3.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 43,
+        "section": "6.3.2"
+      },
+      "config": {
+        "text": "ch6.u5.connective"
+      }
+    },
+    {
+      "id": "ch6-u5-sort-4",
+      "type": "sortBins",
+      "section": "s.u5",
+      "title": "a.ch6-u5-sort-4.title",
+      "blurb": "a.ch6-u5-sort-4.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 44,
+        "section": "6.3.2",
+        "label": "Fig. 6.10"
+      },
+      "config": {
+        "bins": [
+          "ch6.u5.sort2.bin.0",
+          "ch6.u5.sort2.bin.1",
+          "ch6.u5.sort2.bin.2",
+          "ch6.u5.sort2.bin.3",
+          "ch6.u5.sort2.bin.4",
+          "ch6.u5.sort2.bin.5",
+          "ch6.u5.sort2.bin.6"
+        ],
+        "items": [
+          {
+            "label": "ch6.u5.sort2.i0.label",
+            "bin": "ch6.u5.sort2.bin.0",
+            "why": "ch6.u5.sort2.i0.why"
+          },
+          {
+            "label": "ch6.u5.sort2.i1.label",
+            "bin": "ch6.u5.sort2.bin.1",
+            "why": "ch6.u5.sort2.i1.why"
+          },
+          {
+            "label": "ch6.u5.sort2.i2.label",
+            "bin": "ch6.u5.sort2.bin.2",
+            "why": "ch6.u5.sort2.i2.why"
+          },
+          {
+            "label": "ch6.u5.sort2.i3.label",
+            "bin": "ch6.u5.sort2.bin.3",
+            "why": "ch6.u5.sort2.i3.why",
+            "tricky": true
+          },
+          {
+            "label": "ch6.u5.sort2.i4.label",
+            "bin": "ch6.u5.sort2.bin.4",
+            "why": "ch6.u5.sort2.i4.why"
+          },
+          {
+            "label": "ch6.u5.sort2.i5.label",
+            "bin": "ch6.u5.sort2.bin.4",
+            "why": "ch6.u5.sort2.i5.why",
+            "tricky": true
+          },
+          {
+            "label": "ch6.u5.sort2.i6.label",
+            "bin": "ch6.u5.sort2.bin.5",
+            "why": "ch6.u5.sort2.i6.why"
+          },
+          {
+            "label": "ch6.u5.sort2.i7.label",
+            "bin": "ch6.u5.sort2.bin.6",
+            "why": "ch6.u5.sort2.i7.why"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch6-u5-sort-4.whyonecategory.q",
+          "answer": "ask.ch6-u5-sort-4.whyonecategory.a"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u5-quiz-5",
+      "type": "quiz",
+      "section": "s.u5",
+      "title": "a.ch6-u5-quiz-5.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 47,
+        "label": "Exercise 10"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch6.u5.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch6.u5.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch6.u5.quiz.q0.f0",
+                "misconception": "ligament-joins-muscle"
+              },
+              {
+                "text": "ch6.u5.quiz.q0.o1",
+                "correct": true,
+                "feedback": "ch6.u5.quiz.q0.f1"
+              },
+              {
+                "text": "ch6.u5.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch6.u5.quiz.q0.f2",
+                "misconception": "cartilage-attaches"
+              },
+              {
+                "text": "ch6.u5.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch6.u5.quiz.q0.f3",
+                "misconception": "areolar-attaches"
+              }
+            ]
+          },
+          {
+            "prompt": "ch6.u5.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch6.u5.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch6.u5.quiz.q1.f0",
+                "misconception": "blood-connects-organs"
+              },
+              {
+                "text": "ch6.u5.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch6.u5.quiz.q1.f1"
+              },
+              {
+                "text": "ch6.u5.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch6.u5.quiz.q1.f2",
+                "misconception": "clotting-defines-it"
+              },
+              {
+                "text": "ch6.u5.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch6.u5.quiz.q1.f3",
+                "misconception": "widespread-defines-it"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch6-u6-read-1",
+      "type": "explainer",
+      "section": "s.u6",
+      "title": "a.ch6-u6-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 45,
+        "section": "6.3.3"
+      },
+      "config": {
+        "text": "ch6.u6.muscle"
+      }
+    },
+    {
+      "id": "ch6-u6-sort-2",
+      "type": "sortBins",
+      "section": "s.u6",
+      "title": "a.ch6-u6-sort-2.title",
+      "blurb": "a.ch6-u6-sort-2.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 45,
+        "section": "6.3.3",
+        "label": "Table 6.1"
+      },
+      "config": {
+        "bins": [
+          "ch6.u6.sort.bin.0",
+          "ch6.u6.sort.bin.1",
+          "ch6.u6.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch6.u6.sort.i0.label",
+            "bin": "ch6.u6.sort.bin.0",
+            "why": "ch6.u6.sort.i0.why"
+          },
+          {
+            "label": "ch6.u6.sort.i1.label",
+            "bin": "ch6.u6.sort.bin.0",
+            "why": "ch6.u6.sort.i1.why"
+          },
+          {
+            "label": "ch6.u6.sort.i2.label",
+            "bin": "ch6.u6.sort.bin.0",
+            "why": "ch6.u6.sort.i2.why"
+          },
+          {
+            "label": "ch6.u6.sort.i3.label",
+            "bin": "ch6.u6.sort.bin.1",
+            "why": "ch6.u6.sort.i3.why"
+          },
+          {
+            "label": "ch6.u6.sort.i4.label",
+            "bin": "ch6.u6.sort.bin.1",
+            "why": "ch6.u6.sort.i4.why"
+          },
+          {
+            "label": "ch6.u6.sort.i5.label",
+            "bin": "ch6.u6.sort.bin.1",
+            "why": "ch6.u6.sort.i5.why"
+          },
+          {
+            "label": "ch6.u6.sort.i6.label",
+            "bin": "ch6.u6.sort.bin.2",
+            "why": "ch6.u6.sort.i6.why",
+            "tricky": true
+          },
+          {
+            "label": "ch6.u6.sort.i7.label",
+            "bin": "ch6.u6.sort.bin.2",
+            "why": "ch6.u6.sort.i7.why"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch6-u6-draw-3",
+      "type": "drawAlong",
+      "section": "s.u6",
+      "title": "a.ch6-u6-draw-3.title",
+      "blurb": "a.ch6-u6-draw-3.blurb",
+      "minutes": 14,
+      "sourceRef": {
+        "page": 46,
+        "section": "6.3.4",
+        "label": "Fig. 6.12"
+      },
+      "config": {
+        "caption": "ch6.neuron.caption",
+        "ratio": 1.92,
+        "viewBox": "0 240 1000 520",
+        "steps": [
+          {
+            "id": "body",
+            "label": "ch6.neuron.body.label",
+            "instruction": "ch6.neuron.body.do",
+            "does": "ch6.neuron.body.does",
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": 165.0,
+                "y": 405.0,
+                "w": 190,
+                "h": 190,
+                "tone": "accent2",
+                "filled": true
+              }
+            ]
+          },
+          {
+            "id": "nucleus",
+            "label": "ch6.neuron.nucleus.label",
+            "instruction": "ch6.neuron.nucleus.do",
+            "does": "ch6.neuron.nucleus.does",
+            "shapes": [
+              {
+                "kind": "ellipse",
+                "x": 222.0,
+                "y": 462.0,
+                "w": 76,
+                "h": 76,
+                "tone": "accent3",
+                "filled": true
+              }
+            ]
+          },
+          {
+            "id": "dendrites",
+            "label": "ch6.neuron.dendrites.label",
+            "instruction": "ch6.neuron.dendrites.do",
+            "does": "ch6.neuron.dendrites.does",
+            "shapes": [
+              {
+                "kind": "line",
+                "x": 56.5,
+                "y": 547.5,
+                "w": 121.2,
+                "h": 70.0,
+                "tone": "outline",
+                "strokeWidth": 3.0
+              },
+              {
+                "kind": "line",
+                "x": 25.9,
+                "y": 508.3,
+                "w": 139.5,
+                "h": 12.2,
+                "tone": "outline",
+                "strokeWidth": 3.0
+              },
+              {
+                "kind": "line",
+                "x": 39.2,
+                "y": 419.6,
+                "w": 131.6,
+                "h": 47.9,
+                "tone": "outline",
+                "strokeWidth": 3.0
+              },
+              {
+                "kind": "line",
+                "x": 142.5,
+                "y": 582.3,
+                "w": 70.0,
+                "h": 121.2,
+                "tone": "outline",
+                "strokeWidth": 3.0
+              },
+              {
+                "kind": "line",
+                "x": 108.9,
+                "y": 320.0,
+                "w": 90.0,
+                "h": 107.2,
+                "tone": "outline",
+                "strokeWidth": 3.0
+              }
+            ]
+          },
+          {
+            "id": "axon",
+            "label": "ch6.neuron.axon.label",
+            "instruction": "ch6.neuron.axon.do",
+            "does": "ch6.neuron.axon.does",
+            "detail": {
+              "points": [
+                "ch6.neuron.axon.detail.p0",
+                "ch6.neuron.axon.detail.p1",
+                "ch6.neuron.axon.detail.p2",
+                "ch6.neuron.axon.detail.p3"
+              ]
+            },
+            "shapes": [
+              {
+                "kind": "line",
+                "x": 355.0,
+                "y": 500.0,
+                "w": 505.0,
+                "h": 0.0,
+                "tone": "outline",
+                "strokeWidth": 5.0
+              }
+            ]
+          },
+          {
+            "id": "endings",
+            "label": "ch6.neuron.endings.label",
+            "instruction": "ch6.neuron.endings.do",
+            "does": "ch6.neuron.endings.does",
+            "shapes": [
+              {
+                "kind": "line",
+                "x": 860,
+                "y": 405.0,
+                "w": 100,
+                "h": 95.0,
+                "tone": "outline",
+                "strokeWidth": 3.0
+              },
+              {
+                "kind": "line",
+                "x": 860,
+                "y": 465.0,
+                "w": 100,
+                "h": 35.0,
+                "tone": "outline",
+                "strokeWidth": 3.0
+              },
+              {
+                "kind": "line",
+                "x": 860,
+                "y": 500.0,
+                "w": 100,
+                "h": 35.0,
+                "tone": "outline",
+                "strokeWidth": 3.0
+              },
+              {
+                "kind": "line",
+                "x": 860,
+                "y": 500.0,
+                "w": 100,
+                "h": 95.0,
+                "tone": "outline",
+                "strokeWidth": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch6-u6-draw-3.direction.q",
+          "answer": "ask.ch6-u6-draw-3.direction.a"
+        }
+      ]
+    },
+    {
+      "id": "ch6-u6-quiz-4",
+      "type": "quiz",
+      "section": "s.u6",
+      "title": "a.ch6-u6-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 47,
+        "label": "Exercise 7"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch6.u6.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch6.u6.quiz.q0.o0",
+                "correct": false,
+                "feedback": "ch6.u6.quiz.q0.f0",
+                "misconception": "skeletal-is-involuntary"
+              },
+              {
+                "text": "ch6.u6.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch6.u6.quiz.q0.f1",
+                "misconception": "smooth-is-striated"
+              },
+              {
+                "text": "ch6.u6.quiz.q0.o2",
+                "correct": true,
+                "feedback": "ch6.u6.quiz.q0.f2"
+              },
+              {
+                "text": "ch6.u6.quiz.q0.o3",
+                "correct": false,
+                "feedback": "ch6.u6.quiz.q0.f3",
+                "misconception": "no-striated-involuntary"
+              }
+            ]
+          },
+          {
+            "prompt": "ch6.u6.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch6.u6.quiz.q1.o0",
+                "correct": false,
+                "feedback": "ch6.u6.quiz.q1.f0",
+                "misconception": "many-axons"
+              },
+              {
+                "text": "ch6.u6.quiz.q1.o1",
+                "correct": true,
+                "feedback": "ch6.u6.quiz.q1.f1"
+              },
+              {
+                "text": "ch6.u6.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch6.u6.quiz.q1.f2",
+                "misconception": "no-axon"
+              },
+              {
+                "text": "ch6.u6.quiz.q1.o3",
+                "correct": false,
+                "feedback": "ch6.u6.quiz.q1.f3",
+                "misconception": "axon-per-target"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "paths": [
+    {
+      "id": "guided",
+      "title": "path.guided.title",
+      "blurb": "path.guided.blurb",
+      "artifacts": [
+        "ch6-u1-read-1",
+        "ch6-u1-sort-2",
+        "ch6-u1-quiz-3",
+        "ch6-u2-do-1",
+        "ch6-u2-read-2",
+        "ch6-u2-sort-3",
+        "ch6-u2-quiz-4",
+        "ch6-u3-read-1",
+        "ch6-u3-sort-2",
+        "ch6-u3-do-3",
+        "ch6-u3-sort-4",
+        "ch6-u3-quiz-5",
+        "ch6-u4-read-1",
+        "ch6-u4-sort-2",
+        "ch6-u4-tree-3",
+        "ch6-u4-quiz-4",
+        "ch6-u5-read-1",
+        "ch6-u5-sort-2",
+        "ch6-u5-read-3",
+        "ch6-u5-sort-4",
+        "ch6-u5-quiz-5",
+        "ch6-u6-read-1",
+        "ch6-u6-sort-2",
+        "ch6-u6-draw-3",
+        "ch6-u6-quiz-4"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "id": "tissue",
+      "definition": "gloss.tissue",
+      "seeAlso": [
+        "meristem",
+        "permanent-tissue"
+      ]
+    },
+    {
+      "id": "meristem",
+      "definition": "gloss.meristem",
+      "seeAlso": [
+        "tissue",
+        "differentiation",
+        "cambium"
+      ]
+    },
+    {
+      "id": "cambium",
+      "definition": "gloss.cambium",
+      "seeAlso": [
+        "meristem"
+      ]
+    },
+    {
+      "id": "differentiation",
+      "definition": "gloss.differentiation",
+      "seeAlso": [
+        "meristem",
+        "permanent-tissue"
+      ]
+    },
+    {
+      "id": "permanent-tissue",
+      "definition": "gloss.permanent-tissue",
+      "seeAlso": [
+        "differentiation",
+        "parenchyma",
+        "xylem"
+      ]
+    },
+    {
+      "id": "parenchyma",
+      "definition": "gloss.parenchyma",
+      "seeAlso": [
+        "collenchyma",
+        "sclerenchyma",
+        "permanent-tissue"
+      ]
+    },
+    {
+      "id": "collenchyma",
+      "definition": "gloss.collenchyma",
+      "seeAlso": [
+        "parenchyma",
+        "sclerenchyma"
+      ]
+    },
+    {
+      "id": "sclerenchyma",
+      "definition": "gloss.sclerenchyma",
+      "seeAlso": [
+        "parenchyma",
+        "collenchyma",
+        "lignin"
+      ]
+    },
+    {
+      "id": "lignin",
+      "definition": "gloss.lignin",
+      "seeAlso": [
+        "sclerenchyma",
+        "xylem"
+      ]
+    },
+    {
+      "id": "stomata",
+      "definition": "gloss.stomata",
+      "seeAlso": [
+        "epidermis",
+        "guard-cell",
+        "transpiration"
+      ]
+    },
+    {
+      "id": "guard-cell",
+      "definition": "gloss.guard-cell",
+      "seeAlso": [
+        "stomata",
+        "epidermis"
+      ]
+    },
+    {
+      "id": "transpiration",
+      "definition": "gloss.transpiration",
+      "seeAlso": [
+        "stomata"
+      ]
+    },
+    {
+      "id": "epidermis",
+      "definition": "gloss.epidermis",
+      "seeAlso": [
+        "stomata",
+        "cork"
+      ]
+    },
+    {
+      "id": "cork",
+      "definition": "gloss.cork",
+      "seeAlso": [
+        "epidermis"
+      ]
+    },
+    {
+      "id": "xylem",
+      "definition": "gloss.xylem",
+      "seeAlso": [
+        "phloem",
+        "lignin",
+        "permanent-tissue"
+      ]
+    },
+    {
+      "id": "phloem",
+      "definition": "gloss.phloem",
+      "seeAlso": [
+        "xylem",
+        "permanent-tissue"
+      ]
+    },
+    {
+      "id": "epithelial",
+      "definition": "gloss.epithelial",
+      "seeAlso": [
+        "connective",
+        "squamous"
+      ]
+    },
+    {
+      "id": "squamous",
+      "definition": "gloss.squamous",
+      "seeAlso": [
+        "epithelial"
+      ]
+    },
+    {
+      "id": "connective",
+      "definition": "gloss.connective",
+      "seeAlso": [
+        "epithelial",
+        "matrix",
+        "ligament"
+      ]
+    },
+    {
+      "id": "matrix",
+      "definition": "gloss.matrix",
+      "seeAlso": [
+        "connective"
+      ]
+    },
+    {
+      "id": "ligament",
+      "definition": "gloss.ligament",
+      "seeAlso": [
+        "tendon",
+        "connective"
+      ]
+    },
+    {
+      "id": "tendon",
+      "definition": "gloss.tendon",
+      "seeAlso": [
+        "ligament",
+        "connective"
+      ]
+    },
+    {
+      "id": "neuron",
+      "definition": "gloss.neuron",
+      "seeAlso": [
+        "axon",
+        "dendrite"
+      ]
+    },
+    {
+      "id": "axon",
+      "definition": "gloss.axon",
+      "seeAlso": [
+        "neuron",
+        "dendrite"
+      ]
+    },
+    {
+      "id": "dendrite",
+      "definition": "gloss.dendrite",
+      "seeAlso": [
+        "neuron",
+        "axon"
+      ]
+    }
+  ]
+}
