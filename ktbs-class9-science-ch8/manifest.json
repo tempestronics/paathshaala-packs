@@ -1,0 +1,42 @@
+{
+  "format": "paath/1",
+  "id": "ktbs.class9.science.ch8",
+  "version": "1.0.0",
+  "title": "Force and Laws of Motion",
+  "blurb": "Nothing needs a push to keep going. Working out what that leaves took two thousand years.",
+  "subject": "Science",
+  "level": "Class 9",
+  "source": "Karnataka Textbook Society, 2026-27, Part 1",
+  "textbook": {
+    "title": "Class 9 Science Part 1",
+    "chapter": 8,
+    "firstPage": 64,
+    "lastPage": 76,
+    "publisher": "Karnataka Textbook Society",
+    "edition": "2026-27"
+  },
+  "author": {
+    "name": "Paathshaala",
+    "url": "https://paathshaala.org"
+  },
+  "licence": "CC-BY-4.0",
+  "languages": [
+    "en",
+    "kn"
+  ],
+  "defaultLanguage": "en",
+  "estimatedMinutes": 197,
+  "requires": {
+    "minPlayer": 1,
+    "artifactTypes": [
+      "calculate",
+      "drawAlong",
+      "experiment",
+      "explainer",
+      "motionLab",
+      "quiz",
+      "recoilLab",
+      "sortBins"
+    ]
+  }
+}

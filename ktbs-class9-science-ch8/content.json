@@ -1,0 +1,2012 @@
+{
+  "sections": [
+    {
+      "id": "s.u1",
+      "title": "s.u1.title",
+      "blurb": "s.u1.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u1.q1.ask",
+          "answer": "recap.s.u1.q1.answer",
+          "listenFor": "recap.s.u1.q1.listenFor",
+          "sourceRef": {
+            "page": 65,
+            "section": "8.1"
+          }
+        },
+        {
+          "ask": "recap.s.u1.q2.ask",
+          "answer": "recap.s.u1.q2.answer",
+          "listenFor": "recap.s.u1.q2.listenFor",
+          "sourceRef": {
+            "page": 65,
+            "section": "8.1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u2",
+      "title": "s.u2.title",
+      "blurb": "s.u2.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u2.q1.ask",
+          "answer": "recap.s.u2.q1.answer",
+          "listenFor": "recap.s.u2.q1.listenFor",
+          "sourceRef": {
+            "page": 66,
+            "section": "8.2"
+          }
+        },
+        {
+          "ask": "recap.s.u2.q2.ask",
+          "answer": "recap.s.u2.q2.answer",
+          "listenFor": "recap.s.u2.q2.listenFor",
+          "sourceRef": {
+            "page": 67,
+            "section": "8.2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u3",
+      "title": "s.u3.title",
+      "blurb": "s.u3.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u3.q1.ask",
+          "answer": "recap.s.u3.q1.answer",
+          "listenFor": "recap.s.u3.q1.listenFor",
+          "sourceRef": {
+            "page": 68,
+            "section": "8.3"
+          }
+        },
+        {
+          "ask": "recap.s.u3.q2.ask",
+          "answer": "recap.s.u3.q2.answer",
+          "listenFor": "recap.s.u3.q2.listenFor",
+          "sourceRef": {
+            "page": 68,
+            "section": "8.3",
+            "label": "Activity 8.2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u4",
+      "title": "s.u4.title",
+      "blurb": "s.u4.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u4.q1.ask",
+          "answer": "recap.s.u4.q1.answer",
+          "listenFor": "recap.s.u4.q1.listenFor",
+          "sourceRef": {
+            "page": 69,
+            "section": "8.4"
+          }
+        },
+        {
+          "ask": "recap.s.u4.q2.ask",
+          "answer": "recap.s.u4.q2.answer",
+          "listenFor": "recap.s.u4.q2.listenFor",
+          "sourceRef": {
+            "page": 75
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u5",
+      "title": "s.u5.title",
+      "blurb": "s.u5.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u5.q1.ask",
+          "answer": "recap.s.u5.q1.answer",
+          "listenFor": "recap.s.u5.q1.listenFor",
+          "sourceRef": {
+            "page": 69,
+            "section": "8.4.1"
+          }
+        },
+        {
+          "ask": "recap.s.u5.q2.ask",
+          "answer": "recap.s.u5.q2.answer",
+          "listenFor": "recap.s.u5.q2.listenFor",
+          "sourceRef": {
+            "page": 70,
+            "section": "8.4.1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u6",
+      "title": "s.u6.title",
+      "blurb": "s.u6.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u6.q1.ask",
+          "answer": "recap.s.u6.q1.answer",
+          "listenFor": "recap.s.u6.q1.listenFor",
+          "sourceRef": {
+            "page": 75
+          }
+        },
+        {
+          "ask": "recap.s.u6.q2.ask",
+          "answer": "recap.s.u6.q2.answer",
+          "listenFor": "recap.s.u6.q2.listenFor",
+          "sourceRef": {
+            "page": 72,
+            "section": "8.5"
+          }
+        }
+      ],
+      "memoryAid": {
+        "technique": "acronym",
+        "word": "BASIC",
+        "meaning": "aid.s.u6.meaning",
+        "contrast": {
+          "a": "aid.s.u6.a",
+          "b": "aid.s.u6.b"
+        },
+        "letters": [
+          {
+            "letter": "B",
+            "property": "aid.s.u6.B.property",
+            "a": "aid.s.u6.B.a",
+            "b": "aid.s.u6.B.b"
+          },
+          {
+            "letter": "A",
+            "property": "aid.s.u6.A.property",
+            "a": "aid.s.u6.A.a",
+            "b": "aid.s.u6.A.b"
+          },
+          {
+            "letter": "S",
+            "property": "aid.s.u6.S.property",
+            "a": "aid.s.u6.S.a",
+            "b": "aid.s.u6.S.b"
+          },
+          {
+            "letter": "I",
+            "property": "aid.s.u6.I.property",
+            "a": "aid.s.u6.I.a",
+            "b": "aid.s.u6.I.b"
+          },
+          {
+            "letter": "C",
+            "property": "aid.s.u6.C.property",
+            "a": "aid.s.u6.C.a",
+            "b": "aid.s.u6.C.b"
+          }
+        ]
+      }
+    }
+  ],
+  "misconceptions": [
+    {
+      "id": "motion-needs-a-force",
+      "statement": "mis.motion-needs-a-force.statement",
+      "correction": "mis.motion-needs-a-force.correction"
+    },
+    {
+      "id": "unbalanced-holds-things-still",
+      "statement": "mis.unbalanced-holds-things-still.statement",
+      "correction": "mis.unbalanced-holds-things-still.correction"
+    },
+    {
+      "id": "steady-speed-needs-a-net-force",
+      "statement": "mis.steady-speed-needs-a-net-force.statement",
+      "correction": "mis.steady-speed-needs-a-net-force.correction"
+    },
+    {
+      "id": "steady-speed-means-no-forces",
+      "statement": "mis.steady-speed-means-no-forces.statement",
+      "correction": "mis.steady-speed-means-no-forces.correction"
+    },
+    {
+      "id": "no-motion-no-friction",
+      "statement": "mis.no-motion-no-friction.statement",
+      "correction": "mis.no-motion-no-friction.correction"
+    },
+    {
+      "id": "friction-can-drive",
+      "statement": "mis.friction-can-drive.statement",
+      "correction": "mis.friction-can-drive.correction"
+    },
+    {
+      "id": "friction-points-down",
+      "statement": "mis.friction-points-down.statement",
+      "correction": "mis.friction-points-down.correction"
+    },
+    {
+      "id": "circular-motion-is-balanced",
+      "statement": "mis.circular-motion-is-balanced.statement",
+      "correction": "mis.circular-motion-is-balanced.correction"
+    },
+    {
+      "id": "no-force-means-at-rest",
+      "statement": "mis.no-force-means-at-rest.statement",
+      "correction": "mis.no-force-means-at-rest.correction"
+    },
+    {
+      "id": "no-force-means-slowing",
+      "statement": "mis.no-force-means-slowing.statement",
+      "correction": "mis.no-force-means-slowing.correction"
+    },
+    {
+      "id": "rope-is-for-wind",
+      "statement": "mis.rope-is-for-wind.statement",
+      "correction": "mis.rope-is-for-wind.correction"
+    },
+    {
+      "id": "mass-changes-with-speed",
+      "statement": "mis.mass-changes-with-speed.statement",
+      "correction": "mis.mass-changes-with-speed.correction"
+    },
+    {
+      "id": "stick-hits-the-dust",
+      "statement": "mis.stick-hits-the-dust.statement",
+      "correction": "mis.stick-hits-the-dust.correction"
+    },
+    {
+      "id": "beating-heats-the-carpet",
+      "statement": "mis.beating-heats-the-carpet.statement",
+      "correction": "mis.beating-heats-the-carpet.correction"
+    },
+    {
+      "id": "mass-is-stored-force",
+      "statement": "mis.mass-is-stored-force.statement",
+      "correction": "mis.mass-is-stored-force.correction"
+    },
+    {
+      "id": "mass-is-size",
+      "statement": "mis.mass-is-size.statement",
+      "correction": "mis.mass-is-size.correction"
+    },
+    {
+      "id": "rubber-has-more-inertia",
+      "statement": "mis.rubber-has-more-inertia.statement",
+      "correction": "mis.rubber-has-more-inertia.correction"
+    },
+    {
+      "id": "inertia-is-a-force",
+      "statement": "mis.inertia-is-a-force.statement",
+      "correction": "mis.inertia-is-a-force.correction"
+    },
+    {
+      "id": "momentum-is-half-mv-squared",
+      "statement": "mis.momentum-is-half-mv-squared.statement",
+      "correction": "mis.momentum-is-half-mv-squared.correction"
+    },
+    {
+      "id": "momentum-squares-the-velocity",
+      "statement": "mis.momentum-squares-the-velocity.statement",
+      "correction": "mis.momentum-squares-the-velocity.correction"
+    },
+    {
+      "id": "heavier-always-means-more-momentum",
+      "statement": "mis.heavier-always-means-more-momentum.statement",
+      "correction": "mis.heavier-always-means-more-momentum.correction"
+    },
+    {
+      "id": "parked-object-has-momentum",
+      "statement": "mis.parked-object-has-momentum.statement",
+      "correction": "mis.parked-object-has-momentum.correction"
+    },
+    {
+      "id": "momentum-has-no-direction",
+      "statement": "mis.momentum-has-no-direction.statement",
+      "correction": "mis.momentum-has-no-direction.correction"
+    },
+    {
+      "id": "momentum-follows-the-force",
+      "statement": "mis.momentum-follows-the-force.statement",
+      "correction": "mis.momentum-follows-the-force.correction"
+    },
+    {
+      "id": "force-gives-velocity",
+      "statement": "mis.force-gives-velocity.statement",
+      "correction": "mis.force-gives-velocity.correction"
+    },
+    {
+      "id": "newton-uses-grams",
+      "statement": "mis.newton-uses-grams.statement",
+      "correction": "mis.newton-uses-grams.correction"
+    },
+    {
+      "id": "heavier-accelerates-more",
+      "statement": "mis.heavier-accelerates-more.statement",
+      "correction": "mis.heavier-accelerates-more.correction"
+    },
+    {
+      "id": "same-force-same-acceleration",
+      "statement": "mis.same-force-same-acceleration.statement",
+      "correction": "mis.same-force-same-acceleration.correction"
+    },
+    {
+      "id": "catching-reduces-momentum",
+      "statement": "mis.catching-reduces-momentum.statement",
+      "correction": "mis.catching-reduces-momentum.correction"
+    },
+    {
+      "id": "catching-slows-the-ball-early",
+      "statement": "mis.catching-slows-the-ball-early.statement",
+      "correction": "mis.catching-slows-the-ball-early.correction"
+    },
+    {
+      "id": "action-and-reaction-cancel",
+      "statement": "mis.action-and-reaction-cancel.statement",
+      "correction": "mis.action-and-reaction-cancel.correction"
+    },
+    {
+      "id": "heavier-object-wins-the-pair",
+      "statement": "mis.heavier-object-wins-the-pair.statement",
+      "correction": "mis.heavier-object-wins-the-pair.correction"
+    },
+    {
+      "id": "bigger-acceleration-means-bigger-force",
+      "statement": "mis.bigger-acceleration-means-bigger-force.statement",
+      "correction": "mis.bigger-acceleration-means-bigger-force.correction"
+    },
+    {
+      "id": "muscles-push-you-forward",
+      "statement": "mis.muscles-push-you-forward.statement",
+      "correction": "mis.muscles-push-you-forward.correction"
+    },
+    {
+      "id": "you-push-yourself",
+      "statement": "mis.you-push-yourself.statement",
+      "correction": "mis.you-push-yourself.correction"
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "ch8-u1-read-1",
+      "type": "explainer",
+      "section": "s.u1",
+      "title": "a.ch8-u1-read-1.title",
+      "minutes": 4,
+      "sourceRef": {
+        "page": 64
+      },
+      "config": {
+        "text": "ch8.u1.force"
+      }
+    },
+    {
+      "id": "ch8-u1-lab-2",
+      "type": "motionLab",
+      "section": "s.u1",
+      "title": "a.ch8-u1-lab-2.title",
+      "blurb": "a.ch8-u1-lab-2.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 65,
+        "section": "8.1"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch8.u1.lab.predict.prompt",
+          "options": [
+            "ch8.u1.lab.predict.o0",
+            "ch8.u1.lab.predict.o1",
+            "ch8.u1.lab.predict.o2",
+            "ch8.u1.lab.predict.o3"
+          ],
+          "correct": 2
+        },
+        "observe": "ch8.u1.lab.observe",
+        "explain": "ch8.u1.lab.explain"
+      },
+      "config": {
+        "track": "flat",
+        "massKg": 2.0,
+        "initialVelocity": 0.0,
+        "frictionN": 4.0,
+        "graphs": [
+          "distanceTime",
+          "velocityTime"
+        ],
+        "handles": [
+          "force"
+        ],
+        "forceRangeN": [
+          0.0,
+          12.0
+        ],
+        "runSeconds": 6.0,
+        "tasks": [
+          {
+            "id": "t1",
+            "label": "ch8.u1.lab.t1.label",
+            "asks": "ch8.u1.lab.t1.asks",
+            "setForce": 2.0
+          },
+          {
+            "id": "t2",
+            "label": "ch8.u1.lab.t2.label",
+            "asks": "ch8.u1.lab.t2.asks",
+            "setForce": 4.0
+          },
+          {
+            "id": "t3",
+            "label": "ch8.u1.lab.t3.label",
+            "asks": "ch8.u1.lab.t3.asks",
+            "setForce": 10.0
+          }
+        ],
+        "closing": "ch8.u1.lab.closing"
+      }
+    },
+    {
+      "id": "ch8-u1-draw-3",
+      "type": "drawAlong",
+      "section": "s.u1",
+      "title": "a.ch8-u1-draw-3.title",
+      "blurb": "a.ch8-u1-draw-3.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 65,
+        "section": "8.1"
+      },
+      "config": {
+        "caption": "ch8.u1.draw.caption",
+        "ratio": 2.0,
+        "viewBox": "0 0 1000 500",
+        "steps": [
+          {
+            "id": "box",
+            "label": "ch8.u1.draw.box.label",
+            "instruction": "ch8.u1.draw.box.do",
+            "does": "ch8.u1.draw.box.does",
+            "shapes": [
+              {
+                "kind": "line",
+                "x": 60.0,
+                "y": 420.0,
+                "w": 880.0,
+                "h": 0.0,
+                "tone": "outline",
+                "strokeWidth": 4.0
+              },
+              {
+                "kind": "rect",
+                "x": 380.0,
+                "y": 250.0,
+                "w": 250.0,
+                "h": 170.0,
+                "tone": "accent3",
+                "filled": true
+              }
+            ]
+          },
+          {
+            "id": "push",
+            "label": "ch8.u1.draw.push.label",
+            "instruction": "ch8.u1.draw.push.do",
+            "does": "ch8.u1.draw.push.does",
+            "shapes": [
+              {
+                "kind": "line",
+                "x": 410.0,
+                "y": 300.0,
+                "w": 160.0,
+                "h": 0.0,
+                "tone": "outline",
+                "strokeWidth": 6.0
+              },
+              {
+                "kind": "line",
+                "x": 570.0,
+                "y": 300.0,
+                "w": -26.0,
+                "h": -16.0,
+                "tone": "outline",
+                "strokeWidth": 6.0
+              },
+              {
+                "kind": "line",
+                "x": 570.0,
+                "y": 300.0,
+                "w": -26.0,
+                "h": 16.0,
+                "tone": "outline",
+                "strokeWidth": 6.0
+              }
+            ]
+          },
+          {
+            "id": "friction",
+            "label": "ch8.u1.draw.friction.label",
+            "instruction": "ch8.u1.draw.friction.do",
+            "does": "ch8.u1.draw.friction.does",
+            "detail": {
+              "points": [
+                "ch8.u1.draw.friction.p0",
+                "ch8.u1.draw.friction.p1",
+                "ch8.u1.draw.friction.p2",
+                "ch8.u1.draw.friction.p3"
+              ]
+            },
+            "shapes": [
+              {
+                "kind": "line",
+                "x": 600.0,
+                "y": 370.0,
+                "w": -160.0,
+                "h": 0.0,
+                "tone": "outline",
+                "strokeWidth": 6.0
+              },
+              {
+                "kind": "line",
+                "x": 440.0,
+                "y": 370.0,
+                "w": 26.0,
+                "h": -16.0,
+                "tone": "outline",
+                "strokeWidth": 6.0
+              },
+              {
+                "kind": "line",
+                "x": 440.0,
+                "y": 370.0,
+                "w": 26.0,
+                "h": 16.0,
+                "tone": "outline",
+                "strokeWidth": 6.0
+              }
+            ]
+          },
+          {
+            "id": "net",
+            "label": "ch8.u1.draw.net.label",
+            "instruction": "ch8.u1.draw.net.do",
+            "does": "ch8.u1.draw.net.does",
+            "shapes": [
+              {
+                "kind": "line",
+                "x": 410.0,
+                "y": 195.0,
+                "w": 320.0,
+                "h": 0.0,
+                "tone": "accent2",
+                "strokeWidth": 7.0
+              },
+              {
+                "kind": "line",
+                "x": 730.0,
+                "y": 195.0,
+                "w": -30.0,
+                "h": -18.0,
+                "tone": "accent2",
+                "strokeWidth": 7.0
+              },
+              {
+                "kind": "line",
+                "x": 730.0,
+                "y": 195.0,
+                "w": -30.0,
+                "h": 18.0,
+                "tone": "accent2",
+                "strokeWidth": 7.0
+              },
+              {
+                "kind": "line",
+                "x": 570.0,
+                "y": 172.0,
+                "w": 0.0,
+                "h": 46.0,
+                "tone": "outline",
+                "strokeWidth": 5.0
+              }
+            ]
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch8-u1-draw-3.nomove.q",
+          "answer": "ask.ch8-u1-draw-3.nomove.a"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u1-sort-4",
+      "type": "sortBins",
+      "section": "s.u1",
+      "title": "a.ch8-u1-sort-4.title",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 65,
+        "section": "8.1"
+      },
+      "config": {
+        "bins": [
+          "ch8.u1.sort.bin.0",
+          "ch8.u1.sort.bin.1"
+        ],
+        "items": [
+          {
+            "label": "ch8.u1.sort.i0.label",
+            "bin": "ch8.u1.sort.bin.0",
+            "why": "ch8.u1.sort.i0.why"
+          },
+          {
+            "label": "ch8.u1.sort.i1.label",
+            "bin": "ch8.u1.sort.bin.1",
+            "why": "ch8.u1.sort.i1.why"
+          },
+          {
+            "label": "ch8.u1.sort.i2.label",
+            "bin": "ch8.u1.sort.bin.1",
+            "why": "ch8.u1.sort.i2.why"
+          },
+          {
+            "label": "ch8.u1.sort.i3.label",
+            "bin": "ch8.u1.sort.bin.0",
+            "why": "ch8.u1.sort.i3.why",
+            "tricky": true
+          },
+          {
+            "label": "ch8.u1.sort.i4.label",
+            "bin": "ch8.u1.sort.bin.0",
+            "why": "ch8.u1.sort.i4.why"
+          },
+          {
+            "label": "ch8.u1.sort.i5.label",
+            "bin": "ch8.u1.sort.bin.1",
+            "why": "ch8.u1.sort.i5.why",
+            "tricky": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch8-u1-quiz-5",
+      "type": "quiz",
+      "section": "s.u1",
+      "title": "a.ch8-u1-quiz-5.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 74
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch8.u1.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch8.u1.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch8.u1.quiz.q0.f0"
+              },
+              {
+                "text": "ch8.u1.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch8.u1.quiz.q0.f1",
+                "misconception": "motion-needs-a-force"
+              },
+              {
+                "text": "ch8.u1.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch8.u1.quiz.q0.f2",
+                "misconception": "unbalanced-holds-things-still"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u1.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch8.u1.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch8.u1.quiz.q1.f0"
+              },
+              {
+                "text": "ch8.u1.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch8.u1.quiz.q1.f1",
+                "misconception": "steady-speed-needs-a-net-force"
+              },
+              {
+                "text": "ch8.u1.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch8.u1.quiz.q1.f2",
+                "misconception": "no-motion-no-friction"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u1.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch8.u1.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch8.u1.quiz.q2.f0"
+              },
+              {
+                "text": "ch8.u1.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch8.u1.quiz.q2.f1",
+                "misconception": "friction-can-drive"
+              },
+              {
+                "text": "ch8.u1.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch8.u1.quiz.q2.f2",
+                "misconception": "friction-points-down"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "friction-can-drive",
+        "friction-points-down",
+        "motion-needs-a-force",
+        "no-motion-no-friction",
+        "steady-speed-needs-a-net-force",
+        "unbalanced-holds-things-still"
+      ]
+    },
+    {
+      "id": "ch8-u2-read-1",
+      "type": "explainer",
+      "section": "s.u2",
+      "title": "a.ch8-u2-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 66,
+        "section": "8.2"
+      },
+      "config": {
+        "text": "ch8.u2.galileo"
+      }
+    },
+    {
+      "id": "ch8-u2-do-2",
+      "type": "experiment",
+      "section": "s.u2",
+      "title": "a.ch8-u2-do-2.title",
+      "blurb": "a.ch8-u2-do-2.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 67,
+        "section": "8.2",
+        "label": "Activity 8.1"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch8.u2.carom.predict.prompt",
+          "options": [
+            "ch8.u2.carom.predict.o0",
+            "ch8.u2.carom.predict.o1",
+            "ch8.u2.carom.predict.o2",
+            "ch8.u2.carom.predict.o3"
+          ],
+          "correct": 1
+        },
+        "observe": "ch8.u2.carom.observe",
+        "explain": "ch8.u2.carom.explain"
+      },
+      "config": {
+        "equipment": [
+          "a set of carom coins, or any stack of identical coins",
+          "a striker or one more coin",
+          "a smooth table"
+        ],
+        "steps": "ch8.u2.do.steps",
+        "watchFor": "ch8.u2.do.watch",
+        "printable": true
+      },
+      "followUps": [
+        {
+          "question": "ask.ch8-u2-do-2.whyfast.q",
+          "answer": "ask.ch8-u2-do-2.whyfast.a"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u2-sort-3",
+      "type": "sortBins",
+      "section": "s.u2",
+      "title": "a.ch8-u2-sort-3.title",
+      "blurb": "a.ch8-u2-sort-3.blurb",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 67,
+        "section": "8.2"
+      },
+      "config": {
+        "bins": [
+          "ch8.u2.sort.bin.0",
+          "ch8.u2.sort.bin.1",
+          "ch8.u2.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch8.u2.sort.i0.label",
+            "bin": "ch8.u2.sort.bin.0",
+            "why": "ch8.u2.sort.i0.why"
+          },
+          {
+            "label": "ch8.u2.sort.i1.label",
+            "bin": "ch8.u2.sort.bin.1",
+            "why": "ch8.u2.sort.i1.why"
+          },
+          {
+            "label": "ch8.u2.sort.i2.label",
+            "bin": "ch8.u2.sort.bin.2",
+            "why": "ch8.u2.sort.i2.why"
+          },
+          {
+            "label": "ch8.u2.sort.i3.label",
+            "bin": "ch8.u2.sort.bin.0",
+            "why": "ch8.u2.sort.i3.why"
+          },
+          {
+            "label": "ch8.u2.sort.i4.label",
+            "bin": "ch8.u2.sort.bin.2",
+            "why": "ch8.u2.sort.i4.why",
+            "tricky": true
+          },
+          {
+            "label": "ch8.u2.sort.i5.label",
+            "bin": "ch8.u2.sort.bin.1",
+            "why": "ch8.u2.sort.i5.why",
+            "tricky": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch8-u2-quiz-4",
+      "type": "quiz",
+      "section": "s.u2",
+      "title": "a.ch8-u2-quiz-4.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 74
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch8.u2.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch8.u2.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch8.u2.quiz.q0.f0"
+              },
+              {
+                "text": "ch8.u2.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch8.u2.quiz.q0.f1",
+                "misconception": "no-force-means-at-rest"
+              },
+              {
+                "text": "ch8.u2.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch8.u2.quiz.q0.f2",
+                "misconception": "no-force-means-slowing"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u2.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch8.u2.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch8.u2.quiz.q1.f0"
+              },
+              {
+                "text": "ch8.u2.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch8.u2.quiz.q1.f1",
+                "misconception": "rope-is-for-wind"
+              },
+              {
+                "text": "ch8.u2.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch8.u2.quiz.q1.f2",
+                "misconception": "mass-changes-with-speed"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u2.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch8.u2.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch8.u2.quiz.q2.f0"
+              },
+              {
+                "text": "ch8.u2.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch8.u2.quiz.q2.f1",
+                "misconception": "stick-hits-the-dust"
+              },
+              {
+                "text": "ch8.u2.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch8.u2.quiz.q2.f2",
+                "misconception": "beating-heats-the-carpet"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "beating-heats-the-carpet",
+        "mass-changes-with-speed",
+        "no-force-means-at-rest",
+        "no-force-means-slowing",
+        "rope-is-for-wind",
+        "stick-hits-the-dust"
+      ]
+    },
+    {
+      "id": "ch8-u3-read-1",
+      "type": "explainer",
+      "section": "s.u3",
+      "title": "a.ch8-u3-read-1.title",
+      "minutes": 4,
+      "sourceRef": {
+        "page": 68,
+        "section": "8.3"
+      },
+      "config": {
+        "text": "ch8.u3.inertia"
+      }
+    },
+    {
+      "id": "ch8-u3-do-2",
+      "type": "experiment",
+      "section": "s.u3",
+      "title": "a.ch8-u3-do-2.title",
+      "blurb": "a.ch8-u3-do-2.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 68,
+        "section": "8.3",
+        "label": "Activity 8.2"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch8.u3.card.predict.prompt",
+          "options": [
+            "ch8.u3.card.predict.o0",
+            "ch8.u3.card.predict.o1",
+            "ch8.u3.card.predict.o2",
+            "ch8.u3.card.predict.o3"
+          ],
+          "correct": 1
+        },
+        "observe": "ch8.u3.card.observe",
+        "explain": "ch8.u3.card.explain"
+      },
+      "config": {
+        "equipment": [
+          "an empty glass tumbler",
+          "a stiff postcard or a piece of thin card",
+          "a coin",
+          "a steady table"
+        ],
+        "steps": "ch8.u3.do.steps",
+        "watchFor": "ch8.u3.do.watch",
+        "printable": true
+      }
+    },
+    {
+      "id": "ch8-u3-sort-3",
+      "type": "sortBins",
+      "section": "s.u3",
+      "title": "a.ch8-u3-sort-3.title",
+      "blurb": "a.ch8-u3-sort-3.blurb",
+      "minutes": 8,
+      "sourceRef": {
+        "page": 68,
+        "section": "8.3"
+      },
+      "config": {
+        "bins": [
+          "ch8.u3.sort.bin.0",
+          "ch8.u3.sort.bin.1"
+        ],
+        "items": [
+          {
+            "label": "ch8.u3.sort.i0.label",
+            "bin": "ch8.u3.sort.bin.0",
+            "why": "ch8.u3.sort.i0.why"
+          },
+          {
+            "label": "ch8.u3.sort.i1.label",
+            "bin": "ch8.u3.sort.bin.1",
+            "why": "ch8.u3.sort.i1.why"
+          },
+          {
+            "label": "ch8.u3.sort.i2.label",
+            "bin": "ch8.u3.sort.bin.0",
+            "why": "ch8.u3.sort.i2.why",
+            "tricky": true
+          },
+          {
+            "label": "ch8.u3.sort.i3.label",
+            "bin": "ch8.u3.sort.bin.0",
+            "why": "ch8.u3.sort.i3.why"
+          },
+          {
+            "label": "ch8.u3.sort.i4.label",
+            "bin": "ch8.u3.sort.bin.1",
+            "why": "ch8.u3.sort.i4.why"
+          },
+          {
+            "label": "ch8.u3.sort.i5.label",
+            "bin": "ch8.u3.sort.bin.0",
+            "why": "ch8.u3.sort.i5.why"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch8-u3-sort-3.sizevsmass.q",
+          "answer": "ask.ch8-u3-sort-3.sizevsmass.a"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u3-quiz-4",
+      "type": "quiz",
+      "section": "s.u3",
+      "title": "a.ch8-u3-quiz-4.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 68,
+        "section": "8.3"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch8.u3.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch8.u3.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch8.u3.quiz.q0.f0"
+              },
+              {
+                "text": "ch8.u3.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch8.u3.quiz.q0.f1",
+                "misconception": "mass-is-stored-force"
+              },
+              {
+                "text": "ch8.u3.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch8.u3.quiz.q0.f2",
+                "misconception": "mass-is-size"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u3.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch8.u3.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch8.u3.quiz.q1.f0"
+              },
+              {
+                "text": "ch8.u3.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch8.u3.quiz.q1.f1",
+                "misconception": "rubber-has-more-inertia"
+              },
+              {
+                "text": "ch8.u3.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch8.u3.quiz.q1.f2",
+                "misconception": "mass-is-size"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u3.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch8.u3.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch8.u3.quiz.q2.f0"
+              },
+              {
+                "text": "ch8.u3.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch8.u3.quiz.q2.f1",
+                "misconception": "inertia-is-a-force"
+              },
+              {
+                "text": "ch8.u3.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch8.u3.quiz.q2.f2",
+                "misconception": "inertia-is-a-force"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "inertia-is-a-force",
+        "mass-is-size",
+        "mass-is-stored-force",
+        "rubber-has-more-inertia"
+      ]
+    },
+    {
+      "id": "ch8-u4-read-1",
+      "type": "explainer",
+      "section": "s.u4",
+      "title": "a.ch8-u4-read-1.title",
+      "minutes": 4,
+      "sourceRef": {
+        "page": 69,
+        "section": "8.4"
+      },
+      "config": {
+        "text": "ch8.u4.momentum"
+      }
+    },
+    {
+      "id": "ch8-u4-calc-2",
+      "type": "calculate",
+      "section": "s.u4",
+      "title": "a.ch8-u4-calc-2.title",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 69,
+        "section": "8.4"
+      },
+      "config": {
+        "items": [
+          {
+            "prompt": "ch8.u4.calc.c0.prompt",
+            "given": [
+              "ch8.u4.calc.c0.g0",
+              "ch8.u4.calc.c0.g1"
+            ],
+            "steps": [
+              "ch8.u4.calc.c0.s0",
+              "ch8.u4.calc.c0.s1"
+            ],
+            "answer": "4",
+            "unit": "kg m/s",
+            "trap": "ch8.u4.calc.c0.trap"
+          },
+          {
+            "prompt": "ch8.u4.calc.c1.prompt",
+            "given": [
+              "ch8.u4.calc.c1.g0",
+              "ch8.u4.calc.c1.g1"
+            ],
+            "steps": [
+              "ch8.u4.calc.c1.s0",
+              "ch8.u4.calc.c1.s1"
+            ],
+            "answer": "60000",
+            "unit": "kg m/s",
+            "trap": "ch8.u4.calc.c1.trap"
+          },
+          {
+            "prompt": "ch8.u4.calc.c2.prompt",
+            "given": [
+              "ch8.u4.calc.c2.g0",
+              "ch8.u4.calc.c2.g1",
+              "ch8.u4.calc.c2.g2"
+            ],
+            "steps": [
+              "ch8.u4.calc.c2.s0",
+              "ch8.u4.calc.c2.s1",
+              "ch8.u4.calc.c2.s2",
+              "ch8.u4.calc.c2.s3"
+            ],
+            "answer": "3",
+            "unit": "kg m/s",
+            "trap": "ch8.u4.calc.c2.trap"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch8-u4-calc-2.direction.q",
+          "answer": "ask.ch8-u4-calc-2.direction.a"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u4-quiz-3",
+      "type": "quiz",
+      "section": "s.u4",
+      "title": "a.ch8-u4-quiz-3.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 75
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch8.u4.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch8.u4.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch8.u4.quiz.q0.f0"
+              },
+              {
+                "text": "ch8.u4.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch8.u4.quiz.q0.f1",
+                "misconception": "momentum-is-half-mv-squared"
+              },
+              {
+                "text": "ch8.u4.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch8.u4.quiz.q0.f2",
+                "misconception": "momentum-squares-the-velocity"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u4.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch8.u4.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch8.u4.quiz.q1.f0"
+              },
+              {
+                "text": "ch8.u4.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch8.u4.quiz.q1.f1",
+                "misconception": "heavier-always-means-more-momentum"
+              },
+              {
+                "text": "ch8.u4.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch8.u4.quiz.q1.f2",
+                "misconception": "parked-object-has-momentum"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u4.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch8.u4.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch8.u4.quiz.q2.f0"
+              },
+              {
+                "text": "ch8.u4.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch8.u4.quiz.q2.f1",
+                "misconception": "momentum-has-no-direction"
+              },
+              {
+                "text": "ch8.u4.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch8.u4.quiz.q2.f2",
+                "misconception": "momentum-follows-the-force"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "heavier-always-means-more-momentum",
+        "momentum-follows-the-force",
+        "momentum-has-no-direction",
+        "momentum-is-half-mv-squared",
+        "momentum-squares-the-velocity",
+        "parked-object-has-momentum"
+      ]
+    },
+    {
+      "id": "ch8-u5-lab-1",
+      "type": "motionLab",
+      "section": "s.u5",
+      "title": "a.ch8-u5-lab-1.title",
+      "blurb": "a.ch8-u5-lab-1.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 69,
+        "section": "8.4.1"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch8.u5.lab.predict.prompt",
+          "options": [
+            "ch8.u5.lab.predict.o0",
+            "ch8.u5.lab.predict.o1",
+            "ch8.u5.lab.predict.o2",
+            "ch8.u5.lab.predict.o3"
+          ],
+          "correct": 2
+        },
+        "observe": "ch8.u5.lab.observe",
+        "explain": "ch8.u5.lab.explain"
+      },
+      "config": {
+        "track": "flat",
+        "massKg": 1.0,
+        "initialVelocity": 0.0,
+        "frictionN": 0.0,
+        "graphs": [
+          "distanceTime",
+          "velocityTime"
+        ],
+        "handles": [
+          "force",
+          "mass"
+        ],
+        "forceRangeN": [
+          0.0,
+          12.0
+        ],
+        "massRangeKg": [
+          0.5,
+          6.0
+        ],
+        "runSeconds": 6.0,
+        "tasks": [
+          {
+            "id": "t1",
+            "label": "ch8.u5.lab.t1.label",
+            "asks": "ch8.u5.lab.t1.asks",
+            "setForce": 3.0,
+            "setMass": 1.0
+          },
+          {
+            "id": "t2",
+            "label": "ch8.u5.lab.t2.label",
+            "asks": "ch8.u5.lab.t2.asks",
+            "setForce": 6.0,
+            "setMass": 1.0
+          },
+          {
+            "id": "t3",
+            "label": "ch8.u5.lab.t3.label",
+            "asks": "ch8.u5.lab.t3.asks",
+            "setForce": 6.0,
+            "setMass": 2.0
+          }
+        ],
+        "closing": "ch8.u5.lab.closing"
+      }
+    },
+    {
+      "id": "ch8-u5-read-2",
+      "type": "explainer",
+      "section": "s.u5",
+      "title": "a.ch8-u5-read-2.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 70,
+        "section": "8.4.1"
+      },
+      "config": {
+        "text": "ch8.u5.catching"
+      }
+    },
+    {
+      "id": "ch8-u5-calc-3",
+      "type": "calculate",
+      "section": "s.u5",
+      "title": "a.ch8-u5-calc-3.title",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 71,
+        "section": "8.4.1"
+      },
+      "config": {
+        "items": [
+          {
+            "prompt": "ch8.u5.calc.c0.prompt",
+            "given": [
+              "ch8.u5.calc.c0.g0",
+              "ch8.u5.calc.c0.g1",
+              "ch8.u5.calc.c0.g2",
+              "ch8.u5.calc.c0.g3"
+            ],
+            "steps": [
+              "ch8.u5.calc.c0.s0",
+              "ch8.u5.calc.c0.s1"
+            ],
+            "answer": "10",
+            "unit": "N",
+            "trap": "ch8.u5.calc.c0.trap"
+          },
+          {
+            "prompt": "ch8.u5.calc.c1.prompt",
+            "given": [
+              "ch8.u5.calc.c1.g0",
+              "ch8.u5.calc.c1.g1"
+            ],
+            "steps": [
+              "ch8.u5.calc.c1.s0",
+              "ch8.u5.calc.c1.s1",
+              "ch8.u5.calc.c1.s2",
+              "ch8.u5.calc.c1.s3"
+            ],
+            "answer": "10",
+            "unit": "N",
+            "trap": "ch8.u5.calc.c1.trap"
+          },
+          {
+            "prompt": "ch8.u5.calc.c2.prompt",
+            "given": [
+              "ch8.u5.calc.c2.g0",
+              "ch8.u5.calc.c2.g1",
+              "ch8.u5.calc.c2.g2",
+              "ch8.u5.calc.c2.g3"
+            ],
+            "steps": [
+              "ch8.u5.calc.c2.s0",
+              "ch8.u5.calc.c2.s1"
+            ],
+            "answer": "-7500",
+            "unit": "N",
+            "trap": "ch8.u5.calc.c2.trap"
+          },
+          {
+            "prompt": "ch8.u5.calc.c3.prompt",
+            "given": [
+              "ch8.u5.calc.c3.g0",
+              "ch8.u5.calc.c3.g1",
+              "ch8.u5.calc.c3.g2"
+            ],
+            "steps": [
+              "ch8.u5.calc.c3.s0",
+              "ch8.u5.calc.c3.s1",
+              "ch8.u5.calc.c3.s2"
+            ],
+            "answer": "6.67",
+            "unit": "m/s²",
+            "tolerance": 0.02,
+            "trap": "ch8.u5.calc.c3.trap"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch8-u5-calc-3.negative.q",
+          "answer": "ask.ch8-u5-calc-3.negative.a"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u5-quiz-4",
+      "type": "quiz",
+      "section": "s.u5",
+      "title": "a.ch8-u5-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 74
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch8.u5.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch8.u5.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch8.u5.quiz.q0.f0"
+              },
+              {
+                "text": "ch8.u5.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch8.u5.quiz.q0.f1",
+                "misconception": "force-gives-velocity"
+              },
+              {
+                "text": "ch8.u5.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch8.u5.quiz.q0.f2",
+                "misconception": "newton-uses-grams"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u5.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch8.u5.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch8.u5.quiz.q1.f0"
+              },
+              {
+                "text": "ch8.u5.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch8.u5.quiz.q1.f1",
+                "misconception": "heavier-accelerates-more"
+              },
+              {
+                "text": "ch8.u5.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch8.u5.quiz.q1.f2",
+                "misconception": "same-force-same-acceleration"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u5.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch8.u5.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch8.u5.quiz.q2.f0"
+              },
+              {
+                "text": "ch8.u5.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch8.u5.quiz.q2.f1",
+                "misconception": "catching-reduces-momentum"
+              },
+              {
+                "text": "ch8.u5.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch8.u5.quiz.q2.f2",
+                "misconception": "catching-slows-the-ball-early"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "catching-reduces-momentum",
+        "catching-slows-the-ball-early",
+        "force-gives-velocity",
+        "heavier-accelerates-more",
+        "newton-uses-grams",
+        "same-force-same-acceleration"
+      ]
+    },
+    {
+      "id": "ch8-u6-lab-1",
+      "type": "recoilLab",
+      "section": "s.u6",
+      "title": "a.ch8-u6-lab-1.title",
+      "blurb": "a.ch8-u6-lab-1.blurb",
+      "minutes": 14,
+      "sourceRef": {
+        "page": 72,
+        "section": "8.5"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch8.u6.lab.predict.prompt",
+          "options": [
+            "ch8.u6.lab.predict.o0",
+            "ch8.u6.lab.predict.o1",
+            "ch8.u6.lab.predict.o2",
+            "ch8.u6.lab.predict.o3"
+          ],
+          "correct": 2
+        },
+        "observe": "ch8.u6.lab.observe",
+        "explain": "ch8.u6.lab.explain"
+      },
+      "config": {
+        "labelA": "ch8.u6.lab.a",
+        "labelB": "ch8.u6.lab.b",
+        "massAKg": 4.0,
+        "massBKg": 4.0,
+        "forceN": 6.0,
+        "pushSeconds": 0.5,
+        "massRangeAKg": [
+          0.2,
+          20.0
+        ],
+        "massRangeBKg": [
+          0.2,
+          20.0
+        ],
+        "handles": [
+          "massA",
+          "massB"
+        ],
+        "readouts": [
+          "force",
+          "velocity",
+          "momentum"
+        ],
+        "tasks": [
+          {
+            "id": "t1",
+            "label": "ch8.u6.lab.t1.label",
+            "asks": "ch8.u6.lab.t1.asks",
+            "setMassAKg": 4.0,
+            "setMassBKg": 4.0
+          },
+          {
+            "id": "t2",
+            "label": "ch8.u6.lab.t2.label",
+            "asks": "ch8.u6.lab.t2.asks",
+            "setMassAKg": 8.0,
+            "setMassBKg": 2.0
+          },
+          {
+            "id": "t3",
+            "label": "ch8.u6.lab.t3.label",
+            "asks": "ch8.u6.lab.t3.asks",
+            "setMassAKg": 20.0,
+            "setMassBKg": 0.2
+          }
+        ],
+        "closing": "ch8.u6.lab.closing"
+      },
+      "followUps": [
+        {
+          "question": "ask.ch8-u6-lab-1.gun.q",
+          "answer": "ask.ch8-u6-lab-1.gun.a"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u6-read-2",
+      "type": "explainer",
+      "section": "s.u6",
+      "title": "a.ch8-u6-read-2.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 72,
+        "section": "8.5"
+      },
+      "config": {
+        "text": "ch8.u6.third"
+      }
+    },
+    {
+      "id": "ch8-u6-do-3",
+      "type": "experiment",
+      "section": "s.u6",
+      "title": "a.ch8-u6-do-3.title",
+      "blurb": "a.ch8-u6-do-3.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 73,
+        "section": "8.5",
+        "label": "Activity 8.4"
+      },
+      "wrap": {
+        "predict": {
+          "prompt": "ch8.u6.bag.predict.prompt",
+          "options": [
+            "ch8.u6.bag.predict.o0",
+            "ch8.u6.bag.predict.o1",
+            "ch8.u6.bag.predict.o2",
+            "ch8.u6.bag.predict.o3"
+          ],
+          "correct": 2
+        },
+        "observe": "ch8.u6.bag.observe",
+        "explain": "ch8.u6.bag.explain"
+      },
+      "config": {
+        "equipment": [
+          "two carts, trolleys or skateboards that roll easily",
+          "a bag of sand or any heavy bag",
+          "chalk",
+          "a smooth level floor and plenty of room"
+        ],
+        "steps": "ch8.u6.do.steps",
+        "watchFor": "ch8.u6.do.watch",
+        "supervision": true,
+        "printable": true
+      }
+    },
+    {
+      "id": "ch8-u6-sort-4",
+      "type": "sortBins",
+      "section": "s.u6",
+      "title": "a.ch8-u6-sort-4.title",
+      "blurb": "a.ch8-u6-sort-4.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 72,
+        "section": "8.5"
+      },
+      "config": {
+        "bins": [
+          "ch8.u6.sort.bin.0",
+          "ch8.u6.sort.bin.1"
+        ],
+        "items": [
+          {
+            "label": "ch8.u6.sort.i0.label",
+            "bin": "ch8.u6.sort.bin.0",
+            "why": "ch8.u6.sort.i0.why"
+          },
+          {
+            "label": "ch8.u6.sort.i1.label",
+            "bin": "ch8.u6.sort.bin.1",
+            "why": "ch8.u6.sort.i1.why",
+            "tricky": true
+          },
+          {
+            "label": "ch8.u6.sort.i2.label",
+            "bin": "ch8.u6.sort.bin.0",
+            "why": "ch8.u6.sort.i2.why"
+          },
+          {
+            "label": "ch8.u6.sort.i3.label",
+            "bin": "ch8.u6.sort.bin.1",
+            "why": "ch8.u6.sort.i3.why",
+            "tricky": true
+          },
+          {
+            "label": "ch8.u6.sort.i4.label",
+            "bin": "ch8.u6.sort.bin.0",
+            "why": "ch8.u6.sort.i4.why"
+          },
+          {
+            "label": "ch8.u6.sort.i5.label",
+            "bin": "ch8.u6.sort.bin.0",
+            "why": "ch8.u6.sort.i5.why"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch8-u6-quiz-5",
+      "type": "quiz",
+      "section": "s.u6",
+      "title": "a.ch8-u6-quiz-5.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 75
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch8.u6.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch8.u6.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch8.u6.quiz.q0.f0"
+              },
+              {
+                "text": "ch8.u6.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch8.u6.quiz.q0.f1",
+                "misconception": "action-and-reaction-cancel"
+              },
+              {
+                "text": "ch8.u6.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch8.u6.quiz.q0.f2",
+                "misconception": "heavier-object-wins-the-pair"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u6.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch8.u6.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch8.u6.quiz.q1.f0"
+              },
+              {
+                "text": "ch8.u6.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch8.u6.quiz.q1.f1",
+                "misconception": "bigger-acceleration-means-bigger-force"
+              },
+              {
+                "text": "ch8.u6.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch8.u6.quiz.q1.f2",
+                "misconception": "heavier-object-wins-the-pair"
+              }
+            ]
+          },
+          {
+            "prompt": "ch8.u6.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch8.u6.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch8.u6.quiz.q2.f0"
+              },
+              {
+                "text": "ch8.u6.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch8.u6.quiz.q2.f1",
+                "misconception": "muscles-push-you-forward"
+              },
+              {
+                "text": "ch8.u6.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch8.u6.quiz.q2.f2",
+                "misconception": "you-push-yourself"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "action-and-reaction-cancel",
+        "bigger-acceleration-means-bigger-force",
+        "heavier-object-wins-the-pair",
+        "muscles-push-you-forward",
+        "you-push-yourself"
+      ]
+    }
+  ],
+  "paths": [
+    {
+      "id": "guided",
+      "title": "path.guided.title",
+      "blurb": "path.guided.blurb",
+      "artifacts": [
+        "ch8-u1-read-1",
+        "ch8-u1-lab-2",
+        "ch8-u1-draw-3",
+        "ch8-u1-sort-4",
+        "ch8-u1-quiz-5",
+        "ch8-u2-read-1",
+        "ch8-u2-do-2",
+        "ch8-u2-sort-3",
+        "ch8-u2-quiz-4",
+        "ch8-u3-read-1",
+        "ch8-u3-do-2",
+        "ch8-u3-sort-3",
+        "ch8-u3-quiz-4",
+        "ch8-u4-read-1",
+        "ch8-u4-calc-2",
+        "ch8-u4-quiz-3",
+        "ch8-u5-lab-1",
+        "ch8-u5-read-2",
+        "ch8-u5-calc-3",
+        "ch8-u5-quiz-4",
+        "ch8-u6-lab-1",
+        "ch8-u6-read-2",
+        "ch8-u6-do-3",
+        "ch8-u6-sort-4",
+        "ch8-u6-quiz-5"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "id": "force",
+      "definition": "gloss.force",
+      "seeAlso": [
+        "net-force",
+        "friction",
+        "newton"
+      ]
+    },
+    {
+      "id": "balanced-forces",
+      "definition": "gloss.balanced-forces",
+      "seeAlso": [
+        "unbalanced-forces",
+        "net-force"
+      ]
+    },
+    {
+      "id": "unbalanced-forces",
+      "definition": "gloss.unbalanced-forces",
+      "seeAlso": [
+        "balanced-forces",
+        "net-force",
+        "acceleration"
+      ]
+    },
+    {
+      "id": "net-force",
+      "definition": "gloss.net-force",
+      "seeAlso": [
+        "balanced-forces",
+        "unbalanced-forces"
+      ]
+    },
+    {
+      "id": "friction",
+      "definition": "gloss.friction",
+      "seeAlso": [
+        "force",
+        "unbalanced-forces"
+      ]
+    },
+    {
+      "id": "inertia",
+      "definition": "gloss.inertia",
+      "seeAlso": [
+        "mass",
+        "first-law"
+      ]
+    },
+    {
+      "id": "mass",
+      "definition": "gloss.mass",
+      "seeAlso": [
+        "inertia",
+        "momentum",
+        "second-law"
+      ]
+    },
+    {
+      "id": "first-law",
+      "definition": "gloss.first-law",
+      "seeAlso": [
+        "inertia",
+        "unbalanced-forces"
+      ]
+    },
+    {
+      "id": "momentum",
+      "definition": "gloss.momentum",
+      "seeAlso": [
+        "mass",
+        "second-law",
+        "acceleration"
+      ]
+    },
+    {
+      "id": "second-law",
+      "definition": "gloss.second-law",
+      "seeAlso": [
+        "momentum",
+        "newton",
+        "acceleration"
+      ]
+    },
+    {
+      "id": "newton",
+      "definition": "gloss.newton",
+      "seeAlso": [
+        "force",
+        "second-law"
+      ]
+    },
+    {
+      "id": "acceleration",
+      "definition": "gloss.acceleration",
+      "seeAlso": [
+        "unbalanced-forces",
+        "second-law"
+      ]
+    },
+    {
+      "id": "third-law",
+      "definition": "gloss.third-law",
+      "seeAlso": [
+        "action-reaction",
+        "force"
+      ]
+    },
+    {
+      "id": "action-reaction",
+      "definition": "gloss.action-reaction",
+      "seeAlso": [
+        "third-law",
+        "balanced-forces"
+      ]
+    }
+  ]
+}

@@ -224,6 +224,37 @@
       "audio": null,
       "sizeBytes": 160880,
       "textSizeBytes": 160880
+    },
+    {
+      "id": "ktbs.class9.science.ch8",
+      "dir": "ktbs-class9-science-ch8",
+      "version": "1.0.0",
+      "format": "paath/1",
+      "title": "Force and Laws of Motion",
+      "blurb": "Nothing needs a push to keep going. Working out what that leaves took two thousand years.",
+      "subject": "Science",
+      "level": "Class 9",
+      "languages": [
+        "en",
+        "kn"
+      ],
+      "estimatedMinutes": 197,
+      "requires": {
+        "minPlayer": 1,
+        "artifactTypes": [
+          "calculate",
+          "drawAlong",
+          "experiment",
+          "explainer",
+          "motionLab",
+          "quiz",
+          "recoilLab",
+          "sortBins"
+        ]
+      },
+      "audio": null,
+      "sizeBytes": 117896,
+      "textSizeBytes": 117896
     }
   ]
 }
