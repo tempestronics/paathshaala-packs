@@ -99,6 +99,35 @@
       "textSizeBytes": 112818
     },
     {
+      "id": "ktbs.class9.science.ch12",
+      "dir": "ktbs-class9-science-ch12",
+      "version": "1.0.0",
+      "format": "paath/1",
+      "title": "Improvement in Food Resources",
+      "blurb": "A billion people, no new land, and every decision a farmer makes about seed, soil, water and livestock.",
+      "subject": "Science",
+      "level": "Class 9",
+      "languages": [
+        "en",
+        "kn"
+      ],
+      "estimatedMinutes": 202,
+      "requires": {
+        "minPlayer": 1,
+        "artifactTypes": [
+          "challenge",
+          "classifyTree",
+          "experiment",
+          "explainer",
+          "quiz",
+          "sortBins"
+        ]
+      },
+      "audio": null,
+      "sizeBytes": 127689,
+      "textSizeBytes": 127689
+    },
+    {
       "id": "ktbs.class9.science.ch2",
       "dir": "ktbs-class9-science-ch2",
       "version": "1.0.0",

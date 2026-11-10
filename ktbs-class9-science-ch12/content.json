@@ -1,0 +1,1968 @@
+{
+  "sections": [
+    {
+      "id": "s.u1",
+      "title": "s.u1.title",
+      "blurb": "s.u1.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u1.q1.ask",
+          "answer": "recap.s.u1.q1.answer",
+          "listenFor": "recap.s.u1.q1.listenFor",
+          "sourceRef": {
+            "page": 64
+          }
+        },
+        {
+          "ask": "recap.s.u1.q2.ask",
+          "answer": "recap.s.u1.q2.answer",
+          "listenFor": "recap.s.u1.q2.listenFor",
+          "sourceRef": {
+            "page": 65,
+            "section": "12.1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u2",
+      "title": "s.u2.title",
+      "blurb": "s.u2.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u2.q1.ask",
+          "answer": "recap.s.u2.q1.answer",
+          "listenFor": "recap.s.u2.q1.listenFor",
+          "sourceRef": {
+            "page": 65,
+            "section": "12.1.1"
+          }
+        },
+        {
+          "ask": "recap.s.u2.q2.ask",
+          "answer": "recap.s.u2.q2.answer",
+          "listenFor": "recap.s.u2.q2.listenFor",
+          "sourceRef": {
+            "page": 66,
+            "section": "12.1.1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u3",
+      "title": "s.u3.title",
+      "blurb": "s.u3.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u3.q1.ask",
+          "answer": "recap.s.u3.q1.answer",
+          "listenFor": "recap.s.u3.q1.listenFor",
+          "sourceRef": {
+            "page": 67,
+            "section": "12.1.2"
+          }
+        },
+        {
+          "ask": "recap.s.u3.q2.ask",
+          "answer": "recap.s.u3.q2.answer",
+          "listenFor": "recap.s.u3.q2.listenFor",
+          "sourceRef": {
+            "page": 68,
+            "section": "12.1.2"
+          }
+        }
+      ],
+      "memoryAid": {
+        "technique": "acronym",
+        "word": "LOOSE",
+        "meaning": "aid.s.u3.meaning",
+        "contrast": {
+          "a": "aid.s.u3.a",
+          "b": "aid.s.u3.b"
+        },
+        "letters": [
+          {
+            "letter": "L",
+            "property": "aid.s.u3.0.property",
+            "a": "aid.s.u3.0.a",
+            "b": "aid.s.u3.0.b"
+          },
+          {
+            "letter": "O",
+            "property": "aid.s.u3.1.property",
+            "a": "aid.s.u3.1.a",
+            "b": "aid.s.u3.1.b"
+          },
+          {
+            "letter": "O",
+            "property": "aid.s.u3.2.property",
+            "a": "aid.s.u3.2.a",
+            "b": "aid.s.u3.2.b"
+          },
+          {
+            "letter": "S",
+            "property": "aid.s.u3.3.property",
+            "a": "aid.s.u3.3.a",
+            "b": "aid.s.u3.3.b"
+          },
+          {
+            "letter": "E",
+            "property": "aid.s.u3.4.property",
+            "a": "aid.s.u3.4.a",
+            "b": "aid.s.u3.4.b"
+          }
+        ]
+      }
+    },
+    {
+      "id": "s.u4",
+      "title": "s.u4.title",
+      "blurb": "s.u4.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u4.q1.ask",
+          "answer": "recap.s.u4.q1.answer",
+          "listenFor": "recap.s.u4.q1.listenFor",
+          "sourceRef": {
+            "page": 69,
+            "section": "12.1.2"
+          }
+        },
+        {
+          "ask": "recap.s.u4.q2.ask",
+          "answer": "recap.s.u4.q2.answer",
+          "listenFor": "recap.s.u4.q2.listenFor",
+          "sourceRef": {
+            "page": 69,
+            "section": "12.1.3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u5",
+      "title": "s.u5.title",
+      "blurb": "s.u5.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u5.q1.ask",
+          "answer": "recap.s.u5.q1.answer",
+          "listenFor": "recap.s.u5.q1.listenFor",
+          "sourceRef": {
+            "page": 71,
+            "section": "12.2.1"
+          }
+        },
+        {
+          "ask": "recap.s.u5.q2.ask",
+          "answer": "recap.s.u5.q2.answer",
+          "listenFor": "recap.s.u5.q2.listenFor",
+          "sourceRef": {
+            "page": 72,
+            "section": "12.2.2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s.u6",
+      "title": "s.u6.title",
+      "blurb": "s.u6.blurb",
+      "recap": [
+        {
+          "ask": "recap.s.u6.q1.ask",
+          "answer": "recap.s.u6.q1.answer",
+          "listenFor": "recap.s.u6.q1.listenFor",
+          "sourceRef": {
+            "page": 73,
+            "section": "12.2.3"
+          }
+        },
+        {
+          "ask": "recap.s.u6.q2.ask",
+          "answer": "recap.s.u6.q2.answer",
+          "listenFor": "recap.s.u6.q2.listenFor",
+          "sourceRef": {
+            "page": 73,
+            "section": "12.2.3"
+          }
+        }
+      ]
+    }
+  ],
+  "trees": [
+    {
+      "id": "cross",
+      "root": "cross",
+      "nodes": [
+        {
+          "id": "cross",
+          "label": "tree.cross.root.label",
+          "question": "tree.cross.root.q",
+          "options": [
+            {
+              "label": "tree.cross.root.o0",
+              "goes": "intervarietal"
+            },
+            {
+              "label": "tree.cross.root.o1",
+              "goes": "interspecific"
+            },
+            {
+              "label": "tree.cross.root.o2",
+              "goes": "intergeneric"
+            }
+          ]
+        },
+        {
+          "id": "intervarietal",
+          "label": "tree.cross.intervarietal.label"
+        },
+        {
+          "id": "interspecific",
+          "label": "tree.cross.interspecific.label"
+        },
+        {
+          "id": "intergeneric",
+          "label": "tree.cross.intergeneric.label"
+        }
+      ]
+    }
+  ],
+  "misconceptions": [
+    {
+      "id": "law-stops-new-farmland",
+      "statement": "mis.law-stops-new-farmland.statement",
+      "correction": "mis.law-stops-new-farmland.correction"
+    },
+    {
+      "id": "land-is-available",
+      "statement": "mis.land-is-available.statement",
+      "correction": "mis.land-is-available.correction"
+    },
+    {
+      "id": "sustainable-means-maximum",
+      "statement": "mis.sustainable-means-maximum.statement",
+      "correction": "mis.sustainable-means-maximum.correction"
+    },
+    {
+      "id": "sustainable-means-no-machines",
+      "statement": "mis.sustainable-means-no-machines.statement",
+      "correction": "mis.sustainable-means-no-machines.correction"
+    },
+    {
+      "id": "storage-ends-hunger",
+      "statement": "mis.storage-ends-hunger.statement",
+      "correction": "mis.storage-ends-hunger.correction"
+    },
+    {
+      "id": "stored-grain-is-useless",
+      "statement": "mis.stored-grain-is-useless.statement",
+      "correction": "mis.stored-grain-is-useless.correction"
+    },
+    {
+      "id": "hybridisation-is-mixed-cropping",
+      "statement": "mis.hybridisation-is-mixed-cropping.statement",
+      "correction": "mis.hybridisation-is-mixed-cropping.correction"
+    },
+    {
+      "id": "hybridisation-is-fertilising",
+      "statement": "mis.hybridisation-is-fertilising.statement",
+      "correction": "mis.hybridisation-is-fertilising.correction"
+    },
+    {
+      "id": "dwarf-saves-water",
+      "statement": "mis.dwarf-saves-water.statement",
+      "correction": "mis.dwarf-saves-water.correction"
+    },
+    {
+      "id": "dwarf-is-for-visibility",
+      "statement": "mis.dwarf-is-for-visibility.statement",
+      "correction": "mis.dwarf-is-for-visibility.correction"
+    },
+    {
+      "id": "insects-are-abiotic",
+      "statement": "mis.insects-are-abiotic.statement",
+      "correction": "mis.insects-are-abiotic.correction"
+    },
+    {
+      "id": "disease-is-abiotic",
+      "statement": "mis.disease-is-abiotic.statement",
+      "correction": "mis.disease-is-abiotic.correction"
+    },
+    {
+      "id": "macro-means-large-molecule",
+      "statement": "mis.macro-means-large-molecule.statement",
+      "correction": "mis.macro-means-large-molecule.correction"
+    },
+    {
+      "id": "macro-means-large-plants",
+      "statement": "mis.macro-means-large-plants.statement",
+      "correction": "mis.macro-means-large-plants.correction"
+    },
+    {
+      "id": "micro-means-optional",
+      "statement": "mis.micro-means-optional.statement",
+      "correction": "mis.micro-means-optional.correction"
+    },
+    {
+      "id": "only-manure-has-nitrogen",
+      "statement": "mis.only-manure-has-nitrogen.statement",
+      "correction": "mis.only-manure-has-nitrogen.correction"
+    },
+    {
+      "id": "manure-acts-faster",
+      "statement": "mis.manure-acts-faster.statement",
+      "correction": "mis.manure-acts-faster.correction"
+    },
+    {
+      "id": "fertiliser-is-always-better",
+      "statement": "mis.fertiliser-is-always-better.statement",
+      "correction": "mis.fertiliser-is-always-better.correction"
+    },
+    {
+      "id": "check-dam-is-seasonal",
+      "statement": "mis.check-dam-is-seasonal.statement",
+      "correction": "mis.check-dam-is-seasonal.correction"
+    },
+    {
+      "id": "check-dam-replaces-irrigation",
+      "statement": "mis.check-dam-replaces-irrigation.statement",
+      "correction": "mis.check-dam-replaces-irrigation.correction"
+    },
+    {
+      "id": "mixed-cropping-is-rotation",
+      "statement": "mis.mixed-cropping-is-rotation.statement",
+      "correction": "mis.mixed-cropping-is-rotation.correction"
+    },
+    {
+      "id": "intercropping-is-one-crop",
+      "statement": "mis.intercropping-is-one-crop.statement",
+      "correction": "mis.intercropping-is-one-crop.correction"
+    },
+    {
+      "id": "groundnut-is-a-pulse",
+      "statement": "mis.groundnut-is-a-pulse.statement",
+      "correction": "mis.groundnut-is-a-pulse.correction"
+    },
+    {
+      "id": "pests-eat-seed-flower-root",
+      "statement": "mis.pests-eat-seed-flower-root.statement",
+      "correction": "mis.pests-eat-seed-flower-root.correction"
+    },
+    {
+      "id": "pests-spread-pathogens",
+      "statement": "mis.pests-spread-pathogens.statement",
+      "correction": "mis.pests-spread-pathogens.correction"
+    },
+    {
+      "id": "pesticides-fail-on-weeds",
+      "statement": "mis.pesticides-fail-on-weeds.statement",
+      "correction": "mis.pesticides-fail-on-weeds.correction"
+    },
+    {
+      "id": "prevention-is-quicker",
+      "statement": "mis.prevention-is-quicker.statement",
+      "correction": "mis.prevention-is-quicker.correction"
+    },
+    {
+      "id": "milch-means-cow",
+      "statement": "mis.milch-means-cow.statement",
+      "correction": "mis.milch-means-cow.correction"
+    },
+    {
+      "id": "milch-means-exotic",
+      "statement": "mis.milch-means-exotic.statement",
+      "correction": "mis.milch-means-exotic.correction"
+    },
+    {
+      "id": "crossbreeding-is-for-size",
+      "statement": "mis.crossbreeding-is-for-size.statement",
+      "correction": "mis.crossbreeding-is-for-size.correction"
+    },
+    {
+      "id": "local-breeds-give-no-milk",
+      "statement": "mis.local-breeds-give-no-milk.statement",
+      "correction": "mis.local-breeds-give-no-milk.correction"
+    },
+    {
+      "id": "layers-and-broilers-by-sex",
+      "statement": "mis.layers-and-broilers-by-sex.statement",
+      "correction": "mis.layers-and-broilers-by-sex.correction"
+    },
+    {
+      "id": "layers-and-broilers-by-origin",
+      "statement": "mis.layers-and-broilers-by-origin.statement",
+      "correction": "mis.layers-and-broilers-by-origin.correction"
+    },
+    {
+      "id": "capture-means-marine",
+      "statement": "mis.capture-means-marine.statement",
+      "correction": "mis.capture-means-marine.correction"
+    },
+    {
+      "id": "capture-is-about-equipment",
+      "statement": "mis.capture-is-about-equipment.statement",
+      "correction": "mis.capture-is-about-equipment.correction"
+    },
+    {
+      "id": "composite-is-for-breeding",
+      "statement": "mis.composite-is-for-breeding.statement",
+      "correction": "mis.composite-is-for-breeding.correction"
+    },
+    {
+      "id": "composite-is-for-market",
+      "statement": "mis.composite-is-for-market.statement",
+      "correction": "mis.composite-is-for-market.correction"
+    },
+    {
+      "id": "pasturage-is-the-apiary",
+      "statement": "mis.pasturage-is-the-apiary.statement",
+      "correction": "mis.pasturage-is-the-apiary.correction"
+    },
+    {
+      "id": "pasturage-is-supplied-feed",
+      "statement": "mis.pasturage-is-supplied-feed.statement",
+      "correction": "mis.pasturage-is-supplied-feed.correction"
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "ch12-u1-read-1",
+      "type": "explainer",
+      "section": "s.u1",
+      "title": "a.ch12-u1-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 64
+      },
+      "config": {
+        "text": "ch12.u1.problem"
+      }
+    },
+    {
+      "id": "ch12-u1-sort-2",
+      "type": "sortBins",
+      "section": "s.u1",
+      "title": "a.ch12-u1-sort-2.title",
+      "blurb": "a.ch12-u1-sort-2.blurb",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 64,
+        "section": "12.1"
+      },
+      "config": {
+        "bins": [
+          "ch12.u1.sort.bin.0",
+          "ch12.u1.sort.bin.1",
+          "ch12.u1.sort.bin.2",
+          "ch12.u1.sort.bin.3",
+          "ch12.u1.sort.bin.4"
+        ],
+        "items": [
+          {
+            "label": "ch12.u1.sort.i0.label",
+            "bin": "ch12.u1.sort.bin.0",
+            "why": "ch12.u1.sort.i0.why"
+          },
+          {
+            "label": "ch12.u1.sort.i1.label",
+            "bin": "ch12.u1.sort.bin.1",
+            "why": "ch12.u1.sort.i1.why"
+          },
+          {
+            "label": "ch12.u1.sort.i2.label",
+            "bin": "ch12.u1.sort.bin.2",
+            "why": "ch12.u1.sort.i2.why"
+          },
+          {
+            "label": "ch12.u1.sort.i3.label",
+            "bin": "ch12.u1.sort.bin.3",
+            "why": "ch12.u1.sort.i3.why"
+          },
+          {
+            "label": "ch12.u1.sort.i4.label",
+            "bin": "ch12.u1.sort.bin.4",
+            "why": "ch12.u1.sort.i4.why",
+            "tricky": true
+          },
+          {
+            "label": "ch12.u1.sort.i5.label",
+            "bin": "ch12.u1.sort.bin.2",
+            "why": "ch12.u1.sort.i5.why",
+            "tricky": true
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch12-u1-sort-2.why.q",
+          "answer": "ask.ch12-u1-sort-2.why.a"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u1-quiz-3",
+      "type": "quiz",
+      "section": "s.u1",
+      "title": "a.ch12-u1-quiz-3.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 75
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch12.u1.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch12.u1.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch12.u1.quiz.q0.f0"
+              },
+              {
+                "text": "ch12.u1.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch12.u1.quiz.q0.f1",
+                "misconception": "law-stops-new-farmland"
+              },
+              {
+                "text": "ch12.u1.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch12.u1.quiz.q0.f2",
+                "misconception": "land-is-available"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u1.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch12.u1.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch12.u1.quiz.q1.f0"
+              },
+              {
+                "text": "ch12.u1.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch12.u1.quiz.q1.f1",
+                "misconception": "sustainable-means-maximum"
+              },
+              {
+                "text": "ch12.u1.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch12.u1.quiz.q1.f2",
+                "misconception": "sustainable-means-no-machines"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u1.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch12.u1.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch12.u1.quiz.q2.f0"
+              },
+              {
+                "text": "ch12.u1.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch12.u1.quiz.q2.f1",
+                "misconception": "storage-ends-hunger"
+              },
+              {
+                "text": "ch12.u1.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch12.u1.quiz.q2.f2",
+                "misconception": "stored-grain-is-useless"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "land-is-available",
+        "law-stops-new-farmland",
+        "storage-ends-hunger",
+        "stored-grain-is-useless",
+        "sustainable-means-maximum",
+        "sustainable-means-no-machines"
+      ]
+    },
+    {
+      "id": "ch12-u2-read-1",
+      "type": "explainer",
+      "section": "s.u2",
+      "title": "a.ch12-u2-read-1.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 65,
+        "section": "12.1.1"
+      },
+      "config": {
+        "text": "ch12.u2.variety"
+      }
+    },
+    {
+      "id": "ch12-u2-sort-2",
+      "type": "sortBins",
+      "section": "s.u2",
+      "title": "a.ch12-u2-sort-2.title",
+      "blurb": "a.ch12-u2-sort-2.blurb",
+      "minutes": 8,
+      "sourceRef": {
+        "page": 66,
+        "section": "12.1.1"
+      },
+      "config": {
+        "bins": [
+          "ch12.u2.sort.bin.0",
+          "ch12.u2.sort.bin.1"
+        ],
+        "items": [
+          {
+            "label": "ch12.u2.sort.i0.label",
+            "bin": "ch12.u2.sort.bin.0",
+            "why": "ch12.u2.sort.i0.why"
+          },
+          {
+            "label": "ch12.u2.sort.i1.label",
+            "bin": "ch12.u2.sort.bin.1",
+            "why": "ch12.u2.sort.i1.why"
+          },
+          {
+            "label": "ch12.u2.sort.i2.label",
+            "bin": "ch12.u2.sort.bin.0",
+            "why": "ch12.u2.sort.i2.why"
+          },
+          {
+            "label": "ch12.u2.sort.i3.label",
+            "bin": "ch12.u2.sort.bin.1",
+            "why": "ch12.u2.sort.i3.why"
+          },
+          {
+            "label": "ch12.u2.sort.i4.label",
+            "bin": "ch12.u2.sort.bin.1",
+            "why": "ch12.u2.sort.i4.why",
+            "tricky": true
+          },
+          {
+            "label": "ch12.u2.sort.i5.label",
+            "bin": "ch12.u2.sort.bin.0",
+            "why": "ch12.u2.sort.i5.why"
+          },
+          {
+            "label": "ch12.u2.sort.i6.label",
+            "bin": "ch12.u2.sort.bin.1",
+            "why": "ch12.u2.sort.i6.why"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch12-u2-tree-3",
+      "type": "classifyTree",
+      "section": "s.u2",
+      "title": "a.ch12-u2-tree-3.title",
+      "blurb": "a.ch12-u2-tree-3.blurb",
+      "minutes": 8,
+      "sourceRef": {
+        "page": 65,
+        "section": "12.1.1"
+      },
+      "config": {
+        "tree": "cross",
+        "mode": "forward",
+        "items": [
+          {
+            "id": "wheat",
+            "leaf": "intervarietal",
+            "label": "ch12.u2.item.wheat"
+          },
+          {
+            "id": "species",
+            "leaf": "interspecific",
+            "label": "ch12.u2.item.species"
+          },
+          {
+            "id": "genera",
+            "leaf": "intergeneric",
+            "label": "ch12.u2.item.genera"
+          },
+          {
+            "id": "rice",
+            "leaf": "intervarietal",
+            "label": "ch12.u2.item.rice"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch12-u2-tree-3.gm.q",
+          "answer": "ask.ch12-u2-tree-3.gm.a"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u2-quiz-4",
+      "type": "quiz",
+      "section": "s.u2",
+      "title": "a.ch12-u2-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 75
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch12.u2.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch12.u2.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch12.u2.quiz.q0.f0"
+              },
+              {
+                "text": "ch12.u2.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch12.u2.quiz.q0.f1",
+                "misconception": "hybridisation-is-mixed-cropping"
+              },
+              {
+                "text": "ch12.u2.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch12.u2.quiz.q0.f2",
+                "misconception": "hybridisation-is-fertilising"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u2.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch12.u2.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch12.u2.quiz.q1.f0"
+              },
+              {
+                "text": "ch12.u2.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch12.u2.quiz.q1.f1",
+                "misconception": "dwarf-saves-water"
+              },
+              {
+                "text": "ch12.u2.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch12.u2.quiz.q1.f2",
+                "misconception": "dwarf-is-for-visibility"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u2.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch12.u2.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch12.u2.quiz.q2.f0"
+              },
+              {
+                "text": "ch12.u2.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch12.u2.quiz.q2.f1",
+                "misconception": "insects-are-abiotic"
+              },
+              {
+                "text": "ch12.u2.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch12.u2.quiz.q2.f2",
+                "misconception": "disease-is-abiotic"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "disease-is-abiotic",
+        "dwarf-is-for-visibility",
+        "dwarf-saves-water",
+        "hybridisation-is-fertilising",
+        "hybridisation-is-mixed-cropping",
+        "insects-are-abiotic"
+      ]
+    },
+    {
+      "id": "ch12-u3-read-1",
+      "type": "explainer",
+      "section": "s.u3",
+      "title": "a.ch12-u3-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 66,
+        "section": "12.1.2"
+      },
+      "config": {
+        "text": "ch12.u3.nutrients"
+      }
+    },
+    {
+      "id": "ch12-u3-sort-2",
+      "type": "sortBins",
+      "section": "s.u3",
+      "title": "a.ch12-u3-sort-2.title",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 67,
+        "section": "12.1.2"
+      },
+      "config": {
+        "bins": [
+          "ch12.u3.sort.bin.0",
+          "ch12.u3.sort.bin.1",
+          "ch12.u3.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch12.u3.sort.i0.label",
+            "bin": "ch12.u3.sort.bin.0",
+            "why": "ch12.u3.sort.i0.why",
+            "tricky": true
+          },
+          {
+            "label": "ch12.u3.sort.i1.label",
+            "bin": "ch12.u3.sort.bin.0",
+            "why": "ch12.u3.sort.i1.why"
+          },
+          {
+            "label": "ch12.u3.sort.i2.label",
+            "bin": "ch12.u3.sort.bin.1",
+            "why": "ch12.u3.sort.i2.why"
+          },
+          {
+            "label": "ch12.u3.sort.i3.label",
+            "bin": "ch12.u3.sort.bin.1",
+            "why": "ch12.u3.sort.i3.why"
+          },
+          {
+            "label": "ch12.u3.sort.i4.label",
+            "bin": "ch12.u3.sort.bin.1",
+            "why": "ch12.u3.sort.i4.why"
+          },
+          {
+            "label": "ch12.u3.sort.i5.label",
+            "bin": "ch12.u3.sort.bin.2",
+            "why": "ch12.u3.sort.i5.why"
+          },
+          {
+            "label": "ch12.u3.sort.i6.label",
+            "bin": "ch12.u3.sort.bin.2",
+            "why": "ch12.u3.sort.i6.why"
+          },
+          {
+            "label": "ch12.u3.sort.i7.label",
+            "bin": "ch12.u3.sort.bin.0",
+            "why": "ch12.u3.sort.i7.why",
+            "tricky": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch12-u3-sort-3",
+      "type": "sortBins",
+      "section": "s.u3",
+      "title": "a.ch12-u3-sort-3.title",
+      "blurb": "a.ch12-u3-sort-3.blurb",
+      "minutes": 10,
+      "sourceRef": {
+        "page": 67,
+        "section": "12.1.2"
+      },
+      "config": {
+        "bins": [
+          "ch12.u3.sort2.bin.0",
+          "ch12.u3.sort2.bin.1"
+        ],
+        "items": [
+          {
+            "label": "ch12.u3.sort2.i0.label",
+            "bin": "ch12.u3.sort2.bin.0",
+            "why": "ch12.u3.sort2.i0.why"
+          },
+          {
+            "label": "ch12.u3.sort2.i1.label",
+            "bin": "ch12.u3.sort2.bin.1",
+            "why": "ch12.u3.sort2.i1.why"
+          },
+          {
+            "label": "ch12.u3.sort2.i2.label",
+            "bin": "ch12.u3.sort2.bin.0",
+            "why": "ch12.u3.sort2.i2.why"
+          },
+          {
+            "label": "ch12.u3.sort2.i3.label",
+            "bin": "ch12.u3.sort2.bin.1",
+            "why": "ch12.u3.sort2.i3.why"
+          },
+          {
+            "label": "ch12.u3.sort2.i4.label",
+            "bin": "ch12.u3.sort2.bin.0",
+            "why": "ch12.u3.sort2.i4.why",
+            "tricky": true
+          },
+          {
+            "label": "ch12.u3.sort2.i5.label",
+            "bin": "ch12.u3.sort2.bin.1",
+            "why": "ch12.u3.sort2.i5.why"
+          },
+          {
+            "label": "ch12.u3.sort2.i6.label",
+            "bin": "ch12.u3.sort2.bin.1",
+            "why": "ch12.u3.sort2.i6.why",
+            "tricky": true
+          },
+          {
+            "label": "ch12.u3.sort2.i7.label",
+            "bin": "ch12.u3.sort2.bin.0",
+            "why": "ch12.u3.sort2.i7.why"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch12-u3-sort-3.both.q",
+          "answer": "ask.ch12-u3-sort-3.both.a"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u3-read-4",
+      "type": "explainer",
+      "section": "s.u3",
+      "title": "a.ch12-u3-read-4.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 68,
+        "section": "12.1.2"
+      },
+      "config": {
+        "text": "ch12.u3.irrigation"
+      }
+    },
+    {
+      "id": "ch12-u3-quiz-5",
+      "type": "quiz",
+      "section": "s.u3",
+      "title": "a.ch12-u3-quiz-5.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 67,
+        "section": "12.1.2"
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch12.u3.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch12.u3.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch12.u3.quiz.q0.f0"
+              },
+              {
+                "text": "ch12.u3.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch12.u3.quiz.q0.f1",
+                "misconception": "macro-means-large-molecule"
+              },
+              {
+                "text": "ch12.u3.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch12.u3.quiz.q0.f2",
+                "misconception": "macro-means-large-plants"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u3.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch12.u3.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch12.u3.quiz.q1.f0"
+              },
+              {
+                "text": "ch12.u3.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch12.u3.quiz.q1.f1",
+                "misconception": "only-manure-has-nitrogen"
+              },
+              {
+                "text": "ch12.u3.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch12.u3.quiz.q1.f2",
+                "misconception": "manure-acts-faster"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u3.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch12.u3.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch12.u3.quiz.q2.f0"
+              },
+              {
+                "text": "ch12.u3.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch12.u3.quiz.q2.f1",
+                "misconception": "check-dam-is-seasonal"
+              },
+              {
+                "text": "ch12.u3.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch12.u3.quiz.q2.f2",
+                "misconception": "check-dam-replaces-irrigation"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "check-dam-is-seasonal",
+        "check-dam-replaces-irrigation",
+        "macro-means-large-molecule",
+        "macro-means-large-plants",
+        "manure-acts-faster",
+        "only-manure-has-nitrogen"
+      ]
+    },
+    {
+      "id": "ch12-u4-read-1",
+      "type": "explainer",
+      "section": "s.u4",
+      "title": "a.ch12-u4-read-1.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 68,
+        "section": "12.1.2"
+      },
+      "config": {
+        "text": "ch12.u4.patterns"
+      }
+    },
+    {
+      "id": "ch12-u4-sort-2",
+      "type": "sortBins",
+      "section": "s.u4",
+      "title": "a.ch12-u4-sort-2.title",
+      "blurb": "a.ch12-u4-sort-2.blurb",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 69,
+        "section": "12.1.2"
+      },
+      "config": {
+        "bins": [
+          "ch12.u4.sort.bin.0",
+          "ch12.u4.sort.bin.1",
+          "ch12.u4.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch12.u4.sort.i0.label",
+            "bin": "ch12.u4.sort.bin.0",
+            "why": "ch12.u4.sort.i0.why"
+          },
+          {
+            "label": "ch12.u4.sort.i1.label",
+            "bin": "ch12.u4.sort.bin.1",
+            "why": "ch12.u4.sort.i1.why"
+          },
+          {
+            "label": "ch12.u4.sort.i2.label",
+            "bin": "ch12.u4.sort.bin.2",
+            "why": "ch12.u4.sort.i2.why"
+          },
+          {
+            "label": "ch12.u4.sort.i3.label",
+            "bin": "ch12.u4.sort.bin.2",
+            "why": "ch12.u4.sort.i3.why"
+          },
+          {
+            "label": "ch12.u4.sort.i4.label",
+            "bin": "ch12.u4.sort.bin.1",
+            "why": "ch12.u4.sort.i4.why",
+            "tricky": true
+          },
+          {
+            "label": "ch12.u4.sort.i5.label",
+            "bin": "ch12.u4.sort.bin.0",
+            "why": "ch12.u4.sort.i5.why",
+            "tricky": true
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch12-u4-sort-2.whyrows.q",
+          "answer": "ask.ch12-u4-sort-2.whyrows.a"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u4-read-3",
+      "type": "explainer",
+      "section": "s.u4",
+      "title": "a.ch12-u4-read-3.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 69,
+        "section": "12.1.3"
+      },
+      "config": {
+        "text": "ch12.u4.protection"
+      }
+    },
+    {
+      "id": "ch12-u4-sort-4",
+      "type": "sortBins",
+      "section": "s.u4",
+      "title": "a.ch12-u4-sort-4.title",
+      "blurb": "a.ch12-u4-sort-4.blurb",
+      "minutes": 8,
+      "sourceRef": {
+        "page": 70,
+        "section": "12.1.3"
+      },
+      "config": {
+        "bins": [
+          "ch12.u4.sort2.bin.0",
+          "ch12.u4.sort2.bin.1"
+        ],
+        "items": [
+          {
+            "label": "ch12.u4.sort2.i0.label",
+            "bin": "ch12.u4.sort2.bin.0",
+            "why": "ch12.u4.sort2.i0.why"
+          },
+          {
+            "label": "ch12.u4.sort2.i1.label",
+            "bin": "ch12.u4.sort2.bin.1",
+            "why": "ch12.u4.sort2.i1.why"
+          },
+          {
+            "label": "ch12.u4.sort2.i2.label",
+            "bin": "ch12.u4.sort2.bin.0",
+            "why": "ch12.u4.sort2.i2.why",
+            "tricky": true
+          },
+          {
+            "label": "ch12.u4.sort2.i3.label",
+            "bin": "ch12.u4.sort2.bin.1",
+            "why": "ch12.u4.sort2.i3.why"
+          },
+          {
+            "label": "ch12.u4.sort2.i4.label",
+            "bin": "ch12.u4.sort2.bin.0",
+            "why": "ch12.u4.sort2.i4.why"
+          },
+          {
+            "label": "ch12.u4.sort2.i5.label",
+            "bin": "ch12.u4.sort2.bin.0",
+            "why": "ch12.u4.sort2.i5.why"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ch12-u4-quiz-5",
+      "type": "quiz",
+      "section": "s.u4",
+      "title": "a.ch12-u4-quiz-5.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 75
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch12.u4.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch12.u4.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch12.u4.quiz.q0.f0"
+              },
+              {
+                "text": "ch12.u4.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch12.u4.quiz.q0.f1",
+                "misconception": "mixed-cropping-is-rotation"
+              },
+              {
+                "text": "ch12.u4.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch12.u4.quiz.q0.f2",
+                "misconception": "intercropping-is-one-crop"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u4.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch12.u4.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch12.u4.quiz.q1.f0"
+              },
+              {
+                "text": "ch12.u4.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch12.u4.quiz.q1.f1",
+                "misconception": "pests-eat-seed-flower-root"
+              },
+              {
+                "text": "ch12.u4.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch12.u4.quiz.q1.f2",
+                "misconception": "pests-spread-pathogens"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u4.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch12.u4.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch12.u4.quiz.q2.f0"
+              },
+              {
+                "text": "ch12.u4.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch12.u4.quiz.q2.f1",
+                "misconception": "pesticides-fail-on-weeds"
+              },
+              {
+                "text": "ch12.u4.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch12.u4.quiz.q2.f2",
+                "misconception": "prevention-is-quicker"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "intercropping-is-one-crop",
+        "mixed-cropping-is-rotation",
+        "pesticides-fail-on-weeds",
+        "pests-eat-seed-flower-root",
+        "pests-spread-pathogens",
+        "prevention-is-quicker"
+      ]
+    },
+    {
+      "id": "ch12-u5-read-1",
+      "type": "explainer",
+      "section": "s.u5",
+      "title": "a.ch12-u5-read-1.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 70,
+        "section": "12.2.1"
+      },
+      "config": {
+        "text": "ch12.u5.cattle"
+      }
+    },
+    {
+      "id": "ch12-u5-sort-2",
+      "type": "sortBins",
+      "section": "s.u5",
+      "title": "a.ch12-u5-sort-2.title",
+      "blurb": "a.ch12-u5-sort-2.blurb",
+      "minutes": 9,
+      "sourceRef": {
+        "page": 71,
+        "section": "12.2.1"
+      },
+      "config": {
+        "bins": [
+          "ch12.u5.sort.bin.0",
+          "ch12.u5.sort.bin.1",
+          "ch12.u5.sort.bin.2"
+        ],
+        "items": [
+          {
+            "label": "ch12.u5.sort.i0.label",
+            "bin": "ch12.u5.sort.bin.0",
+            "why": "ch12.u5.sort.i0.why"
+          },
+          {
+            "label": "ch12.u5.sort.i1.label",
+            "bin": "ch12.u5.sort.bin.1",
+            "why": "ch12.u5.sort.i1.why"
+          },
+          {
+            "label": "ch12.u5.sort.i2.label",
+            "bin": "ch12.u5.sort.bin.2",
+            "why": "ch12.u5.sort.i2.why",
+            "tricky": true
+          },
+          {
+            "label": "ch12.u5.sort.i3.label",
+            "bin": "ch12.u5.sort.bin.1",
+            "why": "ch12.u5.sort.i3.why"
+          },
+          {
+            "label": "ch12.u5.sort.i4.label",
+            "bin": "ch12.u5.sort.bin.2",
+            "why": "ch12.u5.sort.i4.why"
+          },
+          {
+            "label": "ch12.u5.sort.i5.label",
+            "bin": "ch12.u5.sort.bin.0",
+            "why": "ch12.u5.sort.i5.why"
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch12-u5-sort-2.justexotic.q",
+          "answer": "ask.ch12-u5-sort-2.justexotic.a"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u5-read-3",
+      "type": "explainer",
+      "section": "s.u5",
+      "title": "a.ch12-u5-read-3.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 71,
+        "section": "12.2.2"
+      },
+      "config": {
+        "text": "ch12.u5.poultry"
+      }
+    },
+    {
+      "id": "ch12-u5-quiz-4",
+      "type": "quiz",
+      "section": "s.u5",
+      "title": "a.ch12-u5-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 75
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch12.u5.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch12.u5.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch12.u5.quiz.q0.f0"
+              },
+              {
+                "text": "ch12.u5.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch12.u5.quiz.q0.f1",
+                "misconception": "milch-means-cow"
+              },
+              {
+                "text": "ch12.u5.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch12.u5.quiz.q0.f2",
+                "misconception": "milch-means-exotic"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u5.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch12.u5.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch12.u5.quiz.q1.f0"
+              },
+              {
+                "text": "ch12.u5.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch12.u5.quiz.q1.f1",
+                "misconception": "crossbreeding-is-for-size"
+              },
+              {
+                "text": "ch12.u5.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch12.u5.quiz.q1.f2",
+                "misconception": "local-breeds-give-no-milk"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u5.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch12.u5.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch12.u5.quiz.q2.f0"
+              },
+              {
+                "text": "ch12.u5.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch12.u5.quiz.q2.f1",
+                "misconception": "layers-and-broilers-by-sex"
+              },
+              {
+                "text": "ch12.u5.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch12.u5.quiz.q2.f2",
+                "misconception": "layers-and-broilers-by-origin"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "crossbreeding-is-for-size",
+        "layers-and-broilers-by-origin",
+        "layers-and-broilers-by-sex",
+        "local-breeds-give-no-milk",
+        "milch-means-cow",
+        "milch-means-exotic"
+      ]
+    },
+    {
+      "id": "ch12-u6-read-1",
+      "type": "explainer",
+      "section": "s.u6",
+      "title": "a.ch12-u6-read-1.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 72,
+        "section": "12.2.3"
+      },
+      "config": {
+        "text": "ch12.u6.fish"
+      }
+    },
+    {
+      "id": "ch12-u6-sort-2",
+      "type": "sortBins",
+      "section": "s.u6",
+      "title": "a.ch12-u6-sort-2.title",
+      "blurb": "a.ch12-u6-sort-2.blurb",
+      "minutes": 8,
+      "sourceRef": {
+        "page": 73,
+        "section": "12.2.3"
+      },
+      "config": {
+        "bins": [
+          "ch12.u6.sort.bin.0",
+          "ch12.u6.sort.bin.1",
+          "ch12.u6.sort.bin.2",
+          "ch12.u6.sort.bin.3"
+        ],
+        "items": [
+          {
+            "label": "ch12.u6.sort.i0.label",
+            "bin": "ch12.u6.sort.bin.0",
+            "why": "ch12.u6.sort.i0.why"
+          },
+          {
+            "label": "ch12.u6.sort.i1.label",
+            "bin": "ch12.u6.sort.bin.1",
+            "why": "ch12.u6.sort.i1.why"
+          },
+          {
+            "label": "ch12.u6.sort.i2.label",
+            "bin": "ch12.u6.sort.bin.2",
+            "why": "ch12.u6.sort.i2.why"
+          },
+          {
+            "label": "ch12.u6.sort.i3.label",
+            "bin": "ch12.u6.sort.bin.2",
+            "why": "ch12.u6.sort.i3.why"
+          },
+          {
+            "label": "ch12.u6.sort.i4.label",
+            "bin": "ch12.u6.sort.bin.3",
+            "why": "ch12.u6.sort.i4.why",
+            "tricky": true
+          },
+          {
+            "label": "ch12.u6.sort.i5.label",
+            "bin": "ch12.u6.sort.bin.0",
+            "why": "ch12.u6.sort.i5.why",
+            "tricky": true
+          }
+        ]
+      },
+      "followUps": [
+        {
+          "question": "ask.ch12-u6-sort-2.seed.q",
+          "answer": "ask.ch12-u6-sort-2.seed.a"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u6-read-3",
+      "type": "explainer",
+      "section": "s.u6",
+      "title": "a.ch12-u6-read-3.title",
+      "minutes": 5,
+      "sourceRef": {
+        "page": 74,
+        "section": "12.2.4"
+      },
+      "config": {
+        "text": "ch12.u6.bees"
+      }
+    },
+    {
+      "id": "ch12-u6-quiz-4",
+      "type": "quiz",
+      "section": "s.u6",
+      "title": "a.ch12-u6-quiz-4.title",
+      "minutes": 6,
+      "sourceRef": {
+        "page": 75
+      },
+      "config": {
+        "questions": [
+          {
+            "prompt": "ch12.u6.quiz.q0.prompt",
+            "options": [
+              {
+                "text": "ch12.u6.quiz.q0.o0",
+                "correct": true,
+                "feedback": "ch12.u6.quiz.q0.f0"
+              },
+              {
+                "text": "ch12.u6.quiz.q0.o1",
+                "correct": false,
+                "feedback": "ch12.u6.quiz.q0.f1",
+                "misconception": "capture-means-marine"
+              },
+              {
+                "text": "ch12.u6.quiz.q0.o2",
+                "correct": false,
+                "feedback": "ch12.u6.quiz.q0.f2",
+                "misconception": "capture-is-about-equipment"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u6.quiz.q1.prompt",
+            "options": [
+              {
+                "text": "ch12.u6.quiz.q1.o0",
+                "correct": true,
+                "feedback": "ch12.u6.quiz.q1.f0"
+              },
+              {
+                "text": "ch12.u6.quiz.q1.o1",
+                "correct": false,
+                "feedback": "ch12.u6.quiz.q1.f1",
+                "misconception": "composite-is-for-breeding"
+              },
+              {
+                "text": "ch12.u6.quiz.q1.o2",
+                "correct": false,
+                "feedback": "ch12.u6.quiz.q1.f2",
+                "misconception": "composite-is-for-market"
+              }
+            ]
+          },
+          {
+            "prompt": "ch12.u6.quiz.q2.prompt",
+            "options": [
+              {
+                "text": "ch12.u6.quiz.q2.o0",
+                "correct": true,
+                "feedback": "ch12.u6.quiz.q2.f0"
+              },
+              {
+                "text": "ch12.u6.quiz.q2.o1",
+                "correct": false,
+                "feedback": "ch12.u6.quiz.q2.f1",
+                "misconception": "pasturage-is-the-apiary"
+              },
+              {
+                "text": "ch12.u6.quiz.q2.o2",
+                "correct": false,
+                "feedback": "ch12.u6.quiz.q2.f2",
+                "misconception": "pasturage-is-supplied-feed"
+              }
+            ]
+          }
+        ]
+      },
+      "breaks": [
+        "capture-is-about-equipment",
+        "capture-means-marine",
+        "composite-is-for-breeding",
+        "composite-is-for-market",
+        "pasturage-is-supplied-feed",
+        "pasturage-is-the-apiary"
+      ]
+    },
+    {
+      "id": "ch12-u1-challenge-4",
+      "type": "challenge",
+      "section": "s.u1",
+      "title": "a.ch12-u1-challenge-4.title",
+      "blurb": "a.ch12-u1-challenge-4.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 69,
+        "section": "12.1.3"
+      },
+      "config": {
+        "mode": "build",
+        "goal": "chal.ch12-u1-challenge-4.goal",
+        "target": 32,
+        "unitLabel": "chal.ch12-u1-challenge-4.unit",
+        "lowerIsBetter": false,
+        "start": 20,
+        "justify": true,
+        "options": [
+          {
+            "id": "variety",
+            "label": "chal.ch12-u1-challenge-4.variety.label",
+            "effect": 5,
+            "because": "chal.ch12-u1-challenge-4.variety.because",
+            "wrongBecause": "chal.ch12-u1-challenge-4.variety.wrong"
+          },
+          {
+            "id": "fertiliser",
+            "label": "chal.ch12-u1-challenge-4.fertiliser.label",
+            "effect": 4,
+            "because": "chal.ch12-u1-challenge-4.fertiliser.because",
+            "wrongBecause": "chal.ch12-u1-challenge-4.fertiliser.wrong"
+          },
+          {
+            "id": "manure",
+            "label": "chal.ch12-u1-challenge-4.manure.label",
+            "effect": 3,
+            "because": "chal.ch12-u1-challenge-4.manure.because",
+            "wrongBecause": "chal.ch12-u1-challenge-4.manure.wrong"
+          },
+          {
+            "id": "irrigation",
+            "label": "chal.ch12-u1-challenge-4.irrigation.label",
+            "effect": 4,
+            "because": "chal.ch12-u1-challenge-4.irrigation.because",
+            "wrongBecause": "chal.ch12-u1-challenge-4.irrigation.wrong"
+          },
+          {
+            "id": "weeding",
+            "label": "chal.ch12-u1-challenge-4.weeding.label",
+            "effect": 3,
+            "because": "chal.ch12-u1-challenge-4.weeding.because",
+            "wrongBecause": "chal.ch12-u1-challenge-4.weeding.wrong"
+          },
+          {
+            "id": "overdose",
+            "label": "chal.ch12-u1-challenge-4.overdose.label",
+            "effect": -2,
+            "because": "chal.ch12-u1-challenge-4.overdose.because",
+            "wrongBecause": "chal.ch12-u1-challenge-4.overdose.wrong"
+          }
+        ],
+        "debrief": "ch12.u1.challenge.debrief"
+      }
+    },
+    {
+      "id": "ch12-u4-do-6",
+      "type": "experiment",
+      "section": "s.u4",
+      "title": "a.ch12-u4-do-6.title",
+      "blurb": "a.ch12-u4-do-6.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 70,
+        "section": "12.1.3",
+        "label": "Activity 12.1"
+      },
+      "config": {
+        "equipment": [
+          "a notebook and pencil",
+          "a nearby field, garden or allotment",
+          "permission from whoever farms it",
+          "a phone camera, if one is available"
+        ],
+        "steps": "ch12.u4.do.steps",
+        "watchFor": "ch12.u4.do.watch",
+        "supervision": true,
+        "printable": true
+      }
+    },
+    {
+      "id": "ch12-u6-do-4",
+      "type": "experiment",
+      "section": "s.u6",
+      "title": "a.ch12-u6-do-4.title",
+      "blurb": "a.ch12-u6-do-4.blurb",
+      "minutes": 12,
+      "sourceRef": {
+        "page": 74,
+        "section": "12.2.4",
+        "label": "Activity 12.5"
+      },
+      "config": {
+        "equipment": [
+          "a notebook",
+          "a farm within reach, or somebody who runs one",
+          "a prepared list of questions",
+          "permission, arranged in advance"
+        ],
+        "steps": "ch12.u4.visit.steps",
+        "watchFor": "ch12.u4.visit.watch",
+        "supervision": true,
+        "printable": true
+      }
+    }
+  ],
+  "paths": [
+    {
+      "id": "guided",
+      "title": "path.guided.title",
+      "blurb": "path.guided.blurb",
+      "artifacts": [
+        "ch12-u1-read-1",
+        "ch12-u1-sort-2",
+        "ch12-u1-quiz-3",
+        "ch12-u2-read-1",
+        "ch12-u2-sort-2",
+        "ch12-u2-tree-3",
+        "ch12-u2-quiz-4",
+        "ch12-u3-read-1",
+        "ch12-u3-sort-2",
+        "ch12-u3-sort-3",
+        "ch12-u3-read-4",
+        "ch12-u3-quiz-5",
+        "ch12-u4-read-1",
+        "ch12-u4-sort-2",
+        "ch12-u4-read-3",
+        "ch12-u4-sort-4",
+        "ch12-u4-quiz-5",
+        "ch12-u5-read-1",
+        "ch12-u5-sort-2",
+        "ch12-u5-read-3",
+        "ch12-u5-quiz-4",
+        "ch12-u6-read-1",
+        "ch12-u6-sort-2",
+        "ch12-u6-read-3",
+        "ch12-u6-quiz-4",
+        "ch12-u1-challenge-4",
+        "ch12-u4-do-6",
+        "ch12-u6-do-4"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "id": "hybridisation",
+      "definition": "gloss.hybridisation",
+      "seeAlso": [
+        "variety",
+        "genetic-modification"
+      ]
+    },
+    {
+      "id": "variety",
+      "definition": "gloss.variety",
+      "seeAlso": [
+        "hybridisation"
+      ]
+    },
+    {
+      "id": "genetic-modification",
+      "definition": "gloss.genetic-modification",
+      "seeAlso": [
+        "hybridisation"
+      ]
+    },
+    {
+      "id": "biotic-stress",
+      "definition": "gloss.biotic-stress",
+      "seeAlso": [
+        "abiotic-stress"
+      ]
+    },
+    {
+      "id": "abiotic-stress",
+      "definition": "gloss.abiotic-stress",
+      "seeAlso": [
+        "biotic-stress"
+      ]
+    },
+    {
+      "id": "macro-nutrient",
+      "definition": "gloss.macro-nutrient",
+      "seeAlso": [
+        "micro-nutrient",
+        "manure",
+        "fertiliser"
+      ]
+    },
+    {
+      "id": "micro-nutrient",
+      "definition": "gloss.micro-nutrient",
+      "seeAlso": [
+        "macro-nutrient"
+      ]
+    },
+    {
+      "id": "manure",
+      "definition": "gloss.manure",
+      "seeAlso": [
+        "fertiliser",
+        "macro-nutrient",
+        "organic-farming"
+      ]
+    },
+    {
+      "id": "fertiliser",
+      "definition": "gloss.fertiliser",
+      "seeAlso": [
+        "manure",
+        "macro-nutrient"
+      ]
+    },
+    {
+      "id": "organic-farming",
+      "definition": "gloss.organic-farming",
+      "seeAlso": [
+        "manure",
+        "crop-rotation"
+      ]
+    },
+    {
+      "id": "irrigation",
+      "definition": "gloss.irrigation",
+      "seeAlso": [
+        "manure"
+      ]
+    },
+    {
+      "id": "mixed-cropping",
+      "definition": "gloss.mixed-cropping",
+      "seeAlso": [
+        "inter-cropping",
+        "crop-rotation",
+        "mixed-farming"
+      ]
+    },
+    {
+      "id": "inter-cropping",
+      "definition": "gloss.inter-cropping",
+      "seeAlso": [
+        "mixed-cropping",
+        "crop-rotation"
+      ]
+    },
+    {
+      "id": "crop-rotation",
+      "definition": "gloss.crop-rotation",
+      "seeAlso": [
+        "mixed-cropping",
+        "inter-cropping"
+      ]
+    },
+    {
+      "id": "mixed-farming",
+      "definition": "gloss.mixed-farming",
+      "seeAlso": [
+        "mixed-cropping",
+        "animal-husbandry"
+      ]
+    },
+    {
+      "id": "animal-husbandry",
+      "definition": "gloss.animal-husbandry",
+      "seeAlso": [
+        "milch-animal",
+        "poultry-farming",
+        "mixed-farming"
+      ]
+    },
+    {
+      "id": "milch-animal",
+      "definition": "gloss.milch-animal",
+      "seeAlso": [
+        "lactation-period",
+        "animal-husbandry"
+      ]
+    },
+    {
+      "id": "lactation-period",
+      "definition": "gloss.lactation-period",
+      "seeAlso": [
+        "milch-animal"
+      ]
+    },
+    {
+      "id": "poultry-farming",
+      "definition": "gloss.poultry-farming",
+      "seeAlso": [
+        "animal-husbandry"
+      ]
+    },
+    {
+      "id": "capture-fishing",
+      "definition": "gloss.capture-fishing",
+      "seeAlso": [
+        "mariculture",
+        "aquaculture",
+        "composite-fish-culture"
+      ]
+    },
+    {
+      "id": "mariculture",
+      "definition": "gloss.mariculture",
+      "seeAlso": [
+        "capture-fishing",
+        "aquaculture"
+      ]
+    },
+    {
+      "id": "aquaculture",
+      "definition": "gloss.aquaculture",
+      "seeAlso": [
+        "capture-fishing",
+        "composite-fish-culture"
+      ]
+    },
+    {
+      "id": "composite-fish-culture",
+      "definition": "gloss.composite-fish-culture",
+      "seeAlso": [
+        "aquaculture"
+      ]
+    },
+    {
+      "id": "apiary",
+      "definition": "gloss.apiary",
+      "seeAlso": [
+        "pasturage"
+      ]
+    },
+    {
+      "id": "pasturage",
+      "definition": "gloss.pasturage",
+      "seeAlso": [
+        "apiary"
+      ]
+    }
+  ]
+}

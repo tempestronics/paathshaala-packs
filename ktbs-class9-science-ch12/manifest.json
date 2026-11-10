@@ -1,0 +1,40 @@
+{
+  "format": "paath/1",
+  "id": "ktbs.class9.science.ch12",
+  "version": "1.0.0",
+  "title": "Improvement in Food Resources",
+  "blurb": "A billion people, no new land, and every decision a farmer makes about seed, soil, water and livestock.",
+  "subject": "Science",
+  "level": "Class 9",
+  "source": "Karnataka Textbook Society, 2026-27, Part 2",
+  "textbook": {
+    "title": "Class 9 Science Part 2",
+    "chapter": 12,
+    "firstPage": 64,
+    "lastPage": 75,
+    "publisher": "Karnataka Textbook Society",
+    "edition": "2026-27"
+  },
+  "author": {
+    "name": "Paathshaala",
+    "url": "https://paathshaala.org"
+  },
+  "licence": "CC-BY-4.0",
+  "languages": [
+    "en",
+    "kn"
+  ],
+  "defaultLanguage": "en",
+  "estimatedMinutes": 202,
+  "requires": {
+    "minPlayer": 1,
+    "artifactTypes": [
+      "challenge",
+      "classifyTree",
+      "experiment",
+      "explainer",
+      "quiz",
+      "sortBins"
+    ]
+  }
+}
