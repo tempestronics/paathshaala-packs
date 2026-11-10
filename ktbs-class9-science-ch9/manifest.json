@@ -1,0 +1,41 @@
+{
+  "format": "paath/1",
+  "id": "ktbs.class9.science.ch9",
+  "version": "1.0.0",
+  "title": "Gravitation",
+  "blurb": "The same pull holds you to the floor and the moon in the sky, and a stone and a feather fall at the same rate.",
+  "subject": "Science",
+  "level": "Class 9",
+  "source": "Karnataka Textbook Society, 2026-27, Part 2",
+  "textbook": {
+    "title": "Class 9 Science Part 2",
+    "chapter": 9,
+    "firstPage": 24,
+    "lastPage": 36,
+    "publisher": "Karnataka Textbook Society",
+    "edition": "2026-27"
+  },
+  "author": {
+    "name": "Paathshaala",
+    "url": "https://paathshaala.org"
+  },
+  "licence": "CC-BY-4.0",
+  "languages": [
+    "en",
+    "kn"
+  ],
+  "defaultLanguage": "en",
+  "estimatedMinutes": 203,
+  "requires": {
+    "minPlayer": 1,
+    "artifactTypes": [
+      "calculate",
+      "drawAlong",
+      "experiment",
+      "explainer",
+      "motionLab",
+      "quiz",
+      "sortBins"
+    ]
+  }
+}
