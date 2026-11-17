@@ -5,7 +5,7 @@
     {
       "id": "ktbs.class9.science.ch1",
       "dir": "ktbs-class9-science-ch1",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "Matter in Our Surroundings",
       "blurb": "If you keep cutting something in half, what do you end up with?",
@@ -13,7 +13,8 @@
       "level": "Class 9",
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
       "estimatedMinutes": 377,
       "requires": {
@@ -36,8 +37,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 115169,
-      "textSizeBytes": 115169
+      "sizeBytes": 373935,
+      "textSizeBytes": 373935
     },
     {
       "id": "ktbs.class9.science.ch10",
@@ -66,8 +67,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 110305,
-      "textSizeBytes": 110305
+      "sizeBytes": 241016,
+      "textSizeBytes": 241016
     },
     {
       "id": "ktbs.class9.science.ch11",
@@ -95,8 +96,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 112818,
-      "textSizeBytes": 112818
+      "sizeBytes": 251320,
+      "textSizeBytes": 251320
     },
     {
       "id": "ktbs.class9.science.ch12",
@@ -124,8 +125,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 127689,
-      "textSizeBytes": 127689
+      "sizeBytes": 296876,
+      "textSizeBytes": 296876
     },
     {
       "id": "ktbs.class9.science.ch2",
@@ -157,8 +158,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 141714,
-      "textSizeBytes": 141714
+      "sizeBytes": 289515,
+      "textSizeBytes": 289515
     },
     {
       "id": "ktbs.class9.science.ch3",
@@ -189,8 +190,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 78150,
-      "textSizeBytes": 78150
+      "sizeBytes": 158068,
+      "textSizeBytes": 158068
     },
     {
       "id": "ktbs.class9.science.ch4",
@@ -221,8 +222,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 103905,
-      "textSizeBytes": 103905
+      "sizeBytes": 220583,
+      "textSizeBytes": 220583
     },
     {
       "id": "ktbs.class9.science.ch5",
@@ -278,8 +279,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 104553,
-      "textSizeBytes": 104553
+      "sizeBytes": 219259,
+      "textSizeBytes": 219259
     },
     {
       "id": "ktbs.class9.science.ch7",
@@ -310,8 +311,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 160880,
-      "textSizeBytes": 160880
+      "sizeBytes": 331746,
+      "textSizeBytes": 331746
     },
     {
       "id": "ktbs.class9.science.ch8",
@@ -341,8 +342,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 117896,
-      "textSizeBytes": 117896
+      "sizeBytes": 259538,
+      "textSizeBytes": 259538
     },
     {
       "id": "ktbs.class9.science.ch9",
@@ -371,8 +372,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 120717,
-      "textSizeBytes": 120717
+      "sizeBytes": 265867,
+      "textSizeBytes": 265867
     }
   ]
 }
