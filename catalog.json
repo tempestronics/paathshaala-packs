@@ -5,7 +5,7 @@
     {
       "id": "ktbs.class9.science.ch1",
       "dir": "ktbs-class9-science-ch1",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "format": "paath/1",
       "title": "Matter in Our Surroundings",
       "blurb": "If you keep cutting something in half, what do you end up with?",
@@ -14,7 +14,8 @@
       "languages": [
         "en",
         "kn",
-        "hi"
+        "hi",
+        "ta"
       ],
       "estimatedMinutes": 377,
       "requires": {
@@ -37,8 +38,8 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 373935,
-      "textSizeBytes": 373935
+      "sizeBytes": 529320,
+      "textSizeBytes": 529320
     },
     {
       "id": "ktbs.class9.science.ch10",
