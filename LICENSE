@@ -1,0 +1,42 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) Tempestronics and the Paathshaala contributors.
+
+Every learning pack in this repository is licensed under the Creative Commons
+Attribution 4.0 International Licence.
+
+You are free to:
+
+  Share    copy and redistribute the material in any medium or format
+  Adapt    remix, transform, and build upon the material
+
+for any purpose, including commercially.
+
+Under one condition:
+
+  Attribution   You must give appropriate credit, provide a link to the
+                licence, and indicate if changes were made. You may do so in
+                any reasonable manner, but not in any way that suggests
+                Tempestronics endorses you or your use.
+
+The full licence text is at:
+
+    https://creativecommons.org/licenses/by/4.0/legalcode
+
+Plain language, because the point of this repository is that nobody should
+have to ask: translate these chapters, print them, correct them, put them in
+a book, teach a paid class from them. Say where they came from.
+
+
+A NOTE ON WHAT IS AND IS NOT HERE
+
+This repository holds content. The Paathshaala player that reads it, the
+website that lists it and the editor that writes it are separate and are not
+open source. That asymmetry is deliberate: the part that must stay reusable
+forever is the part that teaches.
+
+Each pack also declares its own licence in its manifest.json. Where a pack
+declares something other than CC-BY-4.0, that declaration governs that pack.
+
+Third-party material inside a pack carries its own licence, recorded beside
+the pack and credited on the screen it appears on.
