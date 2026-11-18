@@ -1,7 +1,7 @@
 {
   "format": "paath/1",
   "id": "ktbs.class9.science.ch2",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "Is Matter Around Us Pure?",
   "blurb": "Is anything around you actually just one thing?",
   "subject": "Science",
@@ -22,7 +22,8 @@
   "licence": "CC-BY-4.0",
   "languages": [
     "en",
-    "kn"
+    "kn",
+    "hi"
   ],
   "defaultLanguage": "en",
   "estimatedMinutes": 265,

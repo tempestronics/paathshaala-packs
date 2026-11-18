@@ -11,12 +11,14 @@
       "blurb": "If you keep cutting something in half, what do you end up with?",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 1,
       "languages": [
         "en",
         "kn",
         "hi",
         "ta"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 377,
       "requires": {
         "minPlayer": 1,
@@ -39,21 +41,30 @@
       },
       "audio": null,
       "sizeBytes": 529320,
-      "textSizeBytes": 529320
+      "textSizeBytes": 529320,
+      "stringsBytes": {
+        "en": 61863,
+        "kn": 136714,
+        "hi": 122045,
+        "ta": 155375
+      }
     },
     {
       "id": "ktbs.class9.science.ch10",
       "dir": "ktbs-class9-science-ch10",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "Work and Energy",
       "blurb": "Holding a heavy load still is not work, and a bar that never changes length is the whole of conservation.",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 10,
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 176,
       "requires": {
         "minPlayer": 1,
@@ -68,22 +79,30 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 241016,
-      "textSizeBytes": 241016
+      "sizeBytes": 355788,
+      "textSizeBytes": 355788,
+      "stringsBytes": {
+        "en": 60547,
+        "kn": 130714,
+        "hi": 114762
+      }
     },
     {
       "id": "ktbs.class9.science.ch11",
       "dir": "ktbs-class9-science-ch11",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "Sound",
       "blurb": "The air carries it and does not travel with it, and the curve in the book is a graph rather than a picture.",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 11,
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 177,
       "requires": {
         "minPlayer": 1,
@@ -97,22 +116,30 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 251320,
-      "textSizeBytes": 251320
+      "sizeBytes": 375110,
+      "textSizeBytes": 375110,
+      "stringsBytes": {
+        "en": 62457,
+        "kn": 138505,
+        "hi": 123780
+      }
     },
     {
       "id": "ktbs.class9.science.ch12",
       "dir": "ktbs-class9-science-ch12",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "Improvement in Food Resources",
       "blurb": "A billion people, no new land, and every decision a farmer makes about seed, soil, water and livestock.",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 12,
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 202,
       "requires": {
         "minPlayer": 1,
@@ -126,22 +153,30 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 296876,
-      "textSizeBytes": 296876
+      "sizeBytes": 447770,
+      "textSizeBytes": 447770,
+      "stringsBytes": {
+        "en": 73175,
+        "kn": 169190,
+        "hi": 150884
+      }
     },
     {
       "id": "ktbs.class9.science.ch2",
       "dir": "ktbs-class9-science-ch2",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "Is Matter Around Us Pure?",
       "blurb": "Is anything around you actually just one thing?",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 2,
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 265,
       "requires": {
         "minPlayer": 1,
@@ -159,22 +194,30 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 289515,
-      "textSizeBytes": 289515
+      "sizeBytes": 424105,
+      "textSizeBytes": 424105,
+      "stringsBytes": {
+        "en": 69600,
+        "kn": 147804,
+        "hi": 134580
+      }
     },
     {
       "id": "ktbs.class9.science.ch3",
       "dir": "ktbs-class9-science-ch3",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "Atoms and Molecules",
       "blurb": "What is one of those particles, exactly?",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 3,
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 149,
       "requires": {
         "minPlayer": 1,
@@ -191,22 +234,30 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 158068,
-      "textSizeBytes": 158068
+      "sizeBytes": 229853,
+      "textSizeBytes": 229853,
+      "stringsBytes": {
+        "en": 36972,
+        "kn": 79921,
+        "hi": 71775
+      }
     },
     {
       "id": "ktbs.class9.science.ch4",
       "dir": "ktbs-class9-science-ch4",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "Structure of the Atom",
       "blurb": "Dalton said the atom could not be divided. Here is what is inside it.",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 4,
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 183,
       "requires": {
         "minPlayer": 1,
@@ -223,22 +274,30 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 220583,
-      "textSizeBytes": 220583
+      "sizeBytes": 322888,
+      "textSizeBytes": 322888,
+      "stringsBytes": {
+        "en": 50824,
+        "kn": 116681,
+        "hi": 102295
+      }
     },
     {
       "id": "ktbs.class9.science.ch5",
       "dir": "ktbs-class9-science-ch5",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "The Fundamental Unit of Life",
       "blurb": "Everything alive is built from the same kind of box. Draw one, part by part.",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 5,
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 87,
       "requires": {
         "minPlayer": 1,
@@ -251,22 +310,30 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 197419,
-      "textSizeBytes": 197419
+      "sizeBytes": 263810,
+      "textSizeBytes": 263810,
+      "stringsBytes": {
+        "en": 31605,
+        "kn": 72031,
+        "hi": 66381
+      }
     },
     {
       "id": "ktbs.class9.science.ch6",
       "dir": "ktbs-class9-science-ch6",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "Tissues",
       "blurb": "Why a body bothers to have different kinds of cell at all.",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 6,
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 186,
       "requires": {
         "minPlayer": 1,
@@ -280,22 +347,30 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 219259,
-      "textSizeBytes": 219259
+      "sizeBytes": 323219,
+      "textSizeBytes": 323219,
+      "stringsBytes": {
+        "en": 51138,
+        "kn": 114709,
+        "hi": 103950
+      }
     },
     {
       "id": "ktbs.class9.science.ch7",
       "dir": "ktbs-class9-science-ch7",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "Motion",
       "blurb": "Two graphs, three equations, and the difference between how far you went and how far you got.",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 7,
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 235,
       "requires": {
         "minPlayer": 1,
@@ -312,22 +387,30 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 331746,
-      "textSizeBytes": 331746
+      "sizeBytes": 485442,
+      "textSizeBytes": 485442,
+      "stringsBytes": {
+        "en": 82844,
+        "kn": 170869,
+        "hi": 153686
+      }
     },
     {
       "id": "ktbs.class9.science.ch8",
       "dir": "ktbs-class9-science-ch8",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "Force and Laws of Motion",
       "blurb": "Nothing needs a push to keep going. Working out what that leaves took two thousand years.",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 8,
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 197,
       "requires": {
         "minPlayer": 1,
@@ -343,22 +426,30 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 259538,
-      "textSizeBytes": 259538
+      "sizeBytes": 383071,
+      "textSizeBytes": 383071,
+      "stringsBytes": {
+        "en": 62973,
+        "kn": 141645,
+        "hi": 123523
+      }
     },
     {
       "id": "ktbs.class9.science.ch9",
       "dir": "ktbs-class9-science-ch9",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "format": "paath/1",
       "title": "Gravitation",
       "blurb": "The same pull holds you to the floor and the moon in the sky, and a stone and a feather fall at the same rate.",
       "subject": "Science",
       "level": "Class 9",
+      "chapter": 9,
       "languages": [
         "en",
-        "kn"
+        "kn",
+        "hi"
       ],
+      "defaultLanguage": "en",
       "estimatedMinutes": 203,
       "requires": {
         "minPlayer": 1,
@@ -373,8 +464,13 @@
         ]
       },
       "audio": null,
-      "sizeBytes": 265867,
-      "textSizeBytes": 265867
+      "sizeBytes": 394375,
+      "textSizeBytes": 394375,
+      "stringsBytes": {
+        "en": 65487,
+        "kn": 145153,
+        "hi": 128498
+      }
     }
   ]
 }

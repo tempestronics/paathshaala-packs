@@ -1,7 +1,7 @@
 {
   "format": "paath/1",
   "id": "ktbs.class9.science.ch6",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "Tissues",
   "blurb": "Why a body bothers to have different kinds of cell at all.",
   "subject": "Science",
@@ -22,7 +22,8 @@
   "licence": "CC-BY-4.0",
   "languages": [
     "en",
-    "kn"
+    "kn",
+    "hi"
   ],
   "defaultLanguage": "en",
   "estimatedMinutes": 186,

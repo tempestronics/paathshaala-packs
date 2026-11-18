@@ -1,7 +1,7 @@
 {
   "format": "paath/1",
   "id": "ktbs.class9.science.ch4",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "Structure of the Atom",
   "blurb": "Dalton said the atom could not be divided. Here is what is inside it.",
   "subject": "Science",
@@ -22,7 +22,8 @@
   "licence": "CC-BY-4.0",
   "languages": [
     "en",
-    "kn"
+    "kn",
+    "hi"
   ],
   "defaultLanguage": "en",
   "estimatedMinutes": 183,

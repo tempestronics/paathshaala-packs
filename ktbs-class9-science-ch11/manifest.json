@@ -1,7 +1,7 @@
 {
   "format": "paath/1",
   "id": "ktbs.class9.science.ch11",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "Sound",
   "blurb": "The air carries it and does not travel with it, and the curve in the book is a graph rather than a picture.",
   "subject": "Science",
@@ -22,7 +22,8 @@
   "licence": "CC-BY-4.0",
   "languages": [
     "en",
-    "kn"
+    "kn",
+    "hi"
   ],
   "defaultLanguage": "en",
   "estimatedMinutes": 177,

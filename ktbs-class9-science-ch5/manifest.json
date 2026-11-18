@@ -1,7 +1,7 @@
 {
   "format": "paath/1",
   "id": "ktbs.class9.science.ch5",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "The Fundamental Unit of Life",
   "blurb": "Everything alive is built from the same kind of box. Draw one, part by part.",
   "subject": "Science",
@@ -22,7 +22,8 @@
   "licence": "CC-BY-4.0",
   "languages": [
     "en",
-    "kn"
+    "kn",
+    "hi"
   ],
   "defaultLanguage": "en",
   "estimatedMinutes": 87,

@@ -1,7 +1,7 @@
 {
   "format": "paath/1",
   "id": "ktbs.class9.science.ch9",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "Gravitation",
   "blurb": "The same pull holds you to the floor and the moon in the sky, and a stone and a feather fall at the same rate.",
   "subject": "Science",
@@ -22,7 +22,8 @@
   "licence": "CC-BY-4.0",
   "languages": [
     "en",
-    "kn"
+    "kn",
+    "hi"
   ],
   "defaultLanguage": "en",
   "estimatedMinutes": 203,

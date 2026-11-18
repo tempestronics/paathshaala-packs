@@ -1,7 +1,7 @@
 {
   "format": "paath/1",
   "id": "ktbs.class9.science.ch7",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "Motion",
   "blurb": "Two graphs, three equations, and the difference between how far you went and how far you got.",
   "subject": "Science",
@@ -22,7 +22,8 @@
   "licence": "CC-BY-4.0",
   "languages": [
     "en",
-    "kn"
+    "kn",
+    "hi"
   ],
   "defaultLanguage": "en",
   "estimatedMinutes": 235,
