@@ -428,6 +428,15 @@
       "title": "a.ch3-u1-ratiomixer-3.title",
       "blurb": "a.ch3-u1-ratiomixer-3.blurb",
       "minutes": 12,
+      "config": {
+        "elementA": "ch3.u1.ratio.a",
+        "elementB": "ch3.u1.ratio.b",
+        "product": "ch3.u1.ratio.product",
+        "gramsA": 3.0,
+        "gramsB": 8.0,
+        "maxGrams": 20.0,
+        "closing": "ch3.u1.ratio.closing"
+      },
       "sourceRef": {
         "page": 2,
         "section": "3.1.2"
